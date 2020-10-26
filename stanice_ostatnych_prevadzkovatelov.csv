@@ -6487,3 +6487,195 @@ Datum,Stanica,PM10,PM2.5,O3,SO2,CO,NO2,NOx,Benzén,TRS,H2S
 2020-10-25 08:04:02.492509,Lisková,x,x,x,x,x,x,x,x,2,x
 2020-10-25 08:04:02.492509,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
 2020-10-25 08:04:02.492509,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,10,4
+2020-10-25 09:04:02.106206,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 09:04:02.106206,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 09:04:02.106206,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 09:04:02.106206,Ružomberok Tatranská cesta,22,x,x,2,x,*,1,x,2,x
+2020-10-25 09:04:02.106206,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 09:04:02.106206,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 09:04:02.106206,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 09:04:02.106206,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,10,4
+2020-10-25 10:04:01.929899,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 10:04:01.929899,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 10:04:01.929899,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 10:04:01.929899,Ružomberok Tatranská cesta,27,x,x,3,x,*,0,x,2,x
+2020-10-25 10:04:01.929899,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2020-10-25 10:04:01.929899,Lisková,x,x,x,x,x,x,x,x,3,x
+2020-10-25 10:04:01.929899,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 10:04:01.929899,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,11,4
+2020-10-25 11:04:02.219361,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 11:04:02.219361,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 11:04:02.219361,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 11:04:02.219361,Ružomberok Tatranská cesta,27,x,x,3,x,0,1,x,1,x
+2020-10-25 11:04:02.219361,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2020-10-25 11:04:02.219361,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 11:04:02.219361,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 11:04:02.219361,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,11,4
+2020-10-25 12:04:01.866996,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 12:04:01.866996,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 12:04:01.866996,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 12:04:01.866996,Ružomberok Tatranská cesta,26,x,x,3,x,0,0,x,1,x
+2020-10-25 12:04:01.866996,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 12:04:01.866996,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 12:04:01.866996,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 12:04:01.866996,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,13,4
+2020-10-25 13:04:01.792628,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 13:04:01.792628,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 13:04:01.792628,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 13:04:01.792628,Ružomberok Tatranská cesta,31,x,x,3,x,0,0,x,1,x
+2020-10-25 13:04:01.792628,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 13:04:01.792628,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 13:04:01.792628,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 13:04:01.792628,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,13,*
+2020-10-25 14:04:02.344319,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 14:04:02.344319,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 14:04:02.344319,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 14:04:02.344319,Ružomberok Tatranská cesta,21,x,x,*,x,0,0,x,*,x
+2020-10-25 14:04:02.344319,Ružomberok Černová,x,x,x,x,x,x,x,x,*,x
+2020-10-25 14:04:02.344319,Lisková,x,x,x,x,x,x,x,x,*,x
+2020-10-25 14:04:02.344319,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,*,x
+2020-10-25 14:04:02.344319,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,*,3
+2020-10-25 15:04:02.389082,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 15:04:02.389082,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 15:04:02.389082,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 15:04:02.389082,Ružomberok Tatranská cesta,28,x,x,4,x,0,1,x,1,x
+2020-10-25 15:04:02.389082,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 15:04:02.389082,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 15:04:02.389082,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-25 15:04:02.389082,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,13,2
+2020-10-25 16:04:01.840735,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 16:04:01.840735,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 16:04:01.840735,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 16:04:01.840735,Ružomberok Tatranská cesta,23,x,x,4,x,0,0,x,1,x
+2020-10-25 16:04:01.840735,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 16:04:01.840735,Lisková,x,x,x,x,x,x,x,x,*,x
+2020-10-25 16:04:01.840735,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-25 16:04:01.840735,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,13,2
+2020-10-25 17:04:02.345157,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 17:04:02.345157,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 17:04:02.345157,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 17:04:02.345157,Ružomberok Tatranská cesta,21,x,x,3,x,0,0,x,1,x
+2020-10-25 17:04:02.345157,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 17:04:02.345157,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 17:04:02.345157,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-25 17:04:02.345157,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,2
+2020-10-25 18:04:01.610512,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 18:04:01.610512,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 18:04:01.610512,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 18:04:01.610512,Ružomberok Tatranská cesta,17,x,x,3,x,0,0,x,1,x
+2020-10-25 18:04:01.610512,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 18:04:01.610512,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 18:04:01.610512,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 18:04:01.610512,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,2
+2020-10-25 19:04:01.916901,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 19:04:01.916901,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 19:04:01.916901,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 19:04:01.916901,Ružomberok Tatranská cesta,19,x,x,3,x,*,0,x,1,x
+2020-10-25 19:04:01.916901,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 19:04:01.916901,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 19:04:01.916901,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 19:04:01.916901,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,3
+2020-10-25 20:04:02.296188,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 20:04:02.296188,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 20:04:02.296188,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 20:04:02.296188,Ružomberok Tatranská cesta,17,x,x,3,x,0,1,x,1,x
+2020-10-25 20:04:02.296188,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 20:04:02.296188,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 20:04:02.296188,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 20:04:02.296188,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-25 21:04:02.421147,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 21:04:02.421147,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 21:04:02.421147,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 21:04:02.421147,Ružomberok Tatranská cesta,38,x,x,3,x,0,1,x,1,x
+2020-10-25 21:04:02.421147,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 21:04:02.421147,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 21:04:02.421147,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 21:04:02.421147,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,13,3
+2020-10-25 22:04:01.695103,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 22:04:01.695103,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 22:04:01.695103,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 22:04:01.695103,Ružomberok Tatranská cesta,49,x,x,3,x,0,0,x,1,x
+2020-10-25 22:04:01.695103,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 22:04:01.695103,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-25 22:04:01.695103,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-25 22:04:01.695103,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,3
+2020-10-25 23:04:01.670185,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-25 23:04:01.670185,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-25 23:04:01.670185,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-25 23:04:01.670185,Ružomberok Tatranská cesta,46,x,x,2,x,0,0,x,1,x
+2020-10-25 23:04:01.670185,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-25 23:04:01.670185,Lisková,x,x,x,x,x,x,x,x,3,x
+2020-10-25 23:04:01.670185,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-25 23:04:01.670185,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,5
+2020-10-26 00:04:01.920972,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 00:04:01.920972,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 00:04:01.920972,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 00:04:01.920972,Ružomberok Tatranská cesta,37,x,x,2,x,0,0,x,2,x
+2020-10-26 00:04:01.920972,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 00:04:01.920972,Lisková,x,x,x,x,x,x,x,x,3,x
+2020-10-26 00:04:01.920972,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-26 00:04:01.920972,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 01:04:02.511073,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 01:04:02.511073,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 01:04:02.511073,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 01:04:02.511073,Ružomberok Tatranská cesta,31,x,x,2,x,0,1,x,2,x
+2020-10-26 01:04:02.511073,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 01:04:02.511073,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-26 01:04:02.511073,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-26 01:04:02.511073,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 02:04:02.164693,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 02:04:02.164693,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 02:04:02.164693,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 02:04:02.164693,Ružomberok Tatranská cesta,31,x,x,2,x,0,1,x,2,x
+2020-10-26 02:04:02.164693,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 02:04:02.164693,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-26 02:04:02.164693,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-26 02:04:02.164693,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 03:04:02.068109,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 03:04:02.068109,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 03:04:02.068109,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 03:04:02.068109,Ružomberok Tatranská cesta,48,x,x,1,x,0,0,x,2,x
+2020-10-26 03:04:02.068109,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 03:04:02.068109,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-26 03:04:02.068109,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-26 03:04:02.068109,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 04:04:02.801694,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 04:04:02.801694,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 04:04:02.801694,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 04:04:02.801694,Ružomberok Tatranská cesta,32,x,x,1,x,0,0,x,2,x
+2020-10-26 04:04:02.801694,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 04:04:02.801694,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-26 04:04:02.801694,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2020-10-26 04:04:02.801694,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 05:04:01.840018,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 05:04:01.840018,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 05:04:01.840018,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 05:04:01.840018,Ružomberok Tatranská cesta,33,x,x,1,x,0,0,x,2,x
+2020-10-26 05:04:01.840018,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 05:04:01.840018,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-26 05:04:01.840018,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-26 05:04:01.840018,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 06:04:02.145256,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 06:04:02.145256,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 06:04:02.145256,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 06:04:02.145256,Ružomberok Tatranská cesta,27,x,x,1,x,0,0,x,2,x
+2020-10-26 06:04:02.145256,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 06:04:02.145256,Lisková,x,x,x,x,x,x,x,x,3,x
+2020-10-26 06:04:02.145256,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-26 06:04:02.145256,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 07:04:02.485016,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 07:04:02.485016,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 07:04:02.485016,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 07:04:02.485016,Ružomberok Tatranská cesta,22,x,x,1,x,0,1,x,2,x
+2020-10-26 07:04:02.485016,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 07:04:02.485016,Lisková,x,x,x,x,x,x,x,x,*,x
+2020-10-26 07:04:02.485016,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-26 07:04:02.485016,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,4
+2020-10-26 08:04:02.278439,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2020-10-26 08:04:02.278439,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2020-10-26 08:04:02.278439,Rovinka,*,*,*,*,*,*,*,*,x,x
+2020-10-26 08:04:02.278439,Ružomberok Tatranská cesta,15,x,x,1,x,0,0,x,2,x
+2020-10-26 08:04:02.278439,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2020-10-26 08:04:02.278439,Lisková,x,x,x,x,x,x,x,x,2,x
+2020-10-26 08:04:02.278439,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2020-10-26 08:04:02.278439,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,12,5
