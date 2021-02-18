@@ -28575,3 +28575,195 @@ Datum,Stanica,PM10,PM2.5,O3,SO2,CO,NO2,NOx,Benzén,TRS,H2S
 2021-02-17 09:04:02.508830,Lisková,x,x,x,x,x,x,x,x,3,x
 2021-02-17 09:04:02.508830,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
 2021-02-17 09:04:02.508830,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,2
+2021-02-17 10:04:02.438702,Bratislava Vlčie Hrdlo,28,x,29,2,418,33,44,x,x,PDL
+2021-02-17 10:04:02.438702,Bratislava Pod. Biskupice,43,31,28,2,441,27,41,x,x,x
+2021-02-17 10:04:02.438702,Rovinka,42,36,33,3,371,23,31,1.8,x,x
+2021-02-17 10:04:02.438702,Ružomberok Tatranská cesta,PDL,x,x,2,x,48,70,x,2,x
+2021-02-17 10:04:02.438702,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2021-02-17 10:04:02.438702,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 10:04:02.438702,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 10:04:02.438702,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,2
+2021-02-17 11:04:01.391483,Bratislava Vlčie Hrdlo,28,x,29,3,429,33,50,x,x,PDL
+2021-02-17 11:04:01.391483,Bratislava Pod. Biskupice,43,29,28,3,441,28,48,x,x,x
+2021-02-17 11:04:01.391483,Rovinka,42,31,34,3,383,26,50,1.8,x,x
+2021-02-17 11:04:01.391483,Ružomberok Tatranská cesta,PDL,x,x,2,x,39,54,x,2,x
+2021-02-17 11:04:01.391483,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 11:04:01.391483,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 11:04:01.391483,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 11:04:01.391483,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 12:04:02.529758,Bratislava Vlčie Hrdlo,33,x,35,6,476,35,59,x,x,1
+2021-02-17 12:04:02.529758,Bratislava Pod. Biskupice,37,34,36,3,452,20,36,x,x,x
+2021-02-17 12:04:02.529758,Rovinka,42,37,40,3,371,15,22,1.9,x,x
+2021-02-17 12:04:02.529758,Ružomberok Tatranská cesta,PDL,x,x,3,x,45,68,x,2,x
+2021-02-17 12:04:02.529758,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 12:04:02.529758,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 12:04:02.529758,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 12:04:02.529758,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 13:04:02.125774,Bratislava Vlčie Hrdlo,44,x,44,5,429,34,53,x,x,1
+2021-02-17 13:04:02.125774,Bratislava Pod. Biskupice,40,29,35,4,464,23,41,x,x,x
+2021-02-17 13:04:02.125774,Rovinka,38,36,42,3,371,13,22,1.9,x,x
+2021-02-17 13:04:02.125774,Ružomberok Tatranská cesta,45,x,x,2,x,25,31,x,2,x
+2021-02-17 13:04:02.125774,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 13:04:02.125774,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 13:04:02.125774,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 13:04:02.125774,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 14:04:02.240104,Bratislava Vlčie Hrdlo,42,x,32,7,429,40,75,x,x,1
+2021-02-17 14:04:02.240104,Bratislava Pod. Biskupice,46,32,45,18,499,34,55,x,x,x
+2021-02-17 14:04:02.240104,Rovinka,42,34,43,3,383,14,25,1.8,x,x
+2021-02-17 14:04:02.240104,Ružomberok Tatranská cesta,41,x,x,PDL,x,PDL,PDL,x,*,x
+2021-02-17 14:04:02.240104,Ružomberok Černová,x,x,x,x,x,x,x,x,*,x
+2021-02-17 14:04:02.240104,Lisková,x,x,x,x,x,x,x,x,*,x
+2021-02-17 14:04:02.240104,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,*,x
+2021-02-17 14:04:02.240104,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,*,PDL
+2021-02-17 15:04:02.506753,Bratislava Vlčie Hrdlo,30,x,20,4,441,50,81,x,x,1
+2021-02-17 15:04:02.506753,Bratislava Pod. Biskupice,52,39,26,5,510,35,56,x,x,x
+2021-02-17 15:04:02.506753,Rovinka,36,36,34,3,383,25,36,1.9,x,x
+2021-02-17 15:04:02.506753,Ružomberok Tatranská cesta,37,x,x,3,x,43,60,x,2,x
+2021-02-17 15:04:02.506753,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2021-02-17 15:04:02.506753,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 15:04:02.506753,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 15:04:02.506753,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 16:04:02.725989,Bratislava Vlčie Hrdlo,31,x,20,4,476,47,83,x,x,1
+2021-02-17 16:04:02.725989,Bratislava Pod. Biskupice,46,35,21,5,568,56,102,x,x,x
+2021-02-17 16:04:02.725989,Rovinka,44,38,27,3,383,31,50,2,x,x
+2021-02-17 16:04:02.725989,Ružomberok Tatranská cesta,32,x,x,2,x,35,48,x,2,x
+2021-02-17 16:04:02.725989,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 16:04:02.725989,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 16:04:02.725989,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 16:04:02.725989,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 17:04:02.454518,Bratislava Vlčie Hrdlo,13,x,40,4,325,44,67,x,x,PDL
+2021-02-17 17:04:02.454518,Bratislava Pod. Biskupice,44,31,47,4,325,33,50,x,x,x
+2021-02-17 17:04:02.454518,Rovinka,40,35,60,13,278,27,33,43.1,x,x
+2021-02-17 17:04:02.454518,Ružomberok Tatranská cesta,28,x,x,2,x,39,53,x,2,x
+2021-02-17 17:04:02.454518,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 17:04:02.454518,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 17:04:02.454518,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 17:04:02.454518,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 18:04:03.158618,Bratislava Vlčie Hrdlo,4,x,61,3,244,30,35,x,x,PDL
+2021-02-17 18:04:03.158618,Bratislava Pod. Biskupice,16,10,66,4,278,18,23,x,x,x
+2021-02-17 18:04:03.158618,Rovinka,20,14,74,7,220,11,13,3,x,x
+2021-02-17 18:04:03.158618,Ružomberok Tatranská cesta,21,x,x,3,x,57,97,x,2,x
+2021-02-17 18:04:03.158618,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 18:04:03.158618,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 18:04:03.158618,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-17 18:04:03.158618,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 19:04:02.244679,Bratislava Vlčie Hrdlo,8,x,42,3,302,46,53,x,x,PDL
+2021-02-17 19:04:02.244679,Bratislava Pod. Biskupice,9,5,59,3,255,23,28,x,x,x
+2021-02-17 19:04:02.244679,Rovinka,10,7,63,14,232,21,23,1.4,x,x
+2021-02-17 19:04:02.244679,Ružomberok Tatranská cesta,34,x,x,3,x,66,162,x,2,x
+2021-02-17 19:04:02.244679,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 19:04:02.244679,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 19:04:02.244679,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-17 19:04:02.244679,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,8,3
+2021-02-17 20:04:02.458019,Bratislava Vlčie Hrdlo,7,x,58,3,255,27,32,x,x,PDL
+2021-02-17 20:04:02.458019,Bratislava Pod. Biskupice,6,2,64,3,244,16,20,x,x,x
+2021-02-17 20:04:02.458019,Rovinka,8,6,64,57,244,20,22,5.4,x,x
+2021-02-17 20:04:02.458019,Ružomberok Tatranská cesta,46,x,x,2,x,59,119,x,2,x
+2021-02-17 20:04:02.458019,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 20:04:02.458019,Lisková,x,x,x,x,x,x,x,x,4,x
+2021-02-17 20:04:02.458019,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 20:04:02.458019,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 21:04:02.558810,Bratislava Vlčie Hrdlo,7,x,58,3,255,25,30,x,x,PDL
+2021-02-17 21:04:02.558810,Bratislava Pod. Biskupice,6,3,59,3,244,20,24,x,x,x
+2021-02-17 21:04:02.558810,Rovinka,12,7,55,53,244,26,28,21.9,x,x
+2021-02-17 21:04:02.558810,Ružomberok Tatranská cesta,37,x,x,2,x,46,63,x,2,x
+2021-02-17 21:04:02.558810,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 21:04:02.558810,Lisková,x,x,x,x,x,x,x,x,4,x
+2021-02-17 21:04:02.558810,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-17 21:04:02.558810,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 22:04:01.760323,Bratislava Vlčie Hrdlo,11,x,64,3,232,19,23,x,x,PDL
+2021-02-17 22:04:01.760323,Bratislava Pod. Biskupice,10,5,72,3,209,9,12,x,x,x
+2021-02-17 22:04:01.760323,Rovinka,13,10,65,40,232,16,18,27.1,x,x
+2021-02-17 22:04:01.760323,Ružomberok Tatranská cesta,30,x,x,2,x,45,61,x,2,x
+2021-02-17 22:04:01.760323,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2021-02-17 22:04:01.760323,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 22:04:01.760323,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 22:04:01.760323,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-17 23:04:03.178014,Bratislava Vlčie Hrdlo,4,x,65,2,232,16,20,x,x,PDL
+2021-02-17 23:04:03.178014,Bratislava Pod. Biskupice,9,5,63,3,220,15,18,x,x,x
+2021-02-17 23:04:03.178014,Rovinka,13,6,53,11,220,28,31,11.3,x,x
+2021-02-17 23:04:03.178014,Ružomberok Tatranská cesta,31,x,x,2,x,33,38,x,2,x
+2021-02-17 23:04:03.178014,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-17 23:04:03.178014,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-17 23:04:03.178014,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-17 23:04:03.178014,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 00:04:01.875486,Bratislava Vlčie Hrdlo,8,x,66,2,220,13,17,x,x,PDL
+2021-02-18 00:04:01.875486,Bratislava Pod. Biskupice,7,5,69,3,209,8,11,x,x,x
+2021-02-18 00:04:01.875486,Rovinka,20,19,66,19,220,12,14,15.9,x,x
+2021-02-18 00:04:01.875486,Ružomberok Tatranská cesta,24,x,x,2,x,36,44,x,2,x
+2021-02-18 00:04:01.875486,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 00:04:01.875486,Lisková,x,x,x,x,x,x,x,x,*,x
+2021-02-18 00:04:01.875486,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-18 00:04:01.875486,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 01:04:02.868732,Bratislava Vlčie Hrdlo,7,x,54,2,232,23,27,x,x,PDL
+2021-02-18 01:04:02.868732,Bratislava Pod. Biskupice,7,6,68,3,209,8,11,x,x,x
+2021-02-18 01:04:02.868732,Rovinka,8,13,64,17,232,11,14,1.7,x,x
+2021-02-18 01:04:02.868732,Ružomberok Tatranská cesta,19,x,x,1,x,23,24,x,2,x
+2021-02-18 01:04:02.868732,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 01:04:02.868732,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-18 01:04:02.868732,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,5,x
+2021-02-18 01:04:02.868732,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,8,4
+2021-02-18 02:04:02.202886,Bratislava Vlčie Hrdlo,*,x,*,*,*,*,*,x,x,*
+2021-02-18 02:04:02.202886,Bratislava Pod. Biskupice,*,*,*,*,*,*,*,x,x,x
+2021-02-18 02:04:02.202886,Rovinka,*,*,*,*,*,*,*,*,x,x
+2021-02-18 02:04:02.202886,Ružomberok Tatranská cesta,22,x,x,2,x,22,23,x,2,x
+2021-02-18 02:04:02.202886,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 02:04:02.202886,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-18 02:04:02.202886,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-18 02:04:02.202886,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 03:04:03.733377,Bratislava Vlčie Hrdlo,7,x,59,2,244,14,18,x,x,PDL
+2021-02-18 03:04:03.733377,Bratislava Pod. Biskupice,10,4,56,3,232,14,16,x,x,x
+2021-02-18 03:04:03.733377,Rovinka,15,11,52,37,232,20,22,25.7,x,x
+2021-02-18 03:04:03.733377,Ružomberok Tatranská cesta,12,x,x,2,x,18,19,x,2,x
+2021-02-18 03:04:03.733377,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 03:04:03.733377,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-18 03:04:03.733377,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-18 03:04:03.733377,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 04:04:02.382758,Bratislava Vlčie Hrdlo,6,x,54,2,244,17,21,x,x,PDL
+2021-02-18 04:04:02.382758,Bratislava Pod. Biskupice,10,3,55,3,244,14,16,x,x,x
+2021-02-18 04:04:02.382758,Rovinka,15,13,52,35,232,21,23,20.5,x,x
+2021-02-18 04:04:02.382758,Ružomberok Tatranská cesta,10,x,x,1,x,17,17,x,3,x
+2021-02-18 04:04:02.382758,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 04:04:02.382758,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-18 04:04:02.382758,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2021-02-18 04:04:02.382758,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 05:04:02.529056,Bratislava Vlčie Hrdlo,8,x,49,2,255,21,25,x,x,PDL
+2021-02-18 05:04:02.529056,Bratislava Pod. Biskupice,6,6,51,3,244,17,20,x,x,x
+2021-02-18 05:04:02.529056,Rovinka,12,8,51,97,267,23,25,23.5,x,x
+2021-02-18 05:04:02.529056,Ružomberok Tatranská cesta,3,x,x,1,x,21,25,x,2,x
+2021-02-18 05:04:02.529056,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 05:04:02.529056,Lisková,x,x,x,x,x,x,x,x,3,x
+2021-02-18 05:04:02.529056,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-18 05:04:02.529056,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 06:04:02.760692,Bratislava Vlčie Hrdlo,8,x,38,2,255,30,35,x,x,PDL
+2021-02-18 06:04:02.760692,Bratislava Pod. Biskupice,7,5,48,3,255,18,21,x,x,x
+2021-02-18 06:04:02.760692,Rovinka,22,10,45,70,255,23,25,10.9,x,x
+2021-02-18 06:04:02.760692,Ružomberok Tatranská cesta,3,x,x,2,x,34,47,x,3,x
+2021-02-18 06:04:02.760692,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 06:04:02.760692,Lisková,x,x,x,x,x,x,x,x,2,x
+2021-02-18 06:04:02.760692,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-18 06:04:02.760692,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 07:04:01.546794,Bratislava Vlčie Hrdlo,12,x,35,2,278,31,39,x,x,PDL
+2021-02-18 07:04:01.546794,Bratislava Pod. Biskupice,10,5,32,3,267,33,41,x,x,x
+2021-02-18 07:04:01.546794,Rovinka,16,10,38,20,244,26,29,16.3,x,x
+2021-02-18 07:04:01.546794,Ružomberok Tatranská cesta,9,x,x,3,x,65,122,x,2,x
+2021-02-18 07:04:01.546794,Ružomberok Černová,x,x,x,x,x,x,x,x,2,x
+2021-02-18 07:04:01.546794,Lisková,x,x,x,x,x,x,x,x,2,x
+2021-02-18 07:04:01.546794,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,4,x
+2021-02-18 07:04:01.546794,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
+2021-02-18 08:04:03.608610,Bratislava Vlčie Hrdlo,13,x,39,2,267,25,31,x,x,PDL
+2021-02-18 08:04:03.608610,Bratislava Pod. Biskupice,8,7,38,3,267,31,36,x,x,x
+2021-02-18 08:04:03.608610,Rovinka,21,13,42,20,244,20,21,36.1,x,x
+2021-02-18 08:04:03.608610,Ružomberok Tatranská cesta,14,x,x,2,x,45,66,x,3,x
+2021-02-18 08:04:03.608610,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 08:04:03.608610,Lisková,x,x,x,x,x,x,x,x,2,x
+2021-02-18 08:04:03.608610,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2021-02-18 08:04:03.608610,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,8,3
+2021-02-18 09:04:01.683780,Bratislava Vlčie Hrdlo,11,x,17,3,278,55,78,x,x,PDL
+2021-02-18 09:04:01.683780,Bratislava Pod. Biskupice,14,8,13,3,383,60,90,x,x,x
+2021-02-18 09:04:01.683780,Rovinka,27,27,38,5,244,24,26,76.9,x,x
+2021-02-18 09:04:01.683780,Ružomberok Tatranská cesta,9,x,x,2,x,42,57,x,2,x
+2021-02-18 09:04:01.683780,Ružomberok Černová,x,x,x,x,x,x,x,x,3,x
+2021-02-18 09:04:01.683780,Lisková,x,x,x,x,x,x,x,x,2,x
+2021-02-18 09:04:01.683780,Ružomberok Riadok 4,x,x,x,x,x,x,x,x,3,x
+2021-02-18 09:04:01.683780,Ružomberok Hrboltová,x,x,x,x,x,x,x,x,7,3
