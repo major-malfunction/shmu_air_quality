@@ -1,501 +1,501 @@
 Datum,Stanica,PM10,PM2.5,O3,SO2,CO,NO2,NOx,Benzén,Hg
-2021-05-07 08:06:01.706530,Žilina Obežná,10,8,*,x,517,12,18,x,x
-2021-05-07 08:06:01.706530,Žiar nad Hronom Jilemnického,7,2,x,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Žarnovica mobilná AMS,9,6,x,4,193,18,20,x,x
-2021-05-07 08:06:01.706530,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Vranov nad Top. M.R.Štefánika,9,4,x,6,x,x,x,x,x
-2021-05-07 08:06:01.706530,Veľká Ida Letná,7,2,x,x,290,x,x,x,x
-2021-05-07 08:06:01.706530,Trnava Kollárova,14,9,x,x,603,22,36,0.4,x
-2021-05-07 08:06:01.706530,Trenčín Hasičská,33,6,x,2,301,39,74,0.5,x
-2021-05-07 08:06:01.706530,Trebišov T. G. Masaryka,9,6,42,x,x,6,10,x,x
-2021-05-07 08:06:01.706530,Topoľníky Aszód EMEP,12,9,29,3,x,8,9,x,1.2
-2021-05-07 08:06:01.706530,Strážske Mierová,7,6,x,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Stará Lesná AÚ SAV EMEP,7,7,56,x,x,4,11,x,x
-2021-05-07 08:06:01.706530,Starina Vodná nádrž EMEP,x,x,83,x,x,3,3,x,1.3
-2021-05-07 08:06:01.706530,Sereď Vinárska,16,12,x,x,x,21,25,x,x
-2021-05-07 08:06:01.706530,Senica Hviezdoslavova,17,6,x,14,x,x,x,x,x
-2021-05-07 08:06:01.706530,Ružomberok Riadok,10,8,55,17,502,16,27,0.3,x
-2021-05-07 08:06:01.706530,Rovinka mobilná AMS,10,x,x,4,171,16,18,0.3,x
-2021-05-07 08:06:01.706530,Prievidza Malonecpalská,7,4,*,13,x,15,22,x,x
-2021-05-07 08:06:01.706530,Prešov Arm.gen. Ľ. Svobodu,15,6,x,x,388,39,86,0.3,x
-2021-05-07 08:06:01.706530,Pezinok,17,5,x,x,192,15,14,x,x
-2021-05-07 08:06:01.706530,Nitra Štúrova,22,6,x,26,557,50,169,0.3,x
-2021-05-07 08:06:01.706530,Nitra Janíkovce,11,4,42,x,x,14,16,x,x
-2021-05-07 08:06:01.706530,Mobilná stanica N2,12,4,x,2,170,x,x,x,x
-2021-05-07 08:06:01.706530,Martin Jesenského,7,6,x,x,199,31,63,0.3,x
-2021-05-07 08:06:01.706530,Malacky Mierové námestie,11,4,x,*,553,22,58,0.3,x
-2021-05-07 08:06:01.706530,Krompachy SNP,10,7,x,6,554,35,71,0.2,x
-2021-05-07 08:06:01.706530,Košice Štefánikova,24,7,x,9,437,33,65,0.2,x
-2021-05-07 08:06:01.706530,Košice Ďumbierska,x,x,51,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Košice Amurská,10,7,x,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Kolonické sedlo,4,3,x,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Kojšovská Hoľa,x,x,68,x,x,5,7,x,x
-2021-05-07 08:06:01.706530,Jelšava Jesenského,9,7,49,x,x,6,11,x,x
-2021-05-07 08:06:01.706530,Humenné Nám. slobody,10,3,81,x,x,5,5,x,x
-2021-05-07 08:06:01.706530,Hnúšta Hlavná,13,5,x,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Handlová Morovianska cesta,8,12,x,6,x,x,x,x,x
-2021-05-07 08:06:01.706530,Gánovce Meteo. st,x,x,69,x,x,3,5,x,x
-2021-05-07 08:06:01.706530,Chopok EMEP,x,x,91,x,x,1,2,x,x
-2021-05-07 08:06:01.706530,Bystričany Rozvodňa SSE,9,8,x,2,x,x,x,x,x
-2021-05-07 08:06:01.706530,Bratislava Trnavské Mýto,22,8,x,x,323,50,119,0.4,x
-2021-05-07 08:06:01.706530,Bratislava Mamateyova,10,PDL,20,2,x,27,31,x,x
-2021-05-07 08:06:01.706530,Bratislava Kamenné nám.,8,5,x,x,x,x,x,x,x
-2021-05-07 08:06:01.706530,Bratislava Jeséniova,10,5,45,6,x,13,14,x,x
-2021-05-07 08:06:01.706530,Bardejov Pod Vinbargom,7,5,57,x,x,11,14,x,x
-2021-05-07 08:06:01.706530,Banská Bystrica Štefánikovo nábrežie,13,7,x,10,823,43,106,0.2,x
-2021-05-07 08:06:01.706530,Banská Bystrica Zelená,8,5,53,x,x,17,20,x,x
-2021-05-07 07:06:02.157209,Žilina Obežná,14,7,68,x,489,4,7,x,x
-2021-05-07 07:06:02.157209,Žiar nad Hronom Jilemnického,8,6,x,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Žarnovica mobilná AMS,8,6,x,4,168,10,11,x,x
-2021-05-07 07:06:02.157209,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Vranov nad Top. M.R.Štefánika,8,5,x,6,x,x,x,x,x
-2021-05-07 07:06:02.157209,Veľká Ida Letná,9,4,x,x,261,x,x,x,x
-2021-05-07 07:06:02.157209,Trnava Kollárova,11,7,x,x,579,19,32,0.4,x
-2021-05-07 07:06:02.157209,Trenčín Hasičská,21,9,x,1,274,34,61,0.3,x
-2021-05-07 07:06:02.157209,Trebišov T. G. Masaryka,8,3,48,x,x,4,6,x,x
-2021-05-07 07:06:02.157209,Topoľníky Aszód EMEP,12,9,39,3,x,5,6,x,1.2
-2021-05-07 07:06:02.157209,Strážske Mierová,7,5,x,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Stará Lesná AÚ SAV EMEP,5,6,59,x,x,4,11,x,x
-2021-05-07 07:06:02.157209,Starina Vodná nádrž EMEP,x,x,67,x,x,2,2,x,0.9
-2021-05-07 07:06:02.157209,Sereď Vinárska,12,11,x,x,x,12,13,x,x
-2021-05-07 07:06:02.157209,Senica Hviezdoslavova,14,2,x,14,x,x,x,x,x
-2021-05-07 07:06:02.157209,Ružomberok Riadok,3,7,53,*,476,10,*,0.2,x
-2021-05-07 07:06:02.157209,Rovinka mobilná AMS,12,x,x,4,145,9,10,0.4,x
-2021-05-07 07:06:02.157209,Prievidza Malonecpalská,9,7,30,13,x,20,28,x,x
-2021-05-07 07:06:02.157209,Prešov Arm.gen. Ľ. Svobodu,14,3,x,x,379,37,64,0.2,x
-2021-05-07 07:06:02.157209,Pezinok,17,5,x,x,171,10,8,x,x
-2021-05-07 07:06:02.157209,Nitra Štúrova,6,PDL,x,26,452,34,108,0.2,x
-2021-05-07 07:06:02.157209,Nitra Janíkovce,11,6,51,x,x,9,10,x,x
-2021-05-07 07:06:02.157209,Mobilná stanica N2,9,7,x,2,160,x,x,x,x
-2021-05-07 07:06:02.157209,Martin Jesenského,6,6,x,x,175,28,48,0.2,x
-2021-05-07 07:06:02.157209,Malacky Mierové námestie,8,5,x,3,534,19,47,0.2,x
-2021-05-07 07:06:02.157209,Krompachy SNP,7,7,x,6,526,19,35,0.2,x
-2021-05-07 07:06:02.157209,Košice Štefánikova,13,6,x,8,412,29,42,0.1,x
-2021-05-07 07:06:02.157209,Košice Ďumbierska,x,x,*,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Košice Amurská,11,9,x,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Kolonické sedlo,7,6,x,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Kojšovská Hoľa,x,x,71,x,x,5,6,x,x
-2021-05-07 07:06:02.157209,Jelšava Jesenského,11,10,46,x,x,5,10,x,x
-2021-05-07 07:06:02.157209,Humenné Nám. slobody,10,3,77,x,x,3,4,x,x
-2021-05-07 07:06:02.157209,Hnúšta Hlavná,15,6,x,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Handlová Morovianska cesta,8,10,x,5,x,x,x,x,x
-2021-05-07 07:06:02.157209,Gánovce Meteo. st,x,x,67,x,x,2,4,x,x
-2021-05-07 07:06:02.157209,Chopok EMEP,x,x,86,x,x,2,3,x,x
-2021-05-07 07:06:02.157209,Bystričany Rozvodňa SSE,3,7,x,2,x,x,x,x,x
-2021-05-07 07:06:02.157209,Bratislava Trnavské Mýto,21,7,x,x,249,29,53,0.3,x
-2021-05-07 07:06:02.157209,Bratislava Mamateyova,11,3,22,2,x,*,*,x,x
-2021-05-07 07:06:02.157209,Bratislava Kamenné nám.,8,3,x,x,x,x,x,x,x
-2021-05-07 07:06:02.157209,Bratislava Jeséniova,11,5,45,6,x,8,9,x,x
-2021-05-07 07:06:02.157209,Bardejov Pod Vinbargom,2,3,74,x,x,9,10,x,x
-2021-05-07 07:06:02.157209,Banská Bystrica Štefánikovo nábrežie,8,3,x,10,748,31,56,0.2,x
-2021-05-07 07:06:02.157209,Banská Bystrica Zelená,5,3,62,x,x,8,11,x,x
-2021-05-07 06:06:02.318833,Žilina Obežná,10,4,49,x,493,20,23,x,x
-2021-05-07 06:06:02.318833,Žiar nad Hronom Jilemnického,6,5,x,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Žarnovica mobilná AMS,11,7,x,4,163,5,4,x,x
-2021-05-07 06:06:02.318833,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Vranov nad Top. M.R.Štefánika,9,5,x,5,x,x,x,x,x
-2021-05-07 06:06:02.318833,Veľká Ida Letná,8,2,x,x,280,x,x,x,x
-2021-05-07 06:06:02.318833,Trnava Kollárova,12,9,x,x,564,11,17,0.3,x
-2021-05-07 06:06:02.318833,Trenčín Hasičská,8,3,x,1,202,17,22,0.2,x
-2021-05-07 06:06:02.318833,Trebišov T. G. Masaryka,9,4,51,x,x,4,5,x,x
-2021-05-07 06:06:02.318833,Topoľníky Aszód EMEP,10,6,*,3,x,5,6,x,1.1
-2021-05-07 06:06:02.318833,Strážske Mierová,7,4,x,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Stará Lesná AÚ SAV EMEP,2,1,65,x,x,3,9,x,x
-2021-05-07 06:06:02.318833,Starina Vodná nádrž EMEP,x,x,61,x,x,2,2,x,1.2
-2021-05-07 06:06:02.318833,Sereď Vinárska,10,9,x,x,x,10,10,x,x
-2021-05-07 06:06:02.318833,Senica Hviezdoslavova,15,9,x,15,x,x,x,x,x
-2021-05-07 06:06:02.318833,Ružomberok Riadok,7,9,66,*,438,9,*,0.2,x
-2021-05-07 06:06:02.318833,Rovinka mobilná AMS,10,x,x,4,149,7,8,0.3,x
-2021-05-07 06:06:02.318833,Prievidza Malonecpalská,7,4,43,13,x,10,12,x,x
-2021-05-07 06:06:02.318833,Prešov Arm.gen. Ľ. Svobodu,12,3,x,x,307,22,41,0.2,x
-2021-05-07 06:06:02.318833,Pezinok,14,6,x,x,156,7,5,x,x
-2021-05-07 06:06:02.318833,Nitra Štúrova,7,4,x,26,378,30,105,0.1,x
-2021-05-07 06:06:02.318833,Nitra Janíkovce,8,2,55,x,x,*,*,x,x
-2021-05-07 06:06:02.318833,Mobilná stanica N2,6,9,x,2,162,x,x,x,x
-2021-05-07 06:06:02.318833,Martin Jesenského,7,4,x,x,117,13,19,0.2,x
-2021-05-07 06:06:02.318833,Malacky Mierové námestie,9,PDL,x,3,502,14,34,0.2,x
-2021-05-07 06:06:02.318833,Krompachy SNP,5,4,x,6,459,6,10,0.1,x
-2021-05-07 06:06:02.318833,Košice Štefánikova,7,5,x,8,386,9,11,0.1,x
-2021-05-07 06:06:02.318833,Košice Ďumbierska,x,x,56,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Košice Amurská,9,8,x,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Kolonické sedlo,5,5,x,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Kojšovská Hoľa,x,x,74,x,x,4,5,x,x
-2021-05-07 06:06:02.318833,Jelšava Jesenského,11,7,54,x,x,4,9,x,x
-2021-05-07 06:06:02.318833,Humenné Nám. slobody,5,2,75,x,x,3,3,x,x
-2021-05-07 06:06:02.318833,Hnúšta Hlavná,15,5,x,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Handlová Morovianska cesta,7,10,x,5,x,x,x,x,x
-2021-05-07 06:06:02.318833,Gánovce Meteo. st,x,x,71,x,x,2,3,x,x
-2021-05-07 06:06:02.318833,Chopok EMEP,x,x,*,x,x,2,3,x,x
-2021-05-07 06:06:02.318833,Bystričany Rozvodňa SSE,8,13,x,2,x,x,x,x,x
-2021-05-07 06:06:02.318833,Bratislava Trnavské Mýto,17,12,x,x,212,19,36,0.3,x
-2021-05-07 06:06:02.318833,Bratislava Mamateyova,9,PDL,39,2,x,16,18,x,x
-2021-05-07 06:06:02.318833,Bratislava Kamenné nám.,9,7,x,x,x,x,x,x,x
-2021-05-07 06:06:02.318833,Bratislava Jeséniova,14,4,52,6,x,5,5,x,x
-2021-05-07 06:06:02.318833,Bardejov Pod Vinbargom,4,3,87,x,x,2,3,x,x
-2021-05-07 06:06:02.318833,Banská Bystrica Štefánikovo nábrežie,3,2,x,9,708,13,22,0.2,x
-2021-05-07 06:06:02.318833,Banská Bystrica Zelená,2,3,70,x,x,4,7,x,x
-2021-05-07 05:06:01.737952,Žilina Obežná,9,6,63,x,472,11,13,x,x
-2021-05-07 05:06:01.737952,Žiar nad Hronom Jilemnického,4,3,x,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Žarnovica mobilná AMS,13,8,x,4,163,3,3,x,x
-2021-05-07 05:06:01.737952,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Vranov nad Top. M.R.Štefánika,9,7,x,*,x,x,x,x,x
-2021-05-07 05:06:01.737952,Veľká Ida Letná,10,5,x,x,274,x,x,x,x
-2021-05-07 05:06:01.737952,Trnava Kollárova,10,9,x,x,551,8,9,0.3,x
-2021-05-07 05:06:01.737952,Trenčín Hasičská,7,1,x,1,177,13,15,0.2,x
-2021-05-07 05:06:01.737952,Trebišov T. G. Masaryka,8,3,56,x,x,4,5,x,x
-2021-05-07 05:06:01.737952,Topoľníky Aszód EMEP,8,5,52,4,x,5,6,x,1.1
-2021-05-07 05:06:01.737952,Strážske Mierová,12,5,x,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Stará Lesná AÚ SAV EMEP,1,PDL,71,x,x,2,8,x,x
-2021-05-07 05:06:01.737952,Starina Vodná nádrž EMEP,x,x,58,x,x,2,2,x,1.5
-2021-05-07 05:06:01.737952,Sereď Vinárska,11,10,x,x,x,7,7,x,x
-2021-05-07 05:06:01.737952,Senica Hviezdoslavova,14,10,x,15,x,x,x,x,x
-2021-05-07 05:06:01.737952,Ružomberok Riadok,7,6,75,*,428,3,*,0.2,x
-2021-05-07 05:06:01.737952,Rovinka mobilná AMS,13,x,x,4,148,7,7,0.3,x
-2021-05-07 05:06:01.737952,Prievidza Malonecpalská,7,4,59,12,x,6,8,x,x
-2021-05-07 05:06:01.737952,Prešov Arm.gen. Ľ. Svobodu,11,4,x,x,276,21,34,0.2,x
-2021-05-07 05:06:01.737952,Pezinok,10,8,x,x,160,6,4,x,x
-2021-05-07 05:06:01.737952,Nitra Štúrova,6,2,x,26,383,19,39,0.1,x
-2021-05-07 05:06:01.737952,Nitra Janíkovce,8,1,57,x,x,8,9,x,x
-2021-05-07 05:06:01.737952,Mobilná stanica N2,9,10,x,2,156,x,x,x,x
-2021-05-07 05:06:01.737952,Martin Jesenského,9,7,x,x,147,4,4,0.2,x
-2021-05-07 05:06:01.737952,Malacky Mierové námestie,8,3,x,4,521,11,29,0.2,x
-2021-05-07 05:06:01.737952,Krompachy SNP,4,3,x,6,436,2,4,0.1,x
-2021-05-07 05:06:01.737952,Košice Štefánikova,3,7,x,8,409,6,7,0.1,x
-2021-05-07 05:06:01.737952,Košice Ďumbierska,x,x,64,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Košice Amurská,10,9,x,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Kolonické sedlo,5,6,x,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Kojšovská Hoľa,x,x,79,x,x,4,5,x,x
-2021-05-07 05:06:01.737952,Jelšava Jesenského,10,8,56,x,x,4,10,x,x
-2021-05-07 05:06:01.737952,Humenné Nám. slobody,8,2,71,x,x,3,4,x,x
-2021-05-07 05:06:01.737952,Hnúšta Hlavná,18,7,x,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Handlová Morovianska cesta,8,11,x,5,x,x,x,x,x
-2021-05-07 05:06:01.737952,Gánovce Meteo. st,x,x,72,x,x,2,4,x,x
-2021-05-07 05:06:01.737952,Chopok EMEP,x,x,90,x,x,2,3,x,x
-2021-05-07 05:06:01.737952,Bystričany Rozvodňa SSE,6,8,x,2,x,x,x,x,x
-2021-05-07 05:06:01.737952,Bratislava Trnavské Mýto,14,9,x,x,206,11,14,0.2,x
-2021-05-07 05:06:01.737952,Bratislava Mamateyova,11,3,47,2,x,10,12,x,x
-2021-05-07 05:06:01.737952,Bratislava Kamenné nám.,6,4,x,x,x,x,x,x,x
-2021-05-07 05:06:01.737952,Bratislava Jeséniova,11,5,57,6,x,4,4,x,x
-2021-05-07 05:06:01.737952,Bardejov Pod Vinbargom,6,6,83,x,x,2,3,x,x
-2021-05-07 05:06:01.737952,Banská Bystrica Štefánikovo nábrežie,4,4,x,9,687,8,11,0.2,x
-2021-05-07 05:06:01.737952,Banská Bystrica Zelená,3,3,72,x,x,4,6,x,x
-2021-05-07 04:06:02.207488,Žilina Obežná,6,5,72,x,472,6,8,x,x
-2021-05-07 04:06:02.207488,Žiar nad Hronom Jilemnického,7,2,x,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Žarnovica mobilná AMS,12,7,x,4,174,4,4,x,x
-2021-05-07 04:06:02.207488,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Vranov nad Top. M.R.Štefánika,9,6,x,6,x,x,x,x,x
-2021-05-07 04:06:02.207488,Veľká Ida Letná,10,5,x,x,270,x,x,x,x
-2021-05-07 04:06:02.207488,Trnava Kollárova,9,5,x,x,548,6,6,0.3,x
-2021-05-07 04:06:02.207488,Trenčín Hasičská,11,4,x,1,172,12,14,0.2,x
-2021-05-07 04:06:02.207488,Trebišov T. G. Masaryka,8,4,64,x,x,4,5,x,x
-2021-05-07 04:06:02.207488,Topoľníky Aszód EMEP,12,5,50,4,x,7,8,x,1.3
-2021-05-07 04:06:02.207488,Strážske Mierová,8,5,x,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Stará Lesná AÚ SAV EMEP,3,PDL,64,x,x,3,9,x,x
-2021-05-07 04:06:02.207488,Starina Vodná nádrž EMEP,x,x,52,x,x,2,2,x,1.4
-2021-05-07 04:06:02.207488,Sereď Vinárska,9,9,x,x,x,6,6,x,x
-2021-05-07 04:06:02.207488,Senica Hviezdoslavova,7,2,x,13,x,x,x,x,x
-2021-05-07 04:06:02.207488,Ružomberok Riadok,5,3,77,*,462,2,*,0.3,x
-2021-05-07 04:06:02.207488,Rovinka mobilná AMS,11,x,x,4,147,6,7,0.3,x
-2021-05-07 04:06:02.207488,Prievidza Malonecpalská,7,4,64,13,x,5,6,x,x
-2021-05-07 04:06:02.207488,Prešov Arm.gen. Ľ. Svobodu,10,4,x,x,288,11,15,0.3,x
-2021-05-07 04:06:02.207488,Pezinok,12,8,x,x,156,6,4,x,x
-2021-05-07 04:06:02.207488,Nitra Štúrova,6,2,x,26,380,17,30,0.2,x
-2021-05-07 04:06:02.207488,Nitra Janíkovce,7,PDL,57,x,x,9,11,x,x
-2021-05-07 04:06:02.207488,Mobilná stanica N2,4,6,x,2,158,x,x,x,x
-2021-05-07 04:06:02.207488,Martin Jesenského,7,6,x,x,114,5,5,0.2,x
-2021-05-07 04:06:02.207488,Malacky Mierové námestie,12,9,x,3,495,10,24,0.2,x
-2021-05-07 04:06:02.207488,Krompachy SNP,7,5,x,5,434,2,4,0.2,x
-2021-05-07 04:06:02.207488,Košice Štefánikova,10,6,x,7,375,4,5,0.1,x
-2021-05-07 04:06:02.207488,Košice Ďumbierska,x,x,72,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Košice Amurská,12,9,x,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Kolonické sedlo,8,6,x,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Kojšovská Hoľa,x,x,79,x,x,4,6,x,x
-2021-05-07 04:06:02.207488,Jelšava Jesenského,15,8,57,x,x,4,9,x,x
-2021-05-07 04:06:02.207488,Humenné Nám. slobody,12,5,71,x,x,3,4,x,x
-2021-05-07 04:06:02.207488,Hnúšta Hlavná,18,7,x,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Handlová Morovianska cesta,6,8,x,5,x,x,x,x,x
-2021-05-07 04:06:02.207488,Gánovce Meteo. st,x,x,73,x,x,2,3,x,x
-2021-05-07 04:06:02.207488,Chopok EMEP,x,x,92,x,x,2,3,x,x
-2021-05-07 04:06:02.207488,Bystričany Rozvodňa SSE,6,8,x,2,x,x,x,x,x
-2021-05-07 04:06:02.207488,Bratislava Trnavské Mýto,8,7,x,x,205,9,10,0.3,x
-2021-05-07 04:06:02.207488,Bratislava Mamateyova,8,4,52,2,x,11,12,x,x
-2021-05-07 04:06:02.207488,Bratislava Kamenné nám.,4,2,x,x,x,x,x,x,x
-2021-05-07 04:06:02.207488,Bratislava Jeséniova,7,6,61,6,x,4,4,x,x
-2021-05-07 04:06:02.207488,Bardejov Pod Vinbargom,7,6,79,x,x,2,3,x,x
-2021-05-07 04:06:02.207488,Banská Bystrica Štefánikovo nábrežie,7,5,x,9,691,4,5,0.2,x
-2021-05-07 04:06:02.207488,Banská Bystrica Zelená,6,5,72,x,x,4,6,x,x
-2021-05-07 03:06:01.642277,Žilina Obežná,6,6,74,x,469,6,8,x,x
-2021-05-07 03:06:01.642277,Žiar nad Hronom Jilemnického,7,4,x,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Žarnovica mobilná AMS,13,9,x,4,178,6,5,x,x
-2021-05-07 03:06:01.642277,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Vranov nad Top. M.R.Štefánika,6,5,x,5,x,x,x,x,x
-2021-05-07 03:06:01.642277,Veľká Ida Letná,12,6,x,x,276,x,x,x,x
-2021-05-07 03:06:01.642277,Trnava Kollárova,8,5,x,x,548,6,7,0.2,x
-2021-05-07 03:06:01.642277,Trenčín Hasičská,9,2,x,1,174,13,15,0.2,x
-2021-05-07 03:06:01.642277,Trebišov T. G. Masaryka,9,4,59,x,x,4,5,x,x
-2021-05-07 03:06:01.642277,Topoľníky Aszód EMEP,11,5,46,3,x,9,10,x,1.3
-2021-05-07 03:06:01.642277,Strážske Mierová,10,5,x,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Stará Lesná AÚ SAV EMEP,6,1,65,x,x,3,9,x,x
-2021-05-07 03:06:01.642277,Starina Vodná nádrž EMEP,x,x,54,x,x,2,2,x,0.5
-2021-05-07 03:06:01.642277,Sereď Vinárska,11,12,x,x,x,7,7,x,x
-2021-05-07 03:06:01.642277,Senica Hviezdoslavova,9,2,x,*,x,x,x,x,x
-2021-05-07 03:06:01.642277,Ružomberok Riadok,5,4,77,*,435,2,*,0.2,x
-2021-05-07 03:06:01.642277,Rovinka mobilná AMS,13,x,x,4,143,6,6,0.3,x
-2021-05-07 03:06:01.642277,Prievidza Malonecpalská,7,4,70,13,x,4,5,x,x
-2021-05-07 03:06:01.642277,Prešov Arm.gen. Ľ. Svobodu,11,4,x,x,*,15,19,0.3,x
-2021-05-07 03:06:01.642277,Pezinok,12,5,x,x,155,5,3,x,x
-2021-05-07 03:06:01.642277,Nitra Štúrova,8,2,x,26,371,17,25,0.2,x
-2021-05-07 03:06:01.642277,Nitra Janíkovce,8,4,61,x,x,7,9,x,x
-2021-05-07 03:06:01.642277,Mobilná stanica N2,5,5,x,2,158,x,x,x,x
-2021-05-07 03:06:01.642277,Martin Jesenského,9,8,x,x,125,8,8,0.2,x
-2021-05-07 03:06:01.642277,Malacky Mierové námestie,13,5,x,4,495,8,19,0.2,x
-2021-05-07 03:06:01.642277,Krompachy SNP,12,10,x,5,480,5,7,0.5,x
-2021-05-07 03:06:01.642277,Košice Štefánikova,15,7,x,7,403,6,7,0.2,x
-2021-05-07 03:06:01.642277,Košice Ďumbierska,x,x,65,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Košice Amurská,18,11,x,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Kolonické sedlo,8,8,x,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Kojšovská Hoľa,x,x,82,x,x,4,5,x,x
-2021-05-07 03:06:01.642277,Jelšava Jesenského,18,10,53,x,x,5,10,x,x
-2021-05-07 03:06:01.642277,Humenné Nám. slobody,9,3,68,x,x,3,4,x,x
-2021-05-07 03:06:01.642277,Hnúšta Hlavná,17,8,x,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Handlová Morovianska cesta,4,8,x,5,x,x,x,x,x
-2021-05-07 03:06:01.642277,Gánovce Meteo. st,x,x,73,x,x,2,4,x,x
-2021-05-07 03:06:01.642277,Chopok EMEP,x,x,93,x,x,2,3,x,x
-2021-05-07 03:06:01.642277,Bystričany Rozvodňa SSE,3,6,x,2,x,x,x,x,x
-2021-05-07 03:06:01.642277,Bratislava Trnavské Mýto,5,5,x,x,203,8,8,0.2,x
-2021-05-07 03:06:01.642277,Bratislava Mamateyova,6,PDL,60,2,x,8,10,x,x
-2021-05-07 03:06:01.642277,Bratislava Kamenné nám.,5,3,x,x,x,x,x,x,x
-2021-05-07 03:06:01.642277,Bratislava Jeséniova,10,6,*,6,x,4,4,x,x
-2021-05-07 03:06:01.642277,Bardejov Pod Vinbargom,7,6,82,x,x,3,4,x,x
-2021-05-07 03:06:01.642277,Banská Bystrica Štefánikovo nábrežie,9,5,x,9,705,7,9,0.2,x
-2021-05-07 03:06:01.642277,Banská Bystrica Zelená,9,8,71,x,x,5,8,x,x
-2021-05-07 02:06:02.027888,Žilina Obežná,5,3,79,x,459,3,4,x,x
-2021-05-07 02:06:02.027888,Žiar nad Hronom Jilemnického,6,PDL,x,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Žarnovica mobilná AMS,18,7,x,4,186,8,8,x,x
-2021-05-07 02:06:02.027888,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Vranov nad Top. M.R.Štefánika,11,8,x,5,x,x,x,x,x
-2021-05-07 02:06:02.027888,Veľká Ida Letná,15,6,x,x,281,x,x,x,x
-2021-05-07 02:06:02.027888,Trnava Kollárova,7,6,x,x,552,8,9,0.2,x
-2021-05-07 02:06:02.027888,Trenčín Hasičská,9,3,x,PDL,177,14,16,0.3,x
-2021-05-07 02:06:02.027888,Trebišov T. G. Masaryka,11,7,66,x,x,4,5,x,x
-2021-05-07 02:06:02.027888,Topoľníky Aszód EMEP,8,3,42,3,x,11,12,x,1.4
-2021-05-07 02:06:02.027888,Strážske Mierová,10,6,x,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Stará Lesná AÚ SAV EMEP,7,4,70,x,x,3,9,x,x
-2021-05-07 02:06:02.027888,Starina Vodná nádrž EMEP,x,x,57,x,x,3,2,x,1.4
-2021-05-07 02:06:02.027888,Sereď Vinárska,7,9,x,x,x,8,8,x,x
-2021-05-07 02:06:02.027888,Senica Hviezdoslavova,6,2,x,15,x,x,x,x,x
-2021-05-07 02:06:02.027888,Ružomberok Riadok,9,5,75,*,453,2,*,0.1,x
-2021-05-07 02:06:02.027888,Rovinka mobilná AMS,8,x,x,4,138,5,6,0.3,x
-2021-05-07 02:06:02.027888,Prievidza Malonecpalská,8,6,79,12,x,3,4,x,x
-2021-05-07 02:06:02.027888,Prešov Arm.gen. Ľ. Svobodu,13,5,x,x,338,20,30,0.3,x
-2021-05-07 02:06:02.027888,Pezinok,10,5,x,x,148,6,4,x,x
-2021-05-07 02:06:02.027888,Nitra Štúrova,9,3,x,26,372,21,30,0.2,x
-2021-05-07 02:06:02.027888,Nitra Janíkovce,10,2,60,x,x,7,8,x,x
-2021-05-07 02:06:02.027888,Mobilná stanica N2,6,6,x,2,159,x,x,x,x
-2021-05-07 02:06:02.027888,Martin Jesenského,9,8,x,x,114,5,7,0.3,x
-2021-05-07 02:06:02.027888,Malacky Mierové námestie,6,2,x,4,495,6,15,0.2,x
-2021-05-07 02:06:02.027888,Krompachy SNP,13,10,x,5,546,5,8,0.7,x
-2021-05-07 02:06:02.027888,Košice Štefánikova,15,5,x,8,472,11,12,0.3,x
-2021-05-07 02:06:02.027888,Košice Ďumbierska,x,x,64,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Košice Amurská,15,11,x,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Kolonické sedlo,7,7,x,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Kojšovská Hoľa,x,x,80,x,x,5,7,x,x
-2021-05-07 02:06:02.027888,Jelšava Jesenského,20,11,43,x,x,5,11,x,x
-2021-05-07 02:06:02.027888,Humenné Nám. slobody,11,5,61,x,x,7,8,x,x
-2021-05-07 02:06:02.027888,Hnúšta Hlavná,24,11,x,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Handlová Morovianska cesta,7,9,x,6,x,x,x,x,x
-2021-05-07 02:06:02.027888,Gánovce Meteo. st,x,x,72,x,x,2,4,x,x
-2021-05-07 02:06:02.027888,Chopok EMEP,x,x,89,x,x,2,3,x,x
-2021-05-07 02:06:02.027888,Bystričany Rozvodňa SSE,2,4,x,2,x,x,x,x,x
-2021-05-07 02:06:02.027888,Bratislava Trnavské Mýto,8,6,x,x,*,8,9,0.3,x
-2021-05-07 02:06:02.027888,Bratislava Mamateyova,7,2,65,2,x,4,6,x,x
-2021-05-07 02:06:02.027888,Bratislava Kamenné nám.,7,4,x,x,x,x,x,x,x
-2021-05-07 02:06:02.027888,Bratislava Jeséniova,14,8,69,*,x,4,4,x,x
-2021-05-07 02:06:02.027888,Bardejov Pod Vinbargom,7,7,61,x,x,8,10,x,x
-2021-05-07 02:06:02.027888,Banská Bystrica Štefánikovo nábrežie,11,5,x,9,706,7,9,0.2,x
-2021-05-07 02:06:02.027888,Banská Bystrica Zelená,12,8,56,x,x,9,12,x,x
-2021-05-07 01:06:02.392234,Žilina Obežná,9,2,86,x,438,2,4,x,x
-2021-05-07 01:06:02.392234,Žiar nad Hronom Jilemnického,9,6,x,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Žarnovica mobilná AMS,21,9,x,4,253,13,12,x,x
-2021-05-07 01:06:02.392234,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Vranov nad Top. M.R.Štefánika,10,7,x,6,x,x,x,x,x
-2021-05-07 01:06:02.392234,Veľká Ida Letná,25,7,x,x,285,x,x,x,x
-2021-05-07 01:06:02.392234,Trnava Kollárova,6,4,x,x,571,11,13,0.3,x
-2021-05-07 01:06:02.392234,Trenčín Hasičská,8,4,x,PDL,176,16,18,0.2,x
-2021-05-07 01:06:02.392234,Trebišov T. G. Masaryka,15,9,67,x,x,6,7,x,x
-2021-05-07 01:06:02.392234,Topoľníky Aszód EMEP,7,4,52,3,x,8,10,x,1.2
-2021-05-07 01:06:02.392234,Strážske Mierová,8,3,x,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Stará Lesná AÚ SAV EMEP,7,3,71,x,x,3,9,x,x
-2021-05-07 01:06:02.392234,Starina Vodná nádrž EMEP,x,x,60,x,x,3,3,x,1.3
-2021-05-07 01:06:02.392234,Sereď Vinárska,6,9,x,x,x,10,10,x,x
-2021-05-07 01:06:02.392234,Senica Hviezdoslavova,7,2,x,14,x,x,x,x,x
-2021-05-07 01:06:02.392234,Ružomberok Riadok,8,5,77,*,464,3,*,0.2,x
-2021-05-07 01:06:02.392234,Rovinka mobilná AMS,7,x,x,4,137,5,6,0.3,x
-2021-05-07 01:06:02.392234,Prievidza Malonecpalská,8,5,77,11,x,4,4,x,x
-2021-05-07 01:06:02.392234,Prešov Arm.gen. Ľ. Svobodu,21,8,x,x,395,41,61,0.3,x
-2021-05-07 01:06:02.392234,Pezinok,8,7,x,x,154,9,7,x,x
-2021-05-07 01:06:02.392234,Nitra Štúrova,9,4,x,26,383,22,35,0.2,x
-2021-05-07 01:06:02.392234,Nitra Janíkovce,9,3,63,x,x,6,7,x,x
-2021-05-07 01:06:02.392234,Mobilná stanica N2,8,5,x,2,183,x,x,x,x
-2021-05-07 01:06:02.392234,Martin Jesenského,11,9,x,x,146,5,6,0.3,x
-2021-05-07 01:06:02.392234,Malacky Mierové námestie,10,5,x,4,484,6,13,0.2,x
-2021-05-07 01:06:02.392234,Krompachy SNP,14,12,x,5,547,*,*,0.6,x
-2021-05-07 01:06:02.392234,Košice Štefánikova,15,6,x,7,448,16,19,0.2,x
-2021-05-07 01:06:02.392234,Košice Ďumbierska,x,x,52,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Košice Amurská,13,11,x,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Kolonické sedlo,5,4,x,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Kojšovská Hoľa,x,x,76,x,x,6,7,x,x
-2021-05-07 01:06:02.392234,Jelšava Jesenského,18,15,46,x,x,5,10,x,x
-2021-05-07 01:06:02.392234,Humenné Nám. slobody,19,8,61,x,x,9,10,x,x
-2021-05-07 01:06:02.392234,Hnúšta Hlavná,29,13,x,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Handlová Morovianska cesta,7,11,x,*,x,x,x,x,x
-2021-05-07 01:06:02.392234,Gánovce Meteo. st,x,x,72,x,x,2,5,x,x
-2021-05-07 01:06:02.392234,Chopok EMEP,x,x,92,x,x,2,3,x,x
-2021-05-07 01:06:02.392234,Bystričany Rozvodňa SSE,8,7,x,2,x,x,x,x,x
-2021-05-07 01:06:02.392234,Bratislava Trnavské Mýto,11,5,x,x,190,*,*,0.3,x
-2021-05-07 01:06:02.392234,Bratislava Mamateyova,8,PDL,60,2,x,10,12,x,x
-2021-05-07 01:06:02.392234,Bratislava Kamenné nám.,7,2,x,x,x,x,x,x,x
-2021-05-07 01:06:02.392234,Bratislava Jeséniova,12,6,66,6,x,*,*,x,x
-2021-05-07 01:06:02.392234,Bardejov Pod Vinbargom,8,6,50,x,x,7,8,x,x
-2021-05-07 01:06:02.392234,Banská Bystrica Štefánikovo nábrežie,16,9,x,8,765,11,14,0.4,x
-2021-05-07 01:06:02.392234,Banská Bystrica Zelená,19,14,46,x,x,12,15,x,x
-2021-05-07 00:06:01.729622,Žilina Obežná,13,5,67,x,516,15,19,x,x
-2021-05-07 00:06:01.729622,Žiar nad Hronom Jilemnického,14,8,x,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Žarnovica mobilná AMS,14,10,x,4,231,22,21,x,x
-2021-05-07 00:06:01.729622,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Vranov nad Top. M.R.Štefánika,11,10,x,8,x,x,x,x,x
-2021-05-07 00:06:01.729622,Veľká Ida Letná,25,10,x,x,291,x,x,x,x
-2021-05-07 00:06:01.729622,Trnava Kollárova,8,5,x,x,574,15,19,0.3,x
-2021-05-07 00:06:01.729622,Trenčín Hasičská,12,4,x,1,198,21,25,0.3,x
-2021-05-07 00:06:01.729622,Trebišov T. G. Masaryka,11,7,58,x,x,10,11,x,x
-2021-05-07 00:06:01.729622,Topoľníky Aszód EMEP,6,4,54,3,x,8,9,x,1.3
-2021-05-07 00:06:01.729622,Strážske Mierová,9,7,x,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Stará Lesná AÚ SAV EMEP,8,5,66,x,x,*,*,x,x
-2021-05-07 00:06:01.729622,Starina Vodná nádrž EMEP,x,x,64,x,x,*,*,x,2
-2021-05-07 00:06:01.729622,Sereď Vinárska,6,8,x,x,x,9,9,x,x
-2021-05-07 00:06:01.729622,Senica Hviezdoslavova,7,3,x,14,x,x,x,x,x
-2021-05-07 00:06:01.729622,Ružomberok Riadok,10,8,75,*,462,4,*,0.2,x
-2021-05-07 00:06:01.729622,Rovinka mobilná AMS,13,x,x,4,138,6,7,0.3,x
-2021-05-07 00:06:01.729622,Prievidza Malonecpalská,11,5,46,11,x,18,22,x,x
-2021-05-07 00:06:01.729622,Prešov Arm.gen. Ľ. Svobodu,18,8,x,x,374,49,76,0.3,x
-2021-05-07 00:06:01.729622,Pezinok,10,5,x,x,165,10,9,x,x
-2021-05-07 00:06:01.729622,Nitra Štúrova,8,3,x,26,414,23,38,0.2,x
-2021-05-07 00:06:01.729622,Nitra Janíkovce,9,3,64,x,x,6,7,x,x
-2021-05-07 00:06:01.729622,Mobilná stanica N2,13,8,x,2,218,x,x,x,x
-2021-05-07 00:06:01.729622,Martin Jesenského,12,11,x,x,130,9,11,0.3,x
-2021-05-07 00:06:01.729622,Malacky Mierové námestie,11,2,x,4,482,7,14,0.2,x
-2021-05-07 00:06:01.729622,Krompachy SNP,13,8,x,5,594,18,33,0.4,x
-2021-05-07 00:06:01.729622,Košice Štefánikova,15,7,x,*,449,28,33,0.1,x
-2021-05-07 00:06:01.729622,Košice Ďumbierska,x,x,57,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Košice Amurská,14,10,x,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Kolonické sedlo,5,4,x,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Kojšovská Hoľa,x,x,82,x,x,5,6,x,x
-2021-05-07 00:06:01.729622,Jelšava Jesenského,23,24,46,x,x,7,12,x,x
-2021-05-07 00:06:01.729622,Humenné Nám. slobody,15,7,51,x,x,14,15,x,x
-2021-05-07 00:06:01.729622,Hnúšta Hlavná,33,15,x,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Handlová Morovianska cesta,9,12,x,6,x,x,x,x,x
-2021-05-07 00:06:01.729622,Gánovce Meteo. st,x,x,71,x,x,3,5,x,x
-2021-05-07 00:06:01.729622,Chopok EMEP,x,x,92,x,x,2,3,x,x
-2021-05-07 00:06:01.729622,Bystričany Rozvodňa SSE,10,9,x,2,x,x,x,x,x
-2021-05-07 00:06:01.729622,Bratislava Trnavské Mýto,11,6,x,x,193,12,14,0.4,x
-2021-05-07 00:06:01.729622,Bratislava Mamateyova,3,PDL,60,*,x,12,15,x,x
-2021-05-07 00:06:01.729622,Bratislava Kamenné nám.,6,2,x,x,x,x,x,x,x
-2021-05-07 00:06:01.729622,Bratislava Jeséniova,8,3,69,6,x,6,6,x,x
-2021-05-07 00:06:01.729622,Bardejov Pod Vinbargom,13,7,47,x,x,13,15,x,x
-2021-05-07 00:06:01.729622,Banská Bystrica Štefánikovo nábrežie,25,12,x,8,*,21,33,0.4,x
-2021-05-07 00:06:01.729622,Banská Bystrica Zelená,22,17,48,x,x,13,17,x,x
-2021-05-06 23:06:02.088010,Žilina Obežná,6,4,75,x,460,8,11,x,x
-2021-05-06 23:06:02.088010,Žiar nad Hronom Jilemnického,11,6,x,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Žarnovica mobilná AMS,14,13,x,5,211,16,15,x,x
-2021-05-06 23:06:02.088010,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Vranov nad Top. M.R.Štefánika,8,7,x,6,x,x,x,x,x
-2021-05-06 23:06:02.088010,Veľká Ida Letná,25,8,x,x,*,x,x,x,x
-2021-05-06 23:06:02.088010,Trnava Kollárova,8,3,x,x,603,25,33,0.3,x
-2021-05-06 23:06:02.088010,Trenčín Hasičská,7,2,x,1,194,24,30,0.3,x
-2021-05-06 23:06:02.088010,Trebišov T. G. Masaryka,7,4,69,x,x,9,13,x,x
-2021-05-06 23:06:02.088010,Topoľníky Aszód EMEP,4,4,55,3,x,8,10,x,1.5
-2021-05-06 23:06:02.088010,Strážske Mierová,10,7,x,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Stará Lesná AÚ SAV EMEP,7,5,63,x,x,4,10,x,x
-2021-05-06 23:06:02.088010,Starina Vodná nádrž EMEP,x,x,77,x,x,4,4,x,0.8
-2021-05-06 23:06:02.088010,Sereď Vinárska,5,6,x,x,x,9,9,x,x
-2021-05-06 23:06:02.088010,Senica Hviezdoslavova,5,1,x,9,x,x,x,x,x
-2021-05-06 23:06:02.088010,Ružomberok Riadok,11,10,73,*,516,7,*,0.3,x
-2021-05-06 23:06:02.088010,Rovinka mobilná AMS,7,x,x,4,141,6,6,0.2,x
-2021-05-06 23:06:02.088010,Prievidza Malonecpalská,13,8,56,12,x,14,16,x,x
-2021-05-06 23:06:02.088010,Prešov Arm.gen. Ľ. Svobodu,14,5,x,x,338,37,63,0.3,x
-2021-05-06 23:06:02.088010,Pezinok,13,5,x,x,188,11,9,x,x
-2021-05-06 23:06:02.088010,Nitra Štúrova,8,2,x,25,383,*,*,0.2,x
-2021-05-06 23:06:02.088010,Nitra Janíkovce,7,2,66,x,x,8,9,x,x
-2021-05-06 23:06:02.088010,Mobilná stanica N2,12,9,x,2,*,x,x,x,x
-2021-05-06 23:06:02.088010,Martin Jesenského,15,10,x,x,152,14,20,0.4,x
-2021-05-06 23:06:02.088010,Malacky Mierové námestie,8,1,x,4,477,7,14,0.2,x
-2021-05-06 23:06:02.088010,Krompachy SNP,8,4,x,4,484,12,18,0.3,x
-2021-05-06 23:06:02.088010,Košice Štefánikova,14,6,x,8,427,34,53,0.1,x
-2021-05-06 23:06:02.088010,Košice Ďumbierska,x,x,71,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Košice Amurská,7,7,x,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Kolonické sedlo,4,4,x,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Kojšovská Hoľa,x,x,85,x,x,3,4,x,x
-2021-05-06 23:06:02.088010,Jelšava Jesenského,39,32,49,x,x,8,14,x,x
-2021-05-06 23:06:02.088010,Humenné Nám. slobody,13,5,*,x,x,9,9,x,x
-2021-05-06 23:06:02.088010,Hnúšta Hlavná,18,5,x,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Handlová Morovianska cesta,8,10,x,5,x,x,x,x,x
-2021-05-06 23:06:02.088010,Gánovce Meteo. st,x,x,72,x,x,3,5,x,x
-2021-05-06 23:06:02.088010,Chopok EMEP,x,x,94,x,x,3,3,x,x
-2021-05-06 23:06:02.088010,Bystričany Rozvodňa SSE,9,10,x,2,x,x,x,x,x
-2021-05-06 23:06:02.088010,Bratislava Trnavské Mýto,6,5,x,x,203,20,26,0.3,x
-2021-05-06 23:06:02.088010,Bratislava Mamateyova,6,1,*,2,x,14,17,x,x
-2021-05-06 23:06:02.088010,Bratislava Kamenné nám.,6,PDL,x,x,x,x,x,x,x
-2021-05-06 23:06:02.088010,Bratislava Jeséniova,7,3,75,6,x,6,6,x,x
-2021-05-06 23:06:02.088010,Bardejov Pod Vinbargom,12,9,47,x,x,15,18,x,x
-2021-05-06 23:06:02.088010,Banská Bystrica Štefánikovo nábrežie,20,9,x,8,810,28,48,0.3,x
-2021-05-06 23:06:02.088010,Banská Bystrica Zelená,11,7,54,x,x,12,15,x,x
-2021-05-06 22:06:01.519081,Žilina Obežná,9,5,78,x,460,6,9,x,x
-2021-05-06 22:06:01.519081,Žiar nad Hronom Jilemnického,9,4,x,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Žarnovica mobilná AMS,11,12,x,7,269,10,9,x,x
-2021-05-06 22:06:01.519081,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Vranov nad Top. M.R.Štefánika,8,6,x,5,x,x,x,x,x
-2021-05-06 22:06:01.519081,Veľká Ida Letná,12,5,x,x,300,x,x,x,x
-2021-05-06 22:06:01.519081,Trnava Kollárova,7,5,x,x,612,24,33,0.2,x
-2021-05-06 22:06:01.519081,Trenčín Hasičská,13,2,x,1,217,31,37,0.3,x
-2021-05-06 22:06:01.519081,Trebišov T. G. Masaryka,8,6,68,x,x,11,14,x,x
-2021-05-06 22:06:01.519081,Topoľníky Aszód EMEP,6,PDL,63,3,x,7,8,x,1.4
-2021-05-06 22:06:01.519081,Strážske Mierová,10,4,x,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Stará Lesná AÚ SAV EMEP,6,4,65,x,x,4,11,x,x
-2021-05-06 22:06:01.519081,Starina Vodná nádrž EMEP,x,x,83,x,x,4,4,x,1
-2021-05-06 22:06:01.519081,Sereď Vinárska,8,7,x,x,x,11,12,x,x
-2021-05-06 22:06:01.519081,Senica Hviezdoslavova,10,4,x,14,x,x,x,x,x
-2021-05-06 22:06:01.519081,Ružomberok Riadok,8,8,75,*,519,7,*,0.4,x
-2021-05-06 22:06:01.519081,Rovinka mobilná AMS,8,x,x,4,127,5,6,0.2,x
-2021-05-06 22:06:01.519081,Prievidza Malonecpalská,11,5,64,*,x,15,16,x,x
-2021-05-06 22:06:01.519081,Prešov Arm.gen. Ľ. Svobodu,14,4,x,x,397,39,70,0.3,x
-2021-05-06 22:06:01.519081,Pezinok,51,5,x,x,160,12,11,x,x
-2021-05-06 22:06:01.519081,Nitra Štúrova,8,1,x,25,408,28,45,0.2,x
-2021-05-06 22:06:01.519081,Nitra Janíkovce,10,8,66,x,x,8,9,x,x
-2021-05-06 22:06:01.519081,Mobilná stanica N2,16,14,x,2,303,x,x,x,x
-2021-05-06 22:06:01.519081,Martin Jesenského,11,9,x,x,173,15,18,0.3,x
-2021-05-06 22:06:01.519081,Malacky Mierové námestie,6,3,x,4,484,10,17,0.1,x
-2021-05-06 22:06:01.519081,Krompachy SNP,7,4,x,2,431,8,12,0.2,x
-2021-05-06 22:06:01.519081,Košice Štefánikova,10,6,x,8,404,17,27,0.1,x
-2021-05-06 22:06:01.519081,Košice Ďumbierska,x,x,72,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Košice Amurská,7,8,x,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Kolonické sedlo,5,5,x,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Kojšovská Hoľa,x,x,82,x,x,5,6,x,x
-2021-05-06 22:06:01.519081,Jelšava Jesenského,16,15,60,x,x,9,16,x,x
-2021-05-06 22:06:01.519081,Humenné Nám. slobody,13,5,80,x,x,8,9,x,x
-2021-05-06 22:06:01.519081,Hnúšta Hlavná,21,11,x,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Handlová Morovianska cesta,6,12,x,5,x,x,x,x,x
-2021-05-06 22:06:01.519081,Gánovce Meteo. st,x,x,69,x,x,4,6,x,x
-2021-05-06 22:06:01.519081,Chopok EMEP,x,x,94,x,x,2,3,x,x
-2021-05-06 22:06:01.519081,Bystričany Rozvodňa SSE,6,9,x,2,x,x,x,x,x
-2021-05-06 22:06:01.519081,Bratislava Trnavské Mýto,9,3,x,x,204,18,25,0.5,x
-2021-05-06 22:06:01.519081,Bratislava Mamateyova,3,2,75,2,x,9,11,x,x
-2021-05-06 22:06:01.519081,Bratislava Kamenné nám.,6,2,x,x,x,x,x,x,x
-2021-05-06 22:06:01.519081,Bratislava Jeséniova,5,4,80,6,x,6,6,x,x
-2021-05-06 22:06:01.519081,Bardejov Pod Vinbargom,8,5,69,x,x,13,15,x,x
-2021-05-06 22:06:01.519081,Banská Bystrica Štefánikovo nábrežie,16,5,x,8,805,32,55,0.3,x
-2021-05-06 22:06:01.519081,Banská Bystrica Zelená,6,3,74,x,x,7,10,x,x
-2021-05-06 21:06:01.908772,Vranov nad Top. M.R.Štefánika,6,5,x,5,x,x,x,x,x
-2021-05-06 21:06:01.908772,Starina Vodná nádrž EMEP,x,x,92,x,x,2,2,x,1.4
-2021-05-06 21:06:01.908772,Mobilná stanica N2,14,10,x,*,325,x,x,x,x
-2021-05-06 21:06:01.908772,Kolonické sedlo,6,2,x,x,x,x,x,x,x
-2021-05-06 21:06:01.908772,Bardejov Pod Vinbargom,5,4,88,x,x,4,6,x,x
+2021-05-08 08:06:02.164163,Žilina Obežná,13,10,33,x,549,7,10,x,x
+2021-05-08 08:06:02.164163,Žiar nad Hronom Jilemnického,7,4,x,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Žarnovica mobilná AMS,8,8,x,4,192,4,4,x,x
+2021-05-08 08:06:02.164163,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Vranov nad Top. M.R.Štefánika,5,5,x,*,x,x,x,x,x
+2021-05-08 08:06:02.164163,Veľká Ida Letná,5,3,x,x,272,x,x,x,x
+2021-05-08 08:06:02.164163,Trnava Kollárova,6,2,x,x,567,21,36,0.2,x
+2021-05-08 08:06:02.164163,Trenčín Hasičská,14,7,x,1,311,25,38,0.5,x
+2021-05-08 08:06:02.164163,Trebišov T. G. Masaryka,7,7,58,x,x,13,15,x,x
+2021-05-08 08:06:02.164163,Topoľníky Aszód EMEP,4,4,54,2,x,4,5,x,1.1
+2021-05-08 08:06:02.164163,Strážske Mierová,8,7,x,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Stará Lesná AÚ SAV EMEP,2,1,69,x,x,2,8,x,x
+2021-05-08 08:06:02.164163,Starina Vodná nádrž EMEP,x,x,71,x,x,2,2,x,1.4
+2021-05-08 08:06:02.164163,Sereď Vinárska,7,7,x,x,x,8,8,x,x
+2021-05-08 08:06:02.164163,Senica Hviezdoslavova,5,3,x,10,x,x,x,x,x
+2021-05-08 08:06:02.164163,Ružomberok Riadok,6,5,56,16,533,5,8,0.2,x
+2021-05-08 08:06:02.164163,Rovinka mobilná AMS,9,x,x,5,135,7,7,1,x
+2021-05-08 08:06:02.164163,Prievidza Malonecpalská,10,6,15,11,x,12,17,x,x
+2021-05-08 08:06:02.164163,Prešov Arm.gen. Ľ. Svobodu,10,5,x,x,303,23,40,0.2,x
+2021-05-08 08:06:02.164163,Pezinok,5,6,x,x,151,5,4,x,x
+2021-05-08 08:06:02.164163,Nitra Štúrova,6,1,x,24,359,11,22,0.2,x
+2021-05-08 08:06:02.164163,Nitra Janíkovce,11,5,57,x,x,*,*,x,x
+2021-05-08 08:06:02.164163,Mobilná stanica N2,8,8,x,2,235,x,x,x,x
+2021-05-08 08:06:02.164163,Martin Jesenského,12,12,x,x,157,18,28,0.3,x
+2021-05-08 08:06:02.164163,Malacky Mierové námestie,4,2,x,3,545,18,44,0.2,x
+2021-05-08 08:06:02.164163,Krompachy SNP,6,5,x,4,445,9,14,0.2,x
+2021-05-08 08:06:02.164163,Košice Štefánikova,10,3,x,6,382,26,37,0.1,x
+2021-05-08 08:06:02.164163,Košice Ďumbierska,x,x,57,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Košice Amurská,9,8,x,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Kolonické sedlo,6,8,x,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Kojšovská Hoľa,x,x,84,x,x,2,2,x,x
+2021-05-08 08:06:02.164163,Jelšava Jesenského,52,12,58,x,x,7,13,x,x
+2021-05-08 08:06:02.164163,Humenné Nám. slobody,7,4,55,x,x,6,6,x,x
+2021-05-08 08:06:02.164163,Hnúšta Hlavná,12,1,x,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Handlová Morovianska cesta,14,19,x,5,x,x,x,x,x
+2021-05-08 08:06:02.164163,Gánovce Meteo. st,x,x,73,x,x,3,4,x,x
+2021-05-08 08:06:02.164163,Chopok EMEP,x,x,88,x,x,3,3,x,x
+2021-05-08 08:06:02.164163,Bystričany Rozvodňa SSE,6,13,x,1,x,x,x,x,x
+2021-05-08 08:06:02.164163,Bratislava Trnavské Mýto,4,5,x,x,203,10,15,0.1,x
+2021-05-08 08:06:02.164163,Bratislava Mamateyova,4,2,60,2,x,8,10,x,x
+2021-05-08 08:06:02.164163,Bratislava Kamenné nám.,4,3,x,x,x,x,x,x,x
+2021-05-08 08:06:02.164163,Bratislava Jeséniova,5,4,70,6,x,4,4,x,x
+2021-05-08 08:06:02.164163,Bardejov Pod Vinbargom,6,4,69,x,x,5,6,x,x
+2021-05-08 08:06:02.164163,Banská Bystrica Štefánikovo nábrežie,18,9,x,9,829,34,74,0.3,x
+2021-05-08 08:06:02.164163,Banská Bystrica Zelená,7,6,74,x,x,5,7,x,x
+2021-05-08 07:06:01.610907,Žilina Obežná,13,10,33,x,549,7,10,x,x
+2021-05-08 07:06:01.610907,Žiar nad Hronom Jilemnického,7,4,x,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Žarnovica mobilná AMS,8,8,x,4,192,4,4,x,x
+2021-05-08 07:06:01.610907,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Vranov nad Top. M.R.Štefánika,5,5,x,*,x,x,x,x,x
+2021-05-08 07:06:01.610907,Veľká Ida Letná,5,3,x,x,272,x,x,x,x
+2021-05-08 07:06:01.610907,Trnava Kollárova,6,2,x,x,567,21,36,0.2,x
+2021-05-08 07:06:01.610907,Trenčín Hasičská,14,7,x,1,311,25,38,0.5,x
+2021-05-08 07:06:01.610907,Trebišov T. G. Masaryka,7,7,58,x,x,13,15,x,x
+2021-05-08 07:06:01.610907,Topoľníky Aszód EMEP,4,4,54,2,x,4,5,x,1.1
+2021-05-08 07:06:01.610907,Strážske Mierová,8,7,x,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Stará Lesná AÚ SAV EMEP,2,1,69,x,x,2,8,x,x
+2021-05-08 07:06:01.610907,Starina Vodná nádrž EMEP,x,x,71,x,x,2,2,x,1.4
+2021-05-08 07:06:01.610907,Sereď Vinárska,7,7,x,x,x,8,8,x,x
+2021-05-08 07:06:01.610907,Senica Hviezdoslavova,5,3,x,10,x,x,x,x,x
+2021-05-08 07:06:01.610907,Ružomberok Riadok,6,5,56,16,533,5,8,0.2,x
+2021-05-08 07:06:01.610907,Rovinka mobilná AMS,9,x,x,5,135,7,7,1,x
+2021-05-08 07:06:01.610907,Prievidza Malonecpalská,10,6,15,11,x,12,17,x,x
+2021-05-08 07:06:01.610907,Prešov Arm.gen. Ľ. Svobodu,10,5,x,x,303,23,40,0.2,x
+2021-05-08 07:06:01.610907,Pezinok,5,6,x,x,151,5,4,x,x
+2021-05-08 07:06:01.610907,Nitra Štúrova,6,1,x,24,359,11,22,0.2,x
+2021-05-08 07:06:01.610907,Nitra Janíkovce,11,5,57,x,x,*,*,x,x
+2021-05-08 07:06:01.610907,Mobilná stanica N2,8,8,x,2,235,x,x,x,x
+2021-05-08 07:06:01.610907,Martin Jesenského,12,12,x,x,157,18,28,0.3,x
+2021-05-08 07:06:01.610907,Malacky Mierové námestie,4,2,x,3,545,18,44,0.2,x
+2021-05-08 07:06:01.610907,Krompachy SNP,6,5,x,4,445,9,14,0.2,x
+2021-05-08 07:06:01.610907,Košice Štefánikova,10,3,x,6,382,26,37,0.1,x
+2021-05-08 07:06:01.610907,Košice Ďumbierska,x,x,57,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Košice Amurská,9,8,x,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Kolonické sedlo,6,8,x,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Kojšovská Hoľa,x,x,84,x,x,2,2,x,x
+2021-05-08 07:06:01.610907,Jelšava Jesenského,52,12,58,x,x,7,13,x,x
+2021-05-08 07:06:01.610907,Humenné Nám. slobody,7,4,55,x,x,6,6,x,x
+2021-05-08 07:06:01.610907,Hnúšta Hlavná,12,1,x,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Handlová Morovianska cesta,14,19,x,5,x,x,x,x,x
+2021-05-08 07:06:01.610907,Gánovce Meteo. st,x,x,73,x,x,3,4,x,x
+2021-05-08 07:06:01.610907,Chopok EMEP,x,x,88,x,x,3,3,x,x
+2021-05-08 07:06:01.610907,Bystričany Rozvodňa SSE,6,13,x,1,x,x,x,x,x
+2021-05-08 07:06:01.610907,Bratislava Trnavské Mýto,4,5,x,x,203,10,15,0.1,x
+2021-05-08 07:06:01.610907,Bratislava Mamateyova,4,2,60,2,x,8,10,x,x
+2021-05-08 07:06:01.610907,Bratislava Kamenné nám.,4,3,x,x,x,x,x,x,x
+2021-05-08 07:06:01.610907,Bratislava Jeséniova,5,4,70,6,x,4,4,x,x
+2021-05-08 07:06:01.610907,Bardejov Pod Vinbargom,6,4,69,x,x,5,6,x,x
+2021-05-08 07:06:01.610907,Banská Bystrica Štefánikovo nábrežie,18,9,x,9,829,34,74,0.3,x
+2021-05-08 07:06:01.610907,Banská Bystrica Zelená,7,6,74,x,x,5,7,x,x
+2021-05-08 06:06:01.581167,Žilina Obežná,12,9,32,x,564,7,10,x,x
+2021-05-08 06:06:01.581167,Žiar nad Hronom Jilemnického,8,3,x,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Žarnovica mobilná AMS,10,7,x,4,187,3,3,x,x
+2021-05-08 06:06:01.581167,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Vranov nad Top. M.R.Štefánika,5,4,x,6,x,x,x,x,x
+2021-05-08 06:06:01.581167,Veľká Ida Letná,4,2,x,x,282,x,x,x,x
+2021-05-08 06:06:01.581167,Trnava Kollárova,5,2,x,x,541,10,15,0.2,x
+2021-05-08 06:06:01.581167,Trenčín Hasičská,9,4,x,1,197,14,18,0.2,x
+2021-05-08 06:06:01.581167,Trebišov T. G. Masaryka,5,2,63,x,x,8,10,x,x
+2021-05-08 06:06:01.581167,Topoľníky Aszód EMEP,5,4,66,3,x,3,4,x,1
+2021-05-08 06:06:01.581167,Strážske Mierová,8,6,x,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Stará Lesná AÚ SAV EMEP,3,3,72,x,x,3,10,x,x
+2021-05-08 06:06:01.581167,Starina Vodná nádrž EMEP,x,x,74,x,x,2,2,x,1.4
+2021-05-08 06:06:01.581167,Sereď Vinárska,5,6,x,x,x,7,7,x,x
+2021-05-08 06:06:01.581167,Senica Hviezdoslavova,4,3,x,10,x,x,x,x,x
+2021-05-08 06:06:01.581167,Ružomberok Riadok,7,4,56,16,526,4,6,0.2,x
+2021-05-08 06:06:01.581167,Rovinka mobilná AMS,12,x,x,15,136,7,7,1.4,x
+2021-05-08 06:06:01.581167,Prievidza Malonecpalská,7,7,22,11,x,9,11,x,x
+2021-05-08 06:06:01.581167,Prešov Arm.gen. Ľ. Svobodu,9,4,x,x,267,10,16,0.2,x
+2021-05-08 06:06:01.581167,Pezinok,3,6,x,x,142,4,2,x,x
+2021-05-08 06:06:01.581167,Nitra Štúrova,4,4,x,23,349,11,22,0.2,x
+2021-05-08 06:06:01.581167,Nitra Janíkovce,7,4,62,x,x,5,6,x,x
+2021-05-08 06:06:01.581167,Mobilná stanica N2,8,8,x,2,193,x,x,x,x
+2021-05-08 06:06:01.581167,Martin Jesenského,10,12,x,x,144,6,7,0.3,x
+2021-05-08 06:06:01.581167,Malacky Mierové námestie,2,PDL,x,3,503,16,40,0.1,x
+2021-05-08 06:06:01.581167,Krompachy SNP,3,3,x,4,400,4,6,0.1,x
+2021-05-08 06:06:01.581167,Košice Štefánikova,8,2,x,7,383,14,16,0.1,x
+2021-05-08 06:06:01.581167,Košice Ďumbierska,x,x,64,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Košice Amurská,7,6,x,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Kolonické sedlo,7,5,x,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Kojšovská Hoľa,x,x,84,x,x,2,2,x,x
+2021-05-08 06:06:01.581167,Jelšava Jesenského,40,9,53,x,x,6,11,x,x
+2021-05-08 06:06:01.581167,Humenné Nám. slobody,5,5,75,x,x,3,3,x,x
+2021-05-08 06:06:01.581167,Hnúšta Hlavná,11,4,x,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Handlová Morovianska cesta,8,14,x,5,x,x,x,x,x
+2021-05-08 06:06:01.581167,Gánovce Meteo. st,x,x,73,x,x,3,5,x,x
+2021-05-08 06:06:01.581167,Chopok EMEP,x,x,*,x,x,2,3,x,x
+2021-05-08 06:06:01.581167,Bystričany Rozvodňa SSE,6,10,x,1,x,x,x,x,x
+2021-05-08 06:06:01.581167,Bratislava Trnavské Mýto,3,5,x,x,183,11,14,0.1,x
+2021-05-08 06:06:01.581167,Bratislava Mamateyova,5,PDL,65,2,x,7,9,x,x
+2021-05-08 06:06:01.581167,Bratislava Kamenné nám.,4,3,x,x,x,x,x,x,x
+2021-05-08 06:06:01.581167,Bratislava Jeséniova,5,5,70,6,x,4,4,x,x
+2021-05-08 06:06:01.581167,Bardejov Pod Vinbargom,5,4,78,x,x,2,3,x,x
+2021-05-08 06:06:01.581167,Banská Bystrica Štefánikovo nábrežie,12,6,x,9,737,21,39,0.4,x
+2021-05-08 06:06:01.581167,Banská Bystrica Zelená,9,7,74,x,x,4,7,x,x
+2021-05-08 05:06:02.051025,Žilina Obežná,11,9,37,x,553,8,10,x,x
+2021-05-08 05:06:02.051025,Žiar nad Hronom Jilemnického,8,4,x,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Žarnovica mobilná AMS,12,10,x,4,187,3,3,x,x
+2021-05-08 05:06:02.051025,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Vranov nad Top. M.R.Štefánika,4,5,x,5,x,x,x,x,x
+2021-05-08 05:06:02.051025,Veľká Ida Letná,5,2,x,x,242,x,x,x,x
+2021-05-08 05:06:02.051025,Trnava Kollárova,5,1,x,x,533,6,7,0.2,x
+2021-05-08 05:06:02.051025,Trenčín Hasičská,6,4,x,1,202,13,15,0.2,x
+2021-05-08 05:06:02.051025,Trebišov T. G. Masaryka,3,1,72,x,x,4,5,x,x
+2021-05-08 05:06:02.051025,Topoľníky Aszód EMEP,8,6,64,3,x,3,4,x,1.1
+2021-05-08 05:06:02.051025,Strážske Mierová,7,5,x,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Stará Lesná AÚ SAV EMEP,5,4,75,x,x,2,8,x,x
+2021-05-08 05:06:02.051025,Starina Vodná nádrž EMEP,x,x,83,x,x,3,2,x,1.7
+2021-05-08 05:06:02.051025,Sereď Vinárska,6,7,x,x,x,7,7,x,x
+2021-05-08 05:06:02.051025,Senica Hviezdoslavova,5,2,x,*,x,x,x,x,x
+2021-05-08 05:06:02.051025,Ružomberok Riadok,8,4,60,17,510,3,5,0.2,x
+2021-05-08 05:06:02.051025,Rovinka mobilná AMS,8,x,x,33,146,11,11,1.9,x
+2021-05-08 05:06:02.051025,Prievidza Malonecpalská,11,7,28,11,x,8,9,x,x
+2021-05-08 05:06:02.051025,Prešov Arm.gen. Ľ. Svobodu,5,PDL,x,x,280,8,11,0.2,x
+2021-05-08 05:06:02.051025,Pezinok,6,4,x,x,143,3,2,x,x
+2021-05-08 05:06:02.051025,Nitra Štúrova,4,3,x,24,360,9,17,0.2,x
+2021-05-08 05:06:02.051025,Nitra Janíkovce,6,3,67,x,x,4,4,x,x
+2021-05-08 05:06:02.051025,Mobilná stanica N2,9,9,x,2,193,x,x,x,x
+2021-05-08 05:06:02.051025,Martin Jesenského,10,12,x,x,151,5,5,0.3,x
+2021-05-08 05:06:02.051025,Malacky Mierové námestie,4,PDL,x,2,477,11,38,0.1,x
+2021-05-08 05:06:02.051025,Krompachy SNP,4,5,x,5,410,1,3,0.1,x
+2021-05-08 05:06:02.051025,Košice Štefánikova,8,4,x,7,346,2,3,0.1,x
+2021-05-08 05:06:02.051025,Košice Ďumbierska,x,x,70,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Košice Amurská,6,5,x,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Kolonické sedlo,7,6,x,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Kojšovská Hoľa,x,x,85,x,x,2,2,x,x
+2021-05-08 05:06:02.051025,Jelšava Jesenského,9,7,63,x,x,5,10,x,x
+2021-05-08 05:06:02.051025,Humenné Nám. slobody,6,3,71,x,x,3,3,x,x
+2021-05-08 05:06:02.051025,Hnúšta Hlavná,13,6,x,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Handlová Morovianska cesta,12,15,x,5,x,x,x,x,x
+2021-05-08 05:06:02.051025,Gánovce Meteo. st,x,x,75,x,x,2,5,x,x
+2021-05-08 05:06:02.051025,Chopok EMEP,x,x,92,x,x,2,3,x,x
+2021-05-08 05:06:02.051025,Bystričany Rozvodňa SSE,7,11,x,1,x,x,x,x,x
+2021-05-08 05:06:02.051025,Bratislava Trnavské Mýto,5,5,x,x,184,9,10,0.1,x
+2021-05-08 05:06:02.051025,Bratislava Mamateyova,4,PDL,69,2,x,5,6,x,x
+2021-05-08 05:06:02.051025,Bratislava Kamenné nám.,4,1,x,x,x,x,x,x,x
+2021-05-08 05:06:02.051025,Bratislava Jeséniova,4,2,72,6,x,3,3,x,x
+2021-05-08 05:06:02.051025,Bardejov Pod Vinbargom,6,5,80,x,x,2,3,x,x
+2021-05-08 05:06:02.051025,Banská Bystrica Štefánikovo nábrežie,7,5,x,8,723,12,17,0.2,x
+2021-05-08 05:06:02.051025,Banská Bystrica Zelená,8,4,79,x,x,4,7,x,x
+2021-05-08 04:06:01.543890,Žilina Obežná,13,11,28,x,579,11,14,x,x
+2021-05-08 04:06:01.543890,Žiar nad Hronom Jilemnického,8,6,x,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Žarnovica mobilná AMS,13,13,x,4,186,3,3,x,x
+2021-05-08 04:06:01.543890,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Vranov nad Top. M.R.Štefánika,5,3,x,6,x,x,x,x,x
+2021-05-08 04:06:01.543890,Veľká Ida Letná,9,5,x,x,233,x,x,x,x
+2021-05-08 04:06:01.543890,Trnava Kollárova,5,3,x,x,531,5,6,0.2,x
+2021-05-08 04:06:01.543890,Trenčín Hasičská,8,3,x,1,205,14,16,0.3,x
+2021-05-08 04:06:01.543890,Trebišov T. G. Masaryka,5,5,82,x,x,2,3,x,x
+2021-05-08 04:06:01.543890,Topoľníky Aszód EMEP,4,4,60,3,x,4,5,x,1.1
+2021-05-08 04:06:01.543890,Strážske Mierová,8,6,x,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Stará Lesná AÚ SAV EMEP,17,12,80,x,x,3,9,x,x
+2021-05-08 04:06:01.543890,Starina Vodná nádrž EMEP,x,x,84,x,x,3,3,x,1.4
+2021-05-08 04:06:01.543890,Sereď Vinárska,7,7,x,x,x,7,7,x,x
+2021-05-08 04:06:01.543890,Senica Hviezdoslavova,6,4,x,12,x,x,x,x,x
+2021-05-08 04:06:01.543890,Ružomberok Riadok,8,9,58,17,508,4,7,0.2,x
+2021-05-08 04:06:01.543890,Rovinka mobilná AMS,8,x,x,28,141,13,14,1.6,x
+2021-05-08 04:06:01.543890,Prievidza Malonecpalská,11,8,41,11,x,9,10,x,x
+2021-05-08 04:06:01.543890,Prešov Arm.gen. Ľ. Svobodu,7,4,x,x,*,6,10,0.2,x
+2021-05-08 04:06:01.543890,Pezinok,8,4,x,x,142,4,3,x,x
+2021-05-08 04:06:01.543890,Nitra Štúrova,4,2,x,24,342,7,12,0.2,x
+2021-05-08 04:06:01.543890,Nitra Janíkovce,8,4,69,x,x,5,6,x,x
+2021-05-08 04:06:01.543890,Mobilná stanica N2,8,7,x,2,184,x,x,x,x
+2021-05-08 04:06:01.543890,Martin Jesenského,12,11,x,x,153,5,5,0.3,x
+2021-05-08 04:06:01.543890,Malacky Mierové námestie,3,PDL,x,3,483,8,18,0.1,x
+2021-05-08 04:06:01.543890,Krompachy SNP,3,3,x,4,410,1,3,0.1,x
+2021-05-08 04:06:01.543890,Košice Štefánikova,7,4,x,6,346,3,4,0.1,x
+2021-05-08 04:06:01.543890,Košice Ďumbierska,x,x,80,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Košice Amurská,3,5,x,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Kolonické sedlo,6,6,x,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Kojšovská Hoľa,x,x,86,x,x,2,2,x,x
+2021-05-08 04:06:01.543890,Jelšava Jesenského,9,6,78,x,x,3,9,x,x
+2021-05-08 04:06:01.543890,Humenné Nám. slobody,7,4,75,x,x,3,3,x,x
+2021-05-08 04:06:01.543890,Hnúšta Hlavná,13,6,x,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Handlová Morovianska cesta,11,16,x,5,x,x,x,x,x
+2021-05-08 04:06:01.543890,Gánovce Meteo. st,x,x,51,x,x,3,15,x,x
+2021-05-08 04:06:01.543890,Chopok EMEP,x,x,92,x,x,2,3,x,x
+2021-05-08 04:06:01.543890,Bystričany Rozvodňa SSE,7,13,x,1,x,x,x,x,x
+2021-05-08 04:06:01.543890,Bratislava Trnavské Mýto,6,4,x,x,*,8,9,0.1,x
+2021-05-08 04:06:01.543890,Bratislava Mamateyova,5,PDL,71,2,x,5,6,x,x
+2021-05-08 04:06:01.543890,Bratislava Kamenné nám.,6,3,x,x,x,x,x,x,x
+2021-05-08 04:06:01.543890,Bratislava Jeséniova,4,3,*,6,x,3,3,x,x
+2021-05-08 04:06:01.543890,Bardejov Pod Vinbargom,3,4,80,x,x,1,3,x,x
+2021-05-08 04:06:01.543890,Banská Bystrica Štefánikovo nábrežie,7,5,x,8,726,8,10,0.2,x
+2021-05-08 04:06:01.543890,Banská Bystrica Zelená,7,6,78,x,x,4,7,x,x
+2021-05-08 03:06:02.038268,Žilina Obežná,12,9,27,x,589,9,12,x,x
+2021-05-08 03:06:02.038268,Žiar nad Hronom Jilemnického,5,4,x,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Žarnovica mobilná AMS,11,10,x,4,247,4,4,x,x
+2021-05-08 03:06:02.038268,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Vranov nad Top. M.R.Štefánika,4,3,x,5,x,x,x,x,x
+2021-05-08 03:06:02.038268,Veľká Ida Letná,4,1,x,x,259,x,x,x,x
+2021-05-08 03:06:02.038268,Trnava Kollárova,5,PDL,x,x,513,5,6,0.2,x
+2021-05-08 03:06:02.038268,Trenčín Hasičská,10,5,x,1,240,20,25,0.3,x
+2021-05-08 03:06:02.038268,Trebišov T. G. Masaryka,5,6,84,x,x,2,3,x,x
+2021-05-08 03:06:02.038268,Topoľníky Aszód EMEP,6,3,67,3,x,4,5,x,1
+2021-05-08 03:06:02.038268,Strážske Mierová,6,6,x,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Stará Lesná AÚ SAV EMEP,3,5,79,x,x,3,9,x,x
+2021-05-08 03:06:02.038268,Starina Vodná nádrž EMEP,x,x,81,x,x,3,3,x,1.9
+2021-05-08 03:06:02.038268,Sereď Vinárska,7,8,x,x,x,7,6,x,x
+2021-05-08 03:06:02.038268,Senica Hviezdoslavova,8,4,x,12,x,x,x,x,x
+2021-05-08 03:06:02.038268,Ružomberok Riadok,10,6,61,17,530,4,6,0.2,x
+2021-05-08 03:06:02.038268,Rovinka mobilná AMS,11,x,x,28,139,16,17,1.7,x
+2021-05-08 03:06:02.038268,Prievidza Malonecpalská,11,8,54,11,x,9,11,x,x
+2021-05-08 03:06:02.038268,Prešov Arm.gen. Ľ. Svobodu,4,3,x,x,285,7,9,0.2,x
+2021-05-08 03:06:02.038268,Pezinok,11,4,x,x,150,6,4,x,x
+2021-05-08 03:06:02.038268,Nitra Štúrova,10,6,x,24,371,8,16,0.2,x
+2021-05-08 03:06:02.038268,Nitra Janíkovce,7,7,66,x,x,7,8,x,x
+2021-05-08 03:06:02.038268,Mobilná stanica N2,10,3,x,2,157,x,x,x,x
+2021-05-08 03:06:02.038268,Martin Jesenského,8,9,x,x,125,5,6,0.3,x
+2021-05-08 03:06:02.038268,Malacky Mierové námestie,6,2,x,3,487,9,17,0.1,x
+2021-05-08 03:06:02.038268,Krompachy SNP,5,3,x,4,423,2,4,0.1,x
+2021-05-08 03:06:02.038268,Košice Štefánikova,5,3,x,5,361,3,4,0.1,x
+2021-05-08 03:06:02.038268,Košice Ďumbierska,x,x,85,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Košice Amurská,2,7,x,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Kolonické sedlo,5,7,x,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Kojšovská Hoľa,x,x,86,x,x,2,2,x,x
+2021-05-08 03:06:02.038268,Jelšava Jesenského,10,8,68,x,x,10,16,x,x
+2021-05-08 03:06:02.038268,Humenné Nám. slobody,6,6,80,x,x,3,3,x,x
+2021-05-08 03:06:02.038268,Hnúšta Hlavná,10,3,x,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Handlová Morovianska cesta,17,21,x,5,x,x,x,x,x
+2021-05-08 03:06:02.038268,Gánovce Meteo. st,x,x,58,x,x,4,12,x,x
+2021-05-08 03:06:02.038268,Chopok EMEP,x,x,93,x,x,2,3,x,x
+2021-05-08 03:06:02.038268,Bystričany Rozvodňa SSE,8,14,x,1,x,x,x,x,x
+2021-05-08 03:06:02.038268,Bratislava Trnavské Mýto,6,6,x,x,188,*,*,0.1,x
+2021-05-08 03:06:02.038268,Bratislava Mamateyova,4,PDL,69,2,x,4,5,x,x
+2021-05-08 03:06:02.038268,Bratislava Kamenné nám.,7,PDL,x,x,x,x,x,x,x
+2021-05-08 03:06:02.038268,Bratislava Jeséniova,7,5,74,*,x,4,3,x,x
+2021-05-08 03:06:02.038268,Bardejov Pod Vinbargom,4,5,81,x,x,2,3,x,x
+2021-05-08 03:06:02.038268,Banská Bystrica Štefánikovo nábrežie,7,3,x,8,742,4,6,0.2,x
+2021-05-08 03:06:02.038268,Banská Bystrica Zelená,8,4,84,x,x,3,6,x,x
+2021-05-08 02:06:02.390920,Žilina Obežná,12,10,29,x,590,16,19,x,x
+2021-05-08 02:06:02.390920,Žiar nad Hronom Jilemnického,5,3,x,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Žarnovica mobilná AMS,11,11,x,4,327,6,6,x,x
+2021-05-08 02:06:02.390920,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Vranov nad Top. M.R.Štefánika,5,5,x,5,x,x,x,x,x
+2021-05-08 02:06:02.390920,Veľká Ida Letná,8,4,x,x,272,x,x,x,x
+2021-05-08 02:06:02.390920,Trnava Kollárova,6,2,x,x,528,6,8,0.2,x
+2021-05-08 02:06:02.390920,Trenčín Hasičská,9,6,x,1,241,19,22,0.3,x
+2021-05-08 02:06:02.390920,Trebišov T. G. Masaryka,5,6,77,x,x,4,5,x,x
+2021-05-08 02:06:02.390920,Topoľníky Aszód EMEP,7,5,72,3,x,4,4,x,1
+2021-05-08 02:06:02.390920,Strážske Mierová,5,4,x,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Stará Lesná AÚ SAV EMEP,9,4,77,x,x,3,9,x,x
+2021-05-08 02:06:02.390920,Starina Vodná nádrž EMEP,x,x,89,x,x,3,3,x,1.6
+2021-05-08 02:06:02.390920,Sereď Vinárska,9,9,x,x,x,7,7,x,x
+2021-05-08 02:06:02.390920,Senica Hviezdoslavova,7,3,x,12,x,x,x,x,x
+2021-05-08 02:06:02.390920,Ružomberok Riadok,7,6,76,17,501,4,7,0.2,x
+2021-05-08 02:06:02.390920,Rovinka mobilná AMS,13,x,x,21,143,11,12,1.1,x
+2021-05-08 02:06:02.390920,Prievidza Malonecpalská,13,10,54,11,x,11,12,x,x
+2021-05-08 02:06:02.390920,Prešov Arm.gen. Ľ. Svobodu,8,2,x,x,302,9,13,0.3,x
+2021-05-08 02:06:02.390920,Pezinok,11,5,x,x,161,7,6,x,x
+2021-05-08 02:06:02.390920,Nitra Štúrova,10,6,x,24,395,12,23,0.3,x
+2021-05-08 02:06:02.390920,Nitra Janíkovce,12,7,67,x,x,7,7,x,x
+2021-05-08 02:06:02.390920,Mobilná stanica N2,10,7,x,2,190,x,x,x,x
+2021-05-08 02:06:02.390920,Martin Jesenského,8,9,x,x,121,5,6,0.3,x
+2021-05-08 02:06:02.390920,Malacky Mierové námestie,5,1,x,3,491,9,19,0.1,x
+2021-05-08 02:06:02.390920,Krompachy SNP,5,6,x,4,417,*,*,0.1,x
+2021-05-08 02:06:02.390920,Košice Štefánikova,8,3,x,*,382,3,5,0.2,x
+2021-05-08 02:06:02.390920,Košice Ďumbierska,x,x,85,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Košice Amurská,6,5,x,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Kolonické sedlo,PDL,5,x,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Kojšovská Hoľa,x,x,84,x,x,2,2,x,x
+2021-05-08 02:06:02.390920,Jelšava Jesenského,19,11,58,x,x,5,11,x,x
+2021-05-08 02:06:02.390920,Humenné Nám. slobody,5,4,78,x,x,3,4,x,x
+2021-05-08 02:06:02.390920,Hnúšta Hlavná,11,4,x,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Handlová Morovianska cesta,17,21,x,*,x,x,x,x,x
+2021-05-08 02:06:02.390920,Gánovce Meteo. st,x,x,68,x,x,3,7,x,x
+2021-05-08 02:06:02.390920,Chopok EMEP,x,x,93,x,x,2,3,x,x
+2021-05-08 02:06:02.390920,Bystričany Rozvodňa SSE,7,11,x,1,x,x,x,x,x
+2021-05-08 02:06:02.390920,Bratislava Trnavské Mýto,8,6,x,x,186,9,10,0.2,x
+2021-05-08 02:06:02.390920,Bratislava Mamateyova,7,PDL,69,2,x,3,5,x,x
+2021-05-08 02:06:02.390920,Bratislava Kamenné nám.,6,PDL,x,x,x,x,x,x,x
+2021-05-08 02:06:02.390920,Bratislava Jeséniova,8,4,73,6,x,*,*,x,x
+2021-05-08 02:06:02.390920,Bardejov Pod Vinbargom,3,3,86,x,x,2,3,x,x
+2021-05-08 02:06:02.390920,Banská Bystrica Štefánikovo nábrežie,8,4,x,8,728,4,6,0.2,x
+2021-05-08 02:06:02.390920,Banská Bystrica Zelená,7,4,88,x,x,3,6,x,x
+2021-05-08 01:06:01.794970,Žilina Obežná,10,7,36,x,557,22,26,x,x
+2021-05-08 01:06:01.794970,Žiar nad Hronom Jilemnického,5,6,x,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Žarnovica mobilná AMS,11,10,x,4,299,6,6,x,x
+2021-05-08 01:06:01.794970,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Vranov nad Top. M.R.Štefánika,3,3,x,6,x,x,x,x,x
+2021-05-08 01:06:01.794970,Veľká Ida Letná,11,7,x,x,491,x,x,x,x
+2021-05-08 01:06:01.794970,Trnava Kollárova,8,6,x,x,547,9,12,0.3,x
+2021-05-08 01:06:01.794970,Trenčín Hasičská,8,4,x,1,207,15,18,0.3,x
+2021-05-08 01:06:01.794970,Trebišov T. G. Masaryka,8,4,79,x,x,5,7,x,x
+2021-05-08 01:06:01.794970,Topoľníky Aszód EMEP,8,5,61,3,x,5,6,x,1.3
+2021-05-08 01:06:01.794970,Strážske Mierová,7,2,x,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Stará Lesná AÚ SAV EMEP,1,PDL,75,x,x,*,*,x,x
+2021-05-08 01:06:01.794970,Starina Vodná nádrž EMEP,x,x,93,x,x,*,*,x,1.6
+2021-05-08 01:06:01.794970,Sereď Vinárska,9,10,x,x,x,9,9,x,x
+2021-05-08 01:06:01.794970,Senica Hviezdoslavova,14,8,x,12,x,x,x,x,x
+2021-05-08 01:06:01.794970,Ružomberok Riadok,8,4,81,17,489,3,5,0.2,x
+2021-05-08 01:06:01.794970,Rovinka mobilná AMS,9,x,x,16,146,10,10,0.9,x
+2021-05-08 01:06:01.794970,Prievidza Malonecpalská,9,8,63,11,x,9,10,x,x
+2021-05-08 01:06:01.794970,Prešov Arm.gen. Ľ. Svobodu,8,1,x,x,323,19,38,0.4,x
+2021-05-08 01:06:01.794970,Pezinok,13,7,x,x,155,11,10,x,x
+2021-05-08 01:06:01.794970,Nitra Štúrova,10,8,x,24,391,17,32,0.3,x
+2021-05-08 01:06:01.794970,Nitra Janíkovce,13,6,58,x,x,13,14,x,x
+2021-05-08 01:06:01.794970,Mobilná stanica N2,12,8,x,2,195,x,x,x,x
+2021-05-08 01:06:01.794970,Martin Jesenského,7,7,x,x,119,8,12,0.3,x
+2021-05-08 01:06:01.794970,Malacky Mierové námestie,6,3,x,3,497,12,26,0.2,x
+2021-05-08 01:06:01.794970,Krompachy SNP,6,5,x,4,428,2,4,0.2,x
+2021-05-08 01:06:01.794970,Košice Štefánikova,9,4,x,7,416,7,10,0.1,x
+2021-05-08 01:06:01.794970,Košice Ďumbierska,x,x,76,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Košice Amurská,4,5,x,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Kolonické sedlo,5,5,x,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Kojšovská Hoľa,x,x,82,x,x,2,3,x,x
+2021-05-08 01:06:01.794970,Jelšava Jesenského,14,10,32,x,x,6,12,x,x
+2021-05-08 01:06:01.794970,Humenné Nám. slobody,3,2,81,x,x,4,4,x,x
+2021-05-08 01:06:01.794970,Hnúšta Hlavná,14,5,x,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Handlová Morovianska cesta,12,15,x,5,x,x,x,x,x
+2021-05-08 01:06:01.794970,Gánovce Meteo. st,x,x,71,x,x,3,5,x,x
+2021-05-08 01:06:01.794970,Chopok EMEP,x,x,92,x,x,2,3,x,x
+2021-05-08 01:06:01.794970,Bystričany Rozvodňa SSE,10,14,x,2,x,x,x,x,x
+2021-05-08 01:06:01.794970,Bratislava Trnavské Mýto,7,5,x,x,205,14,21,0.2,x
+2021-05-08 01:06:01.794970,Bratislava Mamateyova,5,PDL,64,*,x,9,10,x,x
+2021-05-08 01:06:01.794970,Bratislava Kamenné nám.,4,2,x,x,x,x,x,x,x
+2021-05-08 01:06:01.794970,Bratislava Jeséniova,9,3,70,6,x,5,5,x,x
+2021-05-08 01:06:01.794970,Bardejov Pod Vinbargom,5,4,91,x,x,2,3,x,x
+2021-05-08 01:06:01.794970,Banská Bystrica Štefánikovo nábrežie,3,2,x,7,*,4,6,0.2,x
+2021-05-08 01:06:01.794970,Banská Bystrica Zelená,7,6,85,x,x,3,6,x,x
+2021-05-08 00:06:02.256152,Žilina Obežná,7,5,65,x,504,11,14,x,x
+2021-05-08 00:06:02.256152,Žiar nad Hronom Jilemnického,6,4,x,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Žarnovica mobilná AMS,12,8,x,4,224,3,3,x,x
+2021-05-08 00:06:02.256152,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Vranov nad Top. M.R.Štefánika,2,PDL,x,6,x,x,x,x,x
+2021-05-08 00:06:02.256152,Veľká Ida Letná,7,6,x,x,*,x,x,x,x
+2021-05-08 00:06:02.256152,Trnava Kollárova,9,4,x,x,620,18,28,0.4,x
+2021-05-08 00:06:02.256152,Trenčín Hasičská,11,5,x,1,214,16,20,0.4,x
+2021-05-08 00:06:02.256152,Trebišov T. G. Masaryka,9,6,68,x,x,5,7,x,x
+2021-05-08 00:06:02.256152,Topoľníky Aszód EMEP,9,5,64,3,x,4,5,x,1.1
+2021-05-08 00:06:02.256152,Strážske Mierová,10,6,x,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Stará Lesná AÚ SAV EMEP,2,PDL,63,x,x,4,9,x,x
+2021-05-08 00:06:02.256152,Starina Vodná nádrž EMEP,x,x,69,x,x,3,2,x,1.5
+2021-05-08 00:06:02.256152,Sereď Vinárska,10,10,x,x,x,10,10,x,x
+2021-05-08 00:06:02.256152,Senica Hviezdoslavova,18,9,x,12,x,x,x,x,x
+2021-05-08 00:06:02.256152,Ružomberok Riadok,7,6,81,16,492,3,6,0.4,x
+2021-05-08 00:06:02.256152,Rovinka mobilná AMS,7,x,x,10,139,9,9,0.6,x
+2021-05-08 00:06:02.256152,Prievidza Malonecpalská,13,9,64,11,x,15,18,x,x
+2021-05-08 00:06:02.256152,Prešov Arm.gen. Ľ. Svobodu,8,4,x,x,363,24,45,0.4,x
+2021-05-08 00:06:02.256152,Pezinok,12,11,x,x,180,21,21,x,x
+2021-05-08 00:06:02.256152,Nitra Štúrova,7,5,x,25,438,*,*,0.3,x
+2021-05-08 00:06:02.256152,Nitra Janíkovce,11,5,51,x,x,20,21,x,x
+2021-05-08 00:06:02.256152,Mobilná stanica N2,9,6,x,2,*,x,x,x,x
+2021-05-08 00:06:02.256152,Martin Jesenského,7,6,x,x,119,8,14,0.3,x
+2021-05-08 00:06:02.256152,Malacky Mierové námestie,9,5,x,3,520,17,36,0.3,x
+2021-05-08 00:06:02.256152,Krompachy SNP,4,PDL,x,4,484,7,11,0.2,x
+2021-05-08 00:06:02.256152,Košice Štefánikova,11,6,x,7,401,8,14,0.1,x
+2021-05-08 00:06:02.256152,Košice Ďumbierska,x,x,79,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Košice Amurská,2,2,x,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Kolonické sedlo,9,7,x,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Kojšovská Hoľa,x,x,79,x,x,2,2,x,x
+2021-05-08 00:06:02.256152,Jelšava Jesenského,13,9,35,x,x,8,13,x,x
+2021-05-08 00:06:02.256152,Humenné Nám. slobody,10,4,*,x,x,6,7,x,x
+2021-05-08 00:06:02.256152,Hnúšta Hlavná,15,8,x,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Handlová Morovianska cesta,9,12,x,5,x,x,x,x,x
+2021-05-08 00:06:02.256152,Gánovce Meteo. st,x,x,68,x,x,3,5,x,x
+2021-05-08 00:06:02.256152,Chopok EMEP,x,x,94,x,x,2,3,x,x
+2021-05-08 00:06:02.256152,Bystričany Rozvodňa SSE,9,12,x,2,x,x,x,x,x
+2021-05-08 00:06:02.256152,Bratislava Trnavské Mýto,6,4,x,x,200,14,21,0.2,x
+2021-05-08 00:06:02.256152,Bratislava Mamateyova,2,PDL,*,2,x,7,8,x,x
+2021-05-08 00:06:02.256152,Bratislava Kamenné nám.,3,2,x,x,x,x,x,x,x
+2021-05-08 00:06:02.256152,Bratislava Jeséniova,5,2,71,6,x,6,6,x,x
+2021-05-08 00:06:02.256152,Bardejov Pod Vinbargom,5,5,82,x,x,4,5,x,x
+2021-05-08 00:06:02.256152,Banská Bystrica Štefánikovo nábrežie,2,PDL,x,8,704,4,7,0.2,x
+2021-05-08 00:06:02.256152,Banská Bystrica Zelená,5,5,85,x,x,3,6,x,x
+2021-05-07 23:06:01.671513,Žilina Obežná,8,7,68,x,504,18,21,x,x
+2021-05-07 23:06:01.671513,Žiar nad Hronom Jilemnického,7,5,x,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Žarnovica mobilná AMS,14,7,x,4,241,4,4,x,x
+2021-05-07 23:06:01.671513,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Vranov nad Top. M.R.Štefánika,11,8,x,6,x,x,x,x,x
+2021-05-07 23:06:01.671513,Veľká Ida Letná,7,5,x,x,284,x,x,x,x
+2021-05-07 23:06:01.671513,Trnava Kollárova,11,3,x,x,634,33,56,0.5,x
+2021-05-07 23:06:01.671513,Trenčín Hasičská,10,5,x,1,220,19,24,0.4,x
+2021-05-07 23:06:01.671513,Trebišov T. G. Masaryka,11,6,58,x,x,8,10,x,x
+2021-05-07 23:06:01.671513,Topoľníky Aszód EMEP,8,6,67,3,x,4,5,x,1.3
+2021-05-07 23:06:01.671513,Strážske Mierová,10,9,x,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Stará Lesná AÚ SAV EMEP,PDL,PDL,65,x,x,4,9,x,x
+2021-05-07 23:06:01.671513,Starina Vodná nádrž EMEP,x,x,66,x,x,2,2,x,1.4
+2021-05-07 23:06:01.671513,Sereď Vinárska,4,6,x,x,x,13,14,x,x
+2021-05-07 23:06:01.671513,Senica Hviezdoslavova,6,5,x,12,x,x,x,x,x
+2021-05-07 23:06:01.671513,Ružomberok Riadok,13,10,43,17,574,16,20,0.6,x
+2021-05-07 23:06:01.671513,Rovinka mobilná AMS,4,x,x,4,148,8,9,0.6,x
+2021-05-07 23:06:01.671513,Prievidza Malonecpalská,7,5,56,*,x,19,22,x,x
+2021-05-07 23:06:01.671513,Prešov Arm.gen. Ľ. Svobodu,16,8,x,x,461,34,83,0.4,x
+2021-05-07 23:06:01.671513,Pezinok,20,14,x,x,333,18,19,x,x
+2021-05-07 23:06:01.671513,Nitra Štúrova,8,6,x,24,418,24,39,0.3,x
+2021-05-07 23:06:01.671513,Nitra Janíkovce,8,2,73,x,x,8,8,x,x
+2021-05-07 23:06:01.671513,Mobilná stanica N2,14,8,x,3,229,x,x,x,x
+2021-05-07 23:06:01.671513,Martin Jesenského,8,6,x,x,108,12,18,0.3,x
+2021-05-07 23:06:01.671513,Malacky Mierové námestie,11,PDL,x,3,538,21,45,0.2,x
+2021-05-07 23:06:01.671513,Krompachy SNP,13,8,x,4,482,5,9,0.3,x
+2021-05-07 23:06:01.671513,Košice Štefánikova,16,3,x,8,475,21,33,0.2,x
+2021-05-07 23:06:01.671513,Košice Ďumbierska,x,x,55,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Košice Amurská,8,5,x,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Kolonické sedlo,11,8,x,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Kojšovská Hoľa,x,x,74,x,x,2,2,x,x
+2021-05-07 23:06:01.671513,Jelšava Jesenského,5,4,56,x,x,5,11,x,x
+2021-05-07 23:06:01.671513,Humenné Nám. slobody,13,6,48,x,x,14,15,x,x
+2021-05-07 23:06:01.671513,Hnúšta Hlavná,10,2,x,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Handlová Morovianska cesta,4,8,x,5,x,x,x,x,x
+2021-05-07 23:06:01.671513,Gánovce Meteo. st,x,x,70,x,x,3,5,x,x
+2021-05-07 23:06:01.671513,Chopok EMEP,x,x,96,x,x,2,3,x,x
+2021-05-07 23:06:01.671513,Bystričany Rozvodňa SSE,6,12,x,1,x,x,x,x,x
+2021-05-07 23:06:01.671513,Bratislava Trnavské Mýto,7,5,x,x,219,22,40,0.3,x
+2021-05-07 23:06:01.671513,Bratislava Mamateyova,5,1,65,2,x,14,16,x,x
+2021-05-07 23:06:01.671513,Bratislava Kamenné nám.,5,PDL,x,x,x,x,x,x,x
+2021-05-07 23:06:01.671513,Bratislava Jeséniova,3,2,76,6,x,5,5,x,x
+2021-05-07 23:06:01.671513,Bardejov Pod Vinbargom,4,3,73,x,x,6,8,x,x
+2021-05-07 23:06:01.671513,Banská Bystrica Štefánikovo nábrežie,PDL,PDL,x,7,711,7,10,0.2,x
+2021-05-07 23:06:01.671513,Banská Bystrica Zelená,4,2,84,x,x,4,6,x,x
+2021-05-07 22:06:02.081300,Žilina Obežná,5,5,75,x,478,12,16,x,x
+2021-05-07 22:06:02.081300,Žiar nad Hronom Jilemnického,4,5,x,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Žarnovica mobilná AMS,14,9,x,4,276,4,4,x,x
+2021-05-07 22:06:02.081300,Zvolen J. Alexyho,*,*,x,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Vranov nad Top. M.R.Štefánika,11,6,x,7,x,x,x,x,x
+2021-05-07 22:06:02.081300,Veľká Ida Letná,7,2,x,x,291,x,x,x,x
+2021-05-07 22:06:02.081300,Trnava Kollárova,10,2,x,x,*,41,74,0.3,x
+2021-05-07 22:06:02.081300,Trenčín Hasičská,13,5,x,1,244,27,35,0.4,x
+2021-05-07 22:06:02.081300,Trebišov T. G. Masaryka,7,7,59,x,x,9,11,x,x
+2021-05-07 22:06:02.081300,Topoľníky Aszód EMEP,5,4,63,3,x,4,5,x,1.4
+2021-05-07 22:06:02.081300,Strážske Mierová,16,14,x,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Stará Lesná AÚ SAV EMEP,PDL,PDL,62,x,x,2,9,x,x
+2021-05-07 22:06:02.081300,Starina Vodná nádrž EMEP,x,x,70,x,x,3,3,x,1
+2021-05-07 22:06:02.081300,Sereď Vinárska,5,8,x,x,x,15,17,x,x
+2021-05-07 22:06:02.081300,Senica Hviezdoslavova,8,5,x,13,x,x,x,x,x
+2021-05-07 22:06:02.081300,Ružomberok Riadok,6,4,56,17,582,16,24,0.4,x
+2021-05-07 22:06:02.081300,Rovinka mobilná AMS,5,x,x,22,149,12,13,0.8,x
+2021-05-07 22:06:02.081300,Prievidza Malonecpalská,5,PDL,57,12,x,22,27,x,x
+2021-05-07 22:06:02.081300,Prešov Arm.gen. Ľ. Svobodu,17,8,x,x,494,*,*,0.4,x
+2021-05-07 22:06:02.081300,Pezinok,12,4,x,x,282,13,12,x,x
+2021-05-07 22:06:02.081300,Nitra Štúrova,6,2,x,25,413,20,35,0.3,x
+2021-05-07 22:06:02.081300,Nitra Janíkovce,7,2,77,x,x,7,7,x,x
+2021-05-07 22:06:02.081300,Mobilná stanica N2,48,17,x,*,314,x,x,x,x
+2021-05-07 22:06:02.081300,Martin Jesenského,10,7,x,x,117,10,15,0.3,x
+2021-05-07 22:06:02.081300,Malacky Mierové námestie,10,2,x,3,*,25,51,0.5,x
+2021-05-07 22:06:02.081300,Krompachy SNP,14,11,x,4,593,17,29,0.9,x
+2021-05-07 22:06:02.081300,Košice Štefánikova,13,5,x,8,467,*,*,0.1,x
+2021-05-07 22:06:02.081300,Košice Ďumbierska,x,x,66,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Košice Amurská,6,4,x,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Kolonické sedlo,9,9,x,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Kojšovská Hoľa,x,x,*,x,x,*,*,x,x
+2021-05-07 22:06:02.081300,Jelšava Jesenského,13,12,37,x,x,7,12,x,x
+2021-05-07 22:06:02.081300,Humenné Nám. slobody,15,9,53,x,x,10,11,x,x
+2021-05-07 22:06:02.081300,Hnúšta Hlavná,13,4,x,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Handlová Morovianska cesta,4,9,x,5,x,x,x,x,x
+2021-05-07 22:06:02.081300,Gánovce Meteo. st,x,x,*,x,x,2,5,x,x
+2021-05-07 22:06:02.081300,Chopok EMEP,x,x,93,x,x,2,3,x,x
+2021-05-07 22:06:02.081300,Bystričany Rozvodňa SSE,PDL,6,x,*,x,x,x,x,x
+2021-05-07 22:06:02.081300,Bratislava Trnavské Mýto,6,4,x,x,234,24,40,0.2,x
+2021-05-07 22:06:02.081300,Bratislava Mamateyova,5,PDL,64,2,x,12,14,x,x
+2021-05-07 22:06:02.081300,Bratislava Kamenné nám.,6,PDL,x,x,x,x,x,x,x
+2021-05-07 22:06:02.081300,Bratislava Jeséniova,4,3,74,6,x,6,6,x,x
+2021-05-07 22:06:02.081300,Bardejov Pod Vinbargom,6,5,38,x,x,15,18,x,x
+2021-05-07 22:06:02.081300,Banská Bystrica Štefánikovo nábrežie,8,6,x,*,740,20,36,0.2,x
+2021-05-07 22:06:02.081300,Banská Bystrica Zelená,4,2,72,x,x,9,12,x,x
+2021-05-07 21:06:01.511367,Vranov nad Top. M.R.Štefánika,13,9,x,6,x,x,x,x,x
+2021-05-07 21:06:01.511367,Starina Vodná nádrž EMEP,x,x,72,x,x,4,4,x,1.4
+2021-05-07 21:06:01.511367,Mobilná stanica N2,16,10,x,5,378,x,x,x,x
+2021-05-07 21:06:01.511367,Kolonické sedlo,7,7,x,x,x,x,x,x,x
+2021-05-07 21:06:01.511367,Bardejov Pod Vinbargom,6,3,57,x,x,10,12,x,x
