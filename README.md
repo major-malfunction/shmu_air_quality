@@ -1,4 +1,4 @@
-[stanice_SHMU.csv](stanice_SHMU.csv) - quite large logfile with all historical data from shmu table "Stanice SHMÚ" from [SHMU](http://www.shmu.sk/sk/?page=991)
+stanice_SHMU_[YEAR].csv - quite large logfile with all historical data from shmu table "Stanice SHMÚ" from [SHMU](http://www.shmu.sk/sk/?page=991)
 
 [stanice_SHMU_poslednych_500_hodnot.csv](stanice_SHMU_poslednych_500_hodnot.csv) - last 500 values from that ^ logfile, inverted order (latest values at the top)
 
