@@ -45693,3 +45693,1299 @@ Datum,Stanica,PM10,PM2.5,O3,SO2,CO,NO2,NOx,Benzén,Hg
 2023-02-04 08:06:02.802358,Kolonické sedlo,4,5,x,x,x,x,x,x,x
 2023-02-04 08:06:02.802358,Vranov nad Top. M. R. Štefánika,8,7,x,6,x,x,x,x,x
 2023-02-04 08:06:02.802358,Bardejov Pod Vinbargom,10,13,21,x,x,19,20,x,x
+2023-02-04 09:06:02.336231,Bratislava Kamenné nám.,1,2,x,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Bratislava Trnavské Mýto,1,PDL,x,x,213,6,11,0.2,x
+2023-02-04 09:06:02.336231,Bratislava Jeséniova,2,PDL,*,3,x,4,6,x,x
+2023-02-04 09:06:02.336231,Bratislava Mamateyova,4,1,*,5,x,5,5,x,x
+2023-02-04 09:06:02.336231,Bratislava Púchovská,6,PDL,x,2,183,5,6,0.2,x
+2023-02-04 09:06:02.336231,Bratislava Padlých hrdinov mobilná AMS,4,4,x,x,PDL,7,8,x,x
+2023-02-04 09:06:02.336231,Rovinka mobilná AMS,6,x,x,2,228,*,*,0.4,x
+2023-02-04 09:06:02.336231,Pezinok Obrancov mieru,PDL,1,50,x,x,4,4,x,x
+2023-02-04 09:06:02.336231,Rohožník Senická,5,3,x,11,801,5,7,0.6,x
+2023-02-04 09:06:02.336231,Senec Boldocká,*,*,*,x,*,*,*,x,x
+2023-02-04 09:06:02.336231,Nitra Janíkovce,2,PDL,49,x,x,6,7,x,x
+2023-02-04 09:06:02.336231,Nitra Štúrova,2,PDL,x,3,367,PDL,4,0.2,x
+2023-02-04 09:06:02.336231,Komárno Vnútorná okružná,4,3,49,x,x,4,5,x,x
+2023-02-04 09:06:02.336231,Plášťovce,5,12,50,x,x,*,*,x,x
+2023-02-04 09:06:02.336231,Topoľníky Aszód EMEP,PDL,PDL,42,1,x,4,4,x,*
+2023-02-04 09:06:02.336231,Senica Hviezdoslavova,5,5,x,8,x,x,x,x,x
+2023-02-04 09:06:02.336231,Trnava Kollárova,6,6,x,x,266,9,19,0.8,x
+2023-02-04 09:06:02.336231,Sereď Vinárska,3,5,x,x,x,5,7,x,x
+2023-02-04 09:06:02.336231,Trenčín Hasičská,3,PDL,x,11,219,7,7,0.7,x
+2023-02-04 09:06:02.336231,Púchov 1. mája,5,4,x,4,213,4,6,x,x
+2023-02-04 09:06:02.336231,Bystričany Rozvodňa SSE,PDL,1,x,48,x,x,x,x,x
+2023-02-04 09:06:02.336231,Handlová Morovianska cesta,1,PDL,x,11,x,x,x,x,x
+2023-02-04 09:06:02.336231,Prievidza Malonecpalská,2,3,41,27,x,*,*,x,x
+2023-02-04 09:06:02.336231,Žarnovica Dolná,PDL,PDL,x,x,x,*,*,x,x
+2023-02-04 09:06:02.336231,Žiar nad Hronom Jilemnického,4,PDL,x,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Zvolen J. Alexyho,3,5,x,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Banská Bystrica Štefánikovo nábrežie,1,PDL,x,7,667,8,12,0.4,x
+2023-02-04 09:06:02.336231,Banská Bystrica Zelená,1,PDL,*,x,x,*,*,x,x
+2023-02-04 09:06:02.336231,Lučenec Gemerská cesta,5,4,50,x,214,5,6,0.3,x
+2023-02-04 09:06:02.336231,Hnúšťa Hlavná,24,21,x,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Jelšava Jesenského,35,25,*,x,x,12,15,x,x
+2023-02-04 09:06:02.336231,Žilina Obežná,7,1,42,x,259,9,12,x,x
+2023-02-04 09:06:02.336231,Oščadnica,3,2,54,5,x,4,6,x,x
+2023-02-04 09:06:02.336231,Martin Jesenského,4,3,x,x,509,*,*,0.6,x
+2023-02-04 09:06:02.336231,Ružomberok Riadok,2,PDL,37,3,431,7,12,0.8,x
+2023-02-04 09:06:02.336231,Chopok EMEP,x,x,43,x,x,4,5,x,x
+2023-02-04 09:06:02.336231,Liptovský Mikuláš Školská,*,*,x,5,x,6,8,x,x
+2023-02-04 09:06:02.336231,Košice Ďumbierska,x,x,21,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Košice Amurská,17,17,x,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Košice Štefánikova,25,23,x,6,751,27,53,1.6,x
+2023-02-04 09:06:02.336231,Kojšovská hoľa,x,x,54,x,x,*,*,x,x
+2023-02-04 09:06:02.336231,Veľká Ida Letná,20,21,x,x,485,x,x,x,x
+2023-02-04 09:06:02.336231,Strážske Mierová,8,8,x,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Trebišov T. G. Masaryka,9,6,26,x,x,16,21,x,x
+2023-02-04 09:06:02.336231,Krompachy SNP,19,18,x,10,474,31,57,2.2,x
+2023-02-04 09:06:02.336231,Poprad Železničná,4,2,x,x,x,10,12,x,x
+2023-02-04 09:06:02.336231,Stará Lesná AÚ SAV EMEP,PDL,PDL,40,x,x,5,7,x,x
+2023-02-04 09:06:02.336231,Gánovce Meteo. st,x,x,*,x,x,5,6,x,x
+2023-02-04 09:06:02.336231,Prešov Arm. gen. L. Svobodu,14,14,x,x,579,*,*,0.8,x
+2023-02-04 09:06:02.336231,Humenné Nám. slobody,15,12,21,x,x,17,21,x,x
+2023-02-04 09:06:02.336231,Starina Vodná nádrž EMEP,x,x,43,x,x,2,3,x,1.2
+2023-02-04 09:06:02.336231,Kolonické sedlo,3,4,x,x,x,x,x,x,x
+2023-02-04 09:06:02.336231,Vranov nad Top. M. R. Štefánika,7,7,x,6,x,x,x,x,x
+2023-02-04 09:06:02.336231,Bardejov Pod Vinbargom,11,12,31,x,x,12,13,x,x
+2023-02-04 10:06:01.980699,Bratislava Kamenné nám.,4,5,x,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Bratislava Trnavské Mýto,5,6,x,x,207,5,11,0.3,x
+2023-02-04 10:06:01.980699,Bratislava Jeséniova,4,2,60,3,x,3,5,x,x
+2023-02-04 10:06:01.980699,Bratislava Mamateyova,7,6,*,5,x,5,5,x,x
+2023-02-04 10:06:01.980699,Bratislava Púchovská,13,5,x,2,196,4,5,0.3,x
+2023-02-04 10:06:01.980699,Bratislava Padlých hrdinov mobilná AMS,7,4,x,x,PDL,6,8,x,x
+2023-02-04 10:06:01.980699,Rovinka mobilná AMS,6,x,x,1,216,*,*,0.4,x
+2023-02-04 10:06:01.980699,Pezinok Obrancov mieru,1,2,61,x,x,2,3,x,x
+2023-02-04 10:06:01.980699,Rohožník Senická,7,2,x,10,768,3,6,0.6,x
+2023-02-04 10:06:01.980699,Senec Boldocká,*,*,*,x,*,*,*,x,x
+2023-02-04 10:06:01.980699,Nitra Janíkovce,9,7,54,x,x,4,6,x,x
+2023-02-04 10:06:01.980699,Nitra Štúrova,7,4,x,3,338,4,7,0.2,x
+2023-02-04 10:06:01.980699,Komárno Vnútorná okružná,7,6,49,x,x,5,6,x,x
+2023-02-04 10:06:01.980699,Plášťovce,PDL,6,43,x,x,*,*,x,x
+2023-02-04 10:06:01.980699,Topoľníky Aszód EMEP,1,2,43,PDL,x,3,3,x,*
+2023-02-04 10:06:01.980699,Senica Hviezdoslavova,4,2,x,8,x,x,x,x,x
+2023-02-04 10:06:01.980699,Trnava Kollárova,8,7,x,x,242,11,27,0.7,x
+2023-02-04 10:06:01.980699,Sereď Vinárska,7,6,x,x,x,5,9,x,x
+2023-02-04 10:06:01.980699,Trenčín Hasičská,7,3,x,11,200,6,6,0.5,x
+2023-02-04 10:06:01.980699,Púchov 1. mája,5,4,x,4,186,4,5,x,x
+2023-02-04 10:06:01.980699,Bystričany Rozvodňa SSE,5,5,x,47,x,x,x,x,x
+2023-02-04 10:06:01.980699,Handlová Morovianska cesta,4,3,x,11,x,x,x,x,x
+2023-02-04 10:06:01.980699,Prievidza Malonecpalská,1,2,49,27,x,6,11,x,x
+2023-02-04 10:06:01.980699,Žarnovica Dolná,1,PDL,x,x,x,7,9,x,x
+2023-02-04 10:06:01.980699,Žiar nad Hronom Jilemnického,5,3,x,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Zvolen J. Alexyho,2,1,x,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Banská Bystrica Štefánikovo nábrežie,3,PDL,x,6,701,7,11,0.9,x
+2023-02-04 10:06:01.980699,Banská Bystrica Zelená,3,2,*,x,x,5,7,x,x
+2023-02-04 10:06:01.980699,Lučenec Gemerská cesta,4,2,43,x,248,6,7,0.3,x
+2023-02-04 10:06:01.980699,Hnúšťa Hlavná,3,3,x,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Jelšava Jesenského,49,45,*,x,x,11,19,x,x
+2023-02-04 10:06:01.980699,Žilina Obežná,7,4,53,x,214,5,8,x,x
+2023-02-04 10:06:01.980699,Oščadnica,4,6,65,5,x,4,7,x,x
+2023-02-04 10:06:01.980699,Martin Jesenského,8,5,x,x,477,8,15,0.7,x
+2023-02-04 10:06:01.980699,Ružomberok Riadok,PDL,PDL,44,3,419,5,11,0.9,x
+2023-02-04 10:06:01.980699,Chopok EMEP,x,x,48,x,x,3,5,x,x
+2023-02-04 10:06:01.980699,Liptovský Mikuláš Školská,*,*,x,5,x,4,6,x,x
+2023-02-04 10:06:01.980699,Košice Ďumbierska,x,x,35,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Košice Amurská,14,14,x,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Košice Štefánikova,27,22,x,6,*,18,35,1.7,x
+2023-02-04 10:06:01.980699,Kojšovská hoľa,x,x,46,x,x,3,4,x,x
+2023-02-04 10:06:01.980699,Veľká Ida Letná,26,21,x,x,628,x,x,x,x
+2023-02-04 10:06:01.980699,Strážske Mierová,10,8,x,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Trebišov T. G. Masaryka,12,9,29,x,x,16,26,x,x
+2023-02-04 10:06:01.980699,Krompachy SNP,14,15,x,10,306,12,20,1.5,x
+2023-02-04 10:06:01.980699,Poprad Železničná,4,4,x,x,x,4,7,x,x
+2023-02-04 10:06:01.980699,Stará Lesná AÚ SAV EMEP,2,2,35,x,x,7,18,x,x
+2023-02-04 10:06:01.980699,Gánovce Meteo. st,x,x,*,x,x,3,5,x,x
+2023-02-04 10:06:01.980699,Prešov Arm. gen. L. Svobodu,15,11,x,x,482,27,71,0.9,x
+2023-02-04 10:06:01.980699,Humenné Nám. slobody,17,13,23,x,x,17,25,x,x
+2023-02-04 10:06:01.980699,Starina Vodná nádrž EMEP,x,x,44,x,x,1,2,x,1.3
+2023-02-04 10:06:01.980699,Kolonické sedlo,4,3,x,x,x,x,x,x,x
+2023-02-04 10:06:01.980699,Vranov nad Top. M. R. Štefánika,7,7,x,6,x,x,x,x,x
+2023-02-04 10:06:01.980699,Bardejov Pod Vinbargom,9,5,47,x,x,4,5,x,x
+2023-02-04 11:06:01.611230,Bratislava Kamenné nám.,4,5,x,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Bratislava Trnavské Mýto,3,4,x,x,175,6,14,0.2,x
+2023-02-04 11:06:01.611230,Bratislava Jeséniova,5,3,76,2,x,3,4,x,x
+2023-02-04 11:06:01.611230,Bratislava Mamateyova,5,4,*,5,x,5,5,x,x
+2023-02-04 11:06:01.611230,Bratislava Púchovská,PDL,PDL,x,2,195,6,11,0.2,x
+2023-02-04 11:06:01.611230,Bratislava Padlých hrdinov mobilná AMS,9,5,x,x,PDL,6,8,x,x
+2023-02-04 11:06:01.611230,Rovinka mobilná AMS,6,x,x,1,177,*,*,0.3,x
+2023-02-04 11:06:01.611230,Pezinok Obrancov mieru,6,6,69,x,x,2,3,x,x
+2023-02-04 11:06:01.611230,Rohožník Senická,2,2,x,10,763,3,7,0.4,x
+2023-02-04 11:06:01.611230,Senec Boldocká,*,*,*,x,*,*,*,x,x
+2023-02-04 11:06:01.611230,Nitra Janíkovce,4,3,58,x,x,4,5,x,x
+2023-02-04 11:06:01.611230,Nitra Štúrova,6,4,x,2,325,6,11,0.2,x
+2023-02-04 11:06:01.611230,Komárno Vnútorná okružná,9,6,57,x,x,4,5,x,x
+2023-02-04 11:06:01.611230,Plášťovce,3,5,46,x,x,*,*,x,x
+2023-02-04 11:06:01.611230,Topoľníky Aszód EMEP,3,7,51,PDL,x,3,2,x,*
+2023-02-04 11:06:01.611230,Senica Hviezdoslavova,4,PDL,x,8,x,x,x,x,x
+2023-02-04 11:06:01.611230,Trnava Kollárova,5,5,x,x,238,13,31,0.5,x
+2023-02-04 11:06:01.611230,Sereď Vinárska,7,4,x,x,x,4,8,x,x
+2023-02-04 11:06:01.611230,Trenčín Hasičská,6,2,x,11,195,6,6,0.5,x
+2023-02-04 11:06:01.611230,Púchov 1. mája,3,2,x,4,191,4,7,x,x
+2023-02-04 11:06:01.611230,Bystričany Rozvodňa SSE,6,4,x,48,x,x,x,x,x
+2023-02-04 11:06:01.611230,Handlová Morovianska cesta,3,4,x,11,x,x,x,x,x
+2023-02-04 11:06:01.611230,Prievidza Malonecpalská,1,6,58,26,x,6,13,x,x
+2023-02-04 11:06:01.611230,Žarnovica Dolná,1,2,x,x,x,4,7,x,x
+2023-02-04 11:06:01.611230,Žiar nad Hronom Jilemnického,7,2,x,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Zvolen J. Alexyho,2,1,x,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Banská Bystrica Štefánikovo nábrežie,3,1,x,7,637,4,8,0.4,x
+2023-02-04 11:06:01.611230,Banská Bystrica Zelená,4,3,*,x,x,2,5,x,x
+2023-02-04 11:06:01.611230,Lučenec Gemerská cesta,2,2,44,x,257,6,7,0.3,x
+2023-02-04 11:06:01.611230,Hnúšťa Hlavná,PDL,PDL,x,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Jelšava Jesenského,20,19,*,x,x,3,7,x,x
+2023-02-04 11:06:01.611230,Žilina Obežná,7,3,55,x,200,6,9,x,x
+2023-02-04 11:06:01.611230,Oščadnica,8,10,64,5,x,*,*,x,x
+2023-02-04 11:06:01.611230,Martin Jesenského,9,6,x,x,441,6,14,0.7,x
+2023-02-04 11:06:01.611230,Ružomberok Riadok,PDL,4,53,3,392,5,10,0.7,x
+2023-02-04 11:06:01.611230,Chopok EMEP,x,x,58,x,x,2,4,x,x
+2023-02-04 11:06:01.611230,Liptovský Mikuláš Školská,*,*,x,5,x,4,6,x,x
+2023-02-04 11:06:01.611230,Košice Ďumbierska,x,x,46,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Košice Amurská,5,4,x,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Košice Štefánikova,14,9,x,10,551,8,15,1.1,x
+2023-02-04 11:06:01.611230,Kojšovská hoľa,x,x,*,x,x,*,*,x,x
+2023-02-04 11:06:01.611230,Veľká Ida Letná,28,23,x,x,517,x,x,x,x
+2023-02-04 11:06:01.611230,Strážske Mierová,6,4,x,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Trebišov T. G. Masaryka,11,6,43,x,x,5,10,x,x
+2023-02-04 11:06:01.611230,Krompachy SNP,3,3,x,9,261,10,20,0.6,x
+2023-02-04 11:06:01.611230,Poprad Železničná,6,5,x,x,x,3,6,x,x
+2023-02-04 11:06:01.611230,Stará Lesná AÚ SAV EMEP,7,2,46,x,x,4,9,x,x
+2023-02-04 11:06:01.611230,Gánovce Meteo. st,x,x,*,x,x,2,6,x,x
+2023-02-04 11:06:01.611230,Prešov Arm. gen. L. Svobodu,4,4,x,x,394,22,62,0.5,x
+2023-02-04 11:06:01.611230,Humenné Nám. slobody,6,8,44,x,x,5,8,x,x
+2023-02-04 11:06:01.611230,Starina Vodná nádrž EMEP,x,x,48,x,x,2,3,x,1.2
+2023-02-04 11:06:01.611230,Kolonické sedlo,3,6,x,x,x,x,x,x,x
+2023-02-04 11:06:01.611230,Vranov nad Top. M. R. Štefánika,7,6,x,*,x,x,x,x,x
+2023-02-04 11:06:01.611230,Bardejov Pod Vinbargom,6,5,55,x,x,3,5,x,x
+2023-02-04 12:06:03.125602,Bratislava Kamenné nám.,4,3,x,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Bratislava Trnavské Mýto,3,3,x,x,182,8,18,0.1,x
+2023-02-04 12:06:03.125602,Bratislava Jeséniova,3,2,67,2,x,3,4,x,x
+2023-02-04 12:06:03.125602,Bratislava Mamateyova,2,PDL,*,5,x,5,6,x,x
+2023-02-04 12:06:03.125602,Bratislava Púchovská,PDL,PDL,x,2,187,4,6,0.1,x
+2023-02-04 12:06:03.125602,Bratislava Padlých hrdinov mobilná AMS,8,4,x,x,PDL,5,7,x,x
+2023-02-04 12:06:03.125602,Rovinka mobilná AMS,6,x,x,PDL,192,*,*,0.3,x
+2023-02-04 12:06:03.125602,Pezinok Obrancov mieru,PDL,PDL,69,x,x,2,3,x,x
+2023-02-04 12:06:03.125602,Rohožník Senická,5,5,x,10,785,3,7,0.5,x
+2023-02-04 12:06:03.125602,Senec Boldocká,5,4,63,x,*,*,*,x,x
+2023-02-04 12:06:03.125602,Nitra Janíkovce,6,2,61,x,x,4,5,x,x
+2023-02-04 12:06:03.125602,Nitra Štúrova,4,4,x,2,319,PDL,5,0.1,x
+2023-02-04 12:06:03.125602,Komárno Vnútorná okružná,7,4,63,x,x,4,6,x,x
+2023-02-04 12:06:03.125602,Plášťovce,4,5,56,x,x,*,*,x,x
+2023-02-04 12:06:03.125602,Topoľníky Aszód EMEP,2,4,54,PDL,x,2,3,x,*
+2023-02-04 12:06:03.125602,Senica Hviezdoslavova,5,PDL,x,8,x,x,x,x,x
+2023-02-04 12:06:03.125602,Trnava Kollárova,8,5,x,x,228,13,30,0.4,x
+2023-02-04 12:06:03.125602,Sereď Vinárska,3,2,x,x,x,5,10,x,x
+2023-02-04 12:06:03.125602,Trenčín Hasičská,10,5,x,11,188,6,6,0.4,x
+2023-02-04 12:06:03.125602,Púchov 1. mája,5,5,x,4,185,4,7,x,x
+2023-02-04 12:06:03.125602,Bystričany Rozvodňa SSE,8,6,x,48,x,x,x,x,x
+2023-02-04 12:06:03.125602,Handlová Morovianska cesta,7,4,x,10,x,x,x,x,x
+2023-02-04 12:06:03.125602,Prievidza Malonecpalská,3,11,58,25,x,6,13,x,x
+2023-02-04 12:06:03.125602,Žarnovica Dolná,3,4,x,x,x,4,7,x,x
+2023-02-04 12:06:03.125602,Žiar nad Hronom Jilemnického,7,1,x,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Zvolen J. Alexyho,6,1,x,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Banská Bystrica Štefánikovo nábrežie,5,4,x,6,609,3,7,0.4,x
+2023-02-04 12:06:03.125602,Banská Bystrica Zelená,2,2,*,x,x,2,3,x,x
+2023-02-04 12:06:03.125602,Lučenec Gemerská cesta,2,3,52,x,240,5,7,0.5,x
+2023-02-04 12:06:03.125602,Hnúšťa Hlavná,PDL,PDL,x,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Jelšava Jesenského,8,9,*,x,x,2,5,x,x
+2023-02-04 12:06:03.125602,Žilina Obežná,7,5,51,x,212,8,12,x,x
+2023-02-04 12:06:03.125602,Oščadnica,6,9,61,*,x,5,8,x,x
+2023-02-04 12:06:03.125602,Martin Jesenského,11,4,x,x,446,6,17,0.5,x
+2023-02-04 12:06:03.125602,Ružomberok Riadok,6,3,54,2,378,5,10,0.5,x
+2023-02-04 12:06:03.125602,Chopok EMEP,x,x,63,x,x,2,4,x,x
+2023-02-04 12:06:03.125602,Liptovský Mikuláš Školská,*,*,x,5,x,4,6,x,x
+2023-02-04 12:06:03.125602,Košice Ďumbierska,x,x,60,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Košice Amurská,6,4,x,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Košice Štefánikova,7,PDL,x,*,544,6,12,0.7,x
+2023-02-04 12:06:03.125602,Kojšovská hoľa,x,x,57,x,x,1,3,x,x
+2023-02-04 12:06:03.125602,Veľká Ida Letná,30,29,x,x,674,x,x,x,x
+2023-02-04 12:06:03.125602,Strážske Mierová,5,3,x,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Trebišov T. G. Masaryka,8,5,53,x,x,3,6,x,x
+2023-02-04 12:06:03.125602,Krompachy SNP,4,2,x,8,217,5,11,0.5,x
+2023-02-04 12:06:03.125602,Poprad Železničná,5,5,x,x,x,2,5,x,x
+2023-02-04 12:06:03.125602,Stará Lesná AÚ SAV EMEP,9,3,50,x,x,2,7,x,x
+2023-02-04 12:06:03.125602,Gánovce Meteo. st,x,x,*,x,x,2,6,x,x
+2023-02-04 12:06:03.125602,Prešov Arm. gen. L. Svobodu,5,3,x,x,348,17,49,0.3,x
+2023-02-04 12:06:03.125602,Humenné Nám. slobody,4,4,54,x,x,4,6,x,x
+2023-02-04 12:06:03.125602,Starina Vodná nádrž EMEP,x,x,56,x,x,*,*,x,1.2
+2023-02-04 12:06:03.125602,Kolonické sedlo,2,2,x,x,x,x,x,x,x
+2023-02-04 12:06:03.125602,Vranov nad Top. M. R. Štefánika,7,6,x,6,x,x,x,x,x
+2023-02-04 12:06:03.125602,Bardejov Pod Vinbargom,8,4,61,x,x,2,4,x,x
+2023-02-04 13:06:03.604953,Bratislava Kamenné nám.,9,2,x,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Bratislava Trnavské Mýto,9,5,x,x,193,8,20,0.1,x
+2023-02-04 13:06:03.604953,Bratislava Jeséniova,6,4,67,2,x,3,4,x,x
+2023-02-04 13:06:03.604953,Bratislava Mamateyova,4,2,*,5,x,5,6,x,x
+2023-02-04 13:06:03.604953,Bratislava Púchovská,PDL,PDL,x,2,180,4,6,0.1,x
+2023-02-04 13:06:03.604953,Bratislava Padlých hrdinov mobilná AMS,6,4,x,x,PDL,5,8,x,x
+2023-02-04 13:06:03.604953,Rovinka mobilná AMS,6,x,x,PDL,198,*,*,0.2,x
+2023-02-04 13:06:03.604953,Pezinok Obrancov mieru,4,5,66,x,x,2,3,x,x
+2023-02-04 13:06:03.604953,Rohožník Senická,6,6,x,8,796,4,8,0.8,x
+2023-02-04 13:06:03.604953,Senec Boldocká,6,5,59,x,208,*,*,x,x
+2023-02-04 13:06:03.604953,Nitra Janíkovce,9,5,64,x,x,3,5,x,x
+2023-02-04 13:06:03.604953,Nitra Štúrova,6,2,x,2,315,6,11,0.1,x
+2023-02-04 13:06:03.604953,Komárno Vnútorná okružná,6,3,65,x,x,4,5,x,x
+2023-02-04 13:06:03.604953,Plášťovce,4,8,65,x,x,*,*,x,x
+2023-02-04 13:06:03.604953,Topoľníky Aszód EMEP,4,3,55,PDL,x,2,2,x,*
+2023-02-04 13:06:03.604953,Senica Hviezdoslavova,6,4,x,7,x,x,x,x,x
+2023-02-04 13:06:03.604953,Trnava Kollárova,7,4,x,x,237,14,35,0.4,x
+2023-02-04 13:06:03.604953,Sereď Vinárska,8,4,x,x,x,5,9,x,x
+2023-02-04 13:06:03.604953,Trenčín Hasičská,9,5,x,11,189,6,6,0.4,x
+2023-02-04 13:06:03.604953,Púchov 1. mája,6,5,x,4,179,4,6,x,x
+2023-02-04 13:06:03.604953,Bystričany Rozvodňa SSE,9,6,x,45,x,x,x,x,x
+2023-02-04 13:06:03.604953,Handlová Morovianska cesta,5,5,x,10,x,x,x,x,x
+2023-02-04 13:06:03.604953,Prievidza Malonecpalská,5,8,56,25,x,7,14,x,x
+2023-02-04 13:06:03.604953,Žarnovica Dolná,3,PDL,x,x,x,3,5,x,x
+2023-02-04 13:06:03.604953,Žiar nad Hronom Jilemnického,7,1,x,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Zvolen J. Alexyho,4,3,x,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Banská Bystrica Štefánikovo nábrežie,7,6,x,5,598,4,8,0.3,x
+2023-02-04 13:06:03.604953,Banská Bystrica Zelená,6,5,*,x,x,1,3,x,x
+2023-02-04 13:06:03.604953,Lučenec Gemerská cesta,4,1,62,x,193,4,5,0.2,x
+2023-02-04 13:06:03.604953,Hnúšťa Hlavná,PDL,PDL,x,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Jelšava Jesenského,9,10,*,x,x,2,4,x,x
+2023-02-04 13:06:03.604953,Žilina Obežná,8,6,51,x,211,8,13,x,x
+2023-02-04 13:06:03.604953,Oščadnica,8,10,61,6,x,5,9,x,x
+2023-02-04 13:06:03.604953,Martin Jesenského,12,8,x,x,434,7,16,0.5,x
+2023-02-04 13:06:03.604953,Ružomberok Riadok,3,3,55,1,369,4,10,0.5,x
+2023-02-04 13:06:03.604953,Chopok EMEP,x,x,64,x,x,2,4,x,x
+2023-02-04 13:06:03.604953,Liptovský Mikuláš Školská,*,*,x,4,x,3,5,x,x
+2023-02-04 13:06:03.604953,Košice Ďumbierska,x,x,63,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Košice Amurská,4,5,x,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Košice Štefánikova,3,3,x,5,475,5,11,0.5,x
+2023-02-04 13:06:03.604953,Kojšovská hoľa,x,x,61,x,x,PDL,2,x,x
+2023-02-04 13:06:03.604953,Veľká Ida Letná,71,91,x,x,759,x,x,x,x
+2023-02-04 13:06:03.604953,Strážske Mierová,6,2,x,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Trebišov T. G. Masaryka,7,3,61,x,x,2,4,x,x
+2023-02-04 13:06:03.604953,Krompachy SNP,6,6,x,8,204,5,11,0.4,x
+2023-02-04 13:06:03.604953,Poprad Železničná,7,11,x,x,x,2,4,x,x
+2023-02-04 13:06:03.604953,Stará Lesná AÚ SAV EMEP,9,5,50,x,x,5,13,x,x
+2023-02-04 13:06:03.604953,Gánovce Meteo. st,x,x,*,x,x,1,5,x,x
+2023-02-04 13:06:03.604953,Prešov Arm. gen. L. Svobodu,11,4,x,x,333,15,42,0.2,x
+2023-02-04 13:06:03.604953,Humenné Nám. slobody,8,4,62,x,x,3,5,x,x
+2023-02-04 13:06:03.604953,Starina Vodná nádrž EMEP,x,x,66,x,x,PDL,1,x,1.4
+2023-02-04 13:06:03.604953,Kolonické sedlo,4,3,x,x,x,x,x,x,x
+2023-02-04 13:06:03.604953,Vranov nad Top. M. R. Štefánika,5,5,x,5,x,x,x,x,x
+2023-02-04 13:06:03.604953,Bardejov Pod Vinbargom,5,5,60,x,x,2,4,x,x
+2023-02-04 14:06:02.483821,Bratislava Kamenné nám.,8,4,x,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Bratislava Trnavské Mýto,7,7,x,x,194,10,26,0.2,x
+2023-02-04 14:06:02.483821,Bratislava Jeséniova,6,3,66,2,x,3,4,x,x
+2023-02-04 14:06:02.483821,Bratislava Mamateyova,4,2,*,5,x,5,6,x,x
+2023-02-04 14:06:02.483821,Bratislava Púchovská,4,6,x,2,176,4,6,0.1,x
+2023-02-04 14:06:02.483821,Bratislava Padlých hrdinov mobilná AMS,2,4,x,x,PDL,4,6,x,x
+2023-02-04 14:06:02.483821,Rovinka mobilná AMS,6,x,x,PDL,190,*,*,0.2,x
+2023-02-04 14:06:02.483821,Pezinok Obrancov mieru,2,3,65,x,x,2,3,x,x
+2023-02-04 14:06:02.483821,Rohožník Senická,6,7,x,7,750,3,9,0.5,x
+2023-02-04 14:06:02.483821,Senec Boldocká,6,5,59,x,205,*,*,x,x
+2023-02-04 14:06:02.483821,Nitra Janíkovce,10,4,64,x,x,3,5,x,x
+2023-02-04 14:06:02.483821,Nitra Štúrova,6,PDL,x,2,319,7,13,0.1,x
+2023-02-04 14:06:02.483821,Komárno Vnútorná okružná,6,4,61,x,x,4,6,x,x
+2023-02-04 14:06:02.483821,Plášťovce,4,10,67,x,x,*,*,x,x
+2023-02-04 14:06:02.483821,Topoľníky Aszód EMEP,6,8,55,PDL,x,2,2,x,*
+2023-02-04 14:06:02.483821,Senica Hviezdoslavova,4,3,x,8,x,x,x,x,x
+2023-02-04 14:06:02.483821,Trnava Kollárova,8,7,x,x,232,17,37,0.5,x
+2023-02-04 14:06:02.483821,Sereď Vinárska,3,4,x,x,x,4,9,x,x
+2023-02-04 14:06:02.483821,Trenčín Hasičská,11,7,x,11,193,5,6,0.5,x
+2023-02-04 14:06:02.483821,Púchov 1. mája,5,5,x,4,180,4,6,x,x
+2023-02-04 14:06:02.483821,Bystričany Rozvodňa SSE,5,6,x,46,x,x,x,x,x
+2023-02-04 14:06:02.483821,Handlová Morovianska cesta,3,2,x,9,x,x,x,x,x
+2023-02-04 14:06:02.483821,Prievidza Malonecpalská,5,8,57,25,x,7,13,x,x
+2023-02-04 14:06:02.483821,Žarnovica Dolná,2,PDL,x,x,x,4,6,x,x
+2023-02-04 14:06:02.483821,Žiar nad Hronom Jilemnického,9,3,x,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Zvolen J. Alexyho,7,5,x,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Banská Bystrica Štefánikovo nábrežie,7,6,x,*,596,4,8,0.3,x
+2023-02-04 14:06:02.483821,Banská Bystrica Zelená,5,4,*,x,x,1,3,x,x
+2023-02-04 14:06:02.483821,Lučenec Gemerská cesta,4,4,69,x,176,3,4,0.2,x
+2023-02-04 14:06:02.483821,Hnúšťa Hlavná,PDL,PDL,x,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Jelšava Jesenského,9,9,*,x,x,1,4,x,x
+2023-02-04 14:06:02.483821,Žilina Obežná,6,6,51,x,212,9,15,x,x
+2023-02-04 14:06:02.483821,Oščadnica,10,10,60,6,x,5,9,x,x
+2023-02-04 14:06:02.483821,Martin Jesenského,11,6,x,x,443,8,19,0.5,x
+2023-02-04 14:06:02.483821,Ružomberok Riadok,5,8,57,2,372,4,10,0.5,x
+2023-02-04 14:06:02.483821,Chopok EMEP,x,x,67,x,x,2,4,x,x
+2023-02-04 14:06:02.483821,Liptovský Mikuláš Školská,*,*,x,4,x,2,4,x,x
+2023-02-04 14:06:02.483821,Košice Ďumbierska,x,x,67,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Košice Amurská,7,3,x,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Košice Štefánikova,7,5,x,8,515,5,10,0.5,x
+2023-02-04 14:06:02.483821,Kojšovská hoľa,x,x,64,x,x,1,3,x,x
+2023-02-04 14:06:02.483821,Veľká Ida Letná,66,52,x,x,727,x,x,x,x
+2023-02-04 14:06:02.483821,Strážske Mierová,5,4,x,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Trebišov T. G. Masaryka,6,5,63,x,x,1,4,x,x
+2023-02-04 14:06:02.483821,Krompachy SNP,8,18,x,8,180,3,8,0.3,x
+2023-02-04 14:06:02.483821,Poprad Železničná,9,15,x,x,x,2,4,x,x
+2023-02-04 14:06:02.483821,Stará Lesná AÚ SAV EMEP,6,3,50,x,x,6,18,x,x
+2023-02-04 14:06:02.483821,Gánovce Meteo. st,x,x,*,x,x,1,6,x,x
+2023-02-04 14:06:02.483821,Prešov Arm. gen. L. Svobodu,16,7,x,x,338,18,52,0.2,x
+2023-02-04 14:06:02.483821,Humenné Nám. slobody,6,3,63,x,x,3,6,x,x
+2023-02-04 14:06:02.483821,Starina Vodná nádrž EMEP,x,x,66,x,x,PDL,2,x,1.2
+2023-02-04 14:06:02.483821,Kolonické sedlo,4,5,x,x,x,x,x,x,x
+2023-02-04 14:06:02.483821,Vranov nad Top. M. R. Štefánika,5,5,x,5,x,x,x,x,x
+2023-02-04 14:06:02.483821,Bardejov Pod Vinbargom,5,6,62,x,x,3,5,x,x
+2023-02-04 15:06:02.093949,Bratislava Kamenné nám.,7,4,x,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Bratislava Trnavské Mýto,4,5,x,x,202,*,*,0.2,x
+2023-02-04 15:06:02.093949,Bratislava Jeséniova,7,6,67,2,x,2,4,x,x
+2023-02-04 15:06:02.093949,Bratislava Mamateyova,7,4,*,5,x,5,5,x,x
+2023-02-04 15:06:02.093949,Bratislava Púchovská,2,2,x,2,192,6,9,0.2,x
+2023-02-04 15:06:02.093949,Bratislava Padlých hrdinov mobilná AMS,5,5,x,x,PDL,5,6,x,x
+2023-02-04 15:06:02.093949,Rovinka mobilná AMS,8,x,x,PDL,192,*,*,0.2,x
+2023-02-04 15:06:02.093949,Pezinok Obrancov mieru,PDL,2,66,x,x,2,3,x,x
+2023-02-04 15:06:02.093949,Rohožník Senická,6,6,x,8,757,3,6,0.4,x
+2023-02-04 15:06:02.093949,Senec Boldocká,7,2,60,x,202,*,*,x,x
+2023-02-04 15:06:02.093949,Nitra Janíkovce,9,4,64,x,x,3,5,x,x
+2023-02-04 15:06:02.093949,Nitra Štúrova,6,5,x,2,318,2,7,0.1,x
+2023-02-04 15:06:02.093949,Komárno Vnútorná okružná,11,5,61,x,x,3,5,x,x
+2023-02-04 15:06:02.093949,Plášťovce,6,11,65,x,x,*,*,x,x
+2023-02-04 15:06:02.093949,Topoľníky Aszód EMEP,4,7,54,PDL,x,2,2,x,*
+2023-02-04 15:06:02.093949,Senica Hviezdoslavova,6,4,x,7,x,x,x,x,x
+2023-02-04 15:06:02.093949,Trnava Kollárova,10,8,x,x,260,16,42,0.5,x
+2023-02-04 15:06:02.093949,Sereď Vinárska,1,2,x,x,x,*,*,x,x
+2023-02-04 15:06:02.093949,Trenčín Hasičská,11,5,x,11,191,5,5,0.5,x
+2023-02-04 15:06:02.093949,Púchov 1. mája,7,4,x,3,*,4,6,x,x
+2023-02-04 15:06:02.093949,Bystričany Rozvodňa SSE,8,7,x,45,x,x,x,x,x
+2023-02-04 15:06:02.093949,Handlová Morovianska cesta,6,6,x,10,x,x,x,x,x
+2023-02-04 15:06:02.093949,Prievidza Malonecpalská,6,10,59,25,x,8,13,x,x
+2023-02-04 15:06:02.093949,Žarnovica Dolná,PDL,1,x,x,x,5,8,x,x
+2023-02-04 15:06:02.093949,Žiar nad Hronom Jilemnického,11,6,x,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Zvolen J. Alexyho,5,5,x,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Banská Bystrica Štefánikovo nábrežie,8,7,x,4,608,3,6,0.3,x
+2023-02-04 15:06:02.093949,Banská Bystrica Zelená,2,6,*,x,x,2,3,x,x
+2023-02-04 15:06:02.093949,Lučenec Gemerská cesta,3,3,68,x,179,3,4,0.1,x
+2023-02-04 15:06:02.093949,Hnúšťa Hlavná,PDL,PDL,x,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Jelšava Jesenského,9,10,*,x,x,2,4,x,x
+2023-02-04 15:06:02.093949,Žilina Obežná,12,6,50,x,201,11,18,x,x
+2023-02-04 15:06:02.093949,Oščadnica,9,9,63,5,x,4,7,x,x
+2023-02-04 15:06:02.093949,Martin Jesenského,11,8,x,x,451,7,17,0.5,x
+2023-02-04 15:06:02.093949,Ružomberok Riadok,7,3,57,1,364,4,9,0.5,x
+2023-02-04 15:06:02.093949,Chopok EMEP,x,x,67,x,x,2,3,x,x
+2023-02-04 15:06:02.093949,Liptovský Mikuláš Školská,*,*,x,4,x,2,3,x,x
+2023-02-04 15:06:02.093949,Košice Ďumbierska,x,x,67,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Košice Amurská,9,3,x,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Košice Štefánikova,12,10,x,5,476,6,10,0.4,x
+2023-02-04 15:06:02.093949,Kojšovská hoľa,x,x,65,x,x,1,2,x,x
+2023-02-04 15:06:02.093949,Veľká Ida Letná,52,49,x,x,1080,x,x,x,x
+2023-02-04 15:06:02.093949,Strážske Mierová,3,4,x,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Trebišov T. G. Masaryka,5,5,65,x,x,2,5,x,x
+2023-02-04 15:06:02.093949,Krompachy SNP,7,16,x,7,191,5,9,0.3,x
+2023-02-04 15:06:02.093949,Poprad Železničná,9,15,x,x,x,2,5,x,x
+2023-02-04 15:06:02.093949,Stará Lesná AÚ SAV EMEP,5,3,59,x,x,2,4,x,x
+2023-02-04 15:06:02.093949,Gánovce Meteo. st,x,x,*,x,x,*,*,x,x
+2023-02-04 15:06:02.093949,Prešov Arm. gen. L. Svobodu,9,6,x,x,*,18,59,0.2,x
+2023-02-04 15:06:02.093949,Humenné Nám. slobody,6,4,66,x,x,3,5,x,x
+2023-02-04 15:06:02.093949,Starina Vodná nádrž EMEP,x,x,69,x,x,PDL,2,x,1.1
+2023-02-04 15:06:02.093949,Kolonické sedlo,3,2,x,x,x,x,x,x,x
+2023-02-04 15:06:02.093949,Vranov nad Top. M. R. Štefánika,4,1,x,5,x,x,x,x,x
+2023-02-04 15:06:02.093949,Bardejov Pod Vinbargom,6,4,63,x,x,3,4,x,x
+2023-02-04 16:06:01.811220,Bratislava Kamenné nám.,5,4,x,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Bratislava Trnavské Mýto,7,2,x,x,187,8,20,0.2,x
+2023-02-04 16:06:01.811220,Bratislava Jeséniova,5,4,68,2,x,2,4,x,x
+2023-02-04 16:06:01.811220,Bratislava Mamateyova,4,4,*,5,x,5,5,x,x
+2023-02-04 16:06:01.811220,Bratislava Púchovská,PDL,PDL,x,2,207,4,7,0.2,x
+2023-02-04 16:06:01.811220,Bratislava Padlých hrdinov mobilná AMS,6,6,x,x,PDL,6,7,x,x
+2023-02-04 16:06:01.811220,Rovinka mobilná AMS,7,x,x,PDL,168,*,*,0.2,x
+2023-02-04 16:06:01.811220,Pezinok Obrancov mieru,PDL,PDL,67,x,x,2,3,x,x
+2023-02-04 16:06:01.811220,Rohožník Senická,5,6,x,8,803,3,6,0.5,x
+2023-02-04 16:06:01.811220,Senec Boldocká,6,1,60,x,209,*,*,x,x
+2023-02-04 16:06:01.811220,Nitra Janíkovce,10,6,66,x,x,3,4,x,x
+2023-02-04 16:06:01.811220,Nitra Štúrova,7,5,x,2,305,PDL,6,0.1,x
+2023-02-04 16:06:01.811220,Komárno Vnútorná okružná,11,3,63,x,x,4,5,x,x
+2023-02-04 16:06:01.811220,Plášťovce,8,10,66,x,x,*,*,x,x
+2023-02-04 16:06:01.811220,Topoľníky Aszód EMEP,7,4,51,PDL,x,2,2,x,*
+2023-02-04 16:06:01.811220,Senica Hviezdoslavova,2,PDL,x,7,x,x,x,x,x
+2023-02-04 16:06:01.811220,Trnava Kollárova,6,4,x,x,253,21,55,0.5,x
+2023-02-04 16:06:01.811220,Sereď Vinárska,4,4,x,x,x,5,10,x,x
+2023-02-04 16:06:01.811220,Trenčín Hasičská,9,1,x,11,189,5,6,0.4,x
+2023-02-04 16:06:01.811220,Púchov 1. mája,7,5,x,3,179,5,7,x,x
+2023-02-04 16:06:01.811220,Bystričany Rozvodňa SSE,7,6,x,42,x,x,x,x,x
+2023-02-04 16:06:01.811220,Handlová Morovianska cesta,5,5,x,*,x,x,x,x,x
+2023-02-04 16:06:01.811220,Prievidza Malonecpalská,6,9,61,24,x,7,14,x,x
+2023-02-04 16:06:01.811220,Žarnovica Dolná,6,2,x,x,x,4,7,x,x
+2023-02-04 16:06:01.811220,Žiar nad Hronom Jilemnického,8,6,x,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Zvolen J. Alexyho,6,6,x,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Banská Bystrica Štefánikovo nábrežie,4,4,x,5,*,5,9,0.3,x
+2023-02-04 16:06:01.811220,Banská Bystrica Zelená,3,3,*,x,x,3,5,x,x
+2023-02-04 16:06:01.811220,Lučenec Gemerská cesta,5,5,67,x,185,3,3,0.1,x
+2023-02-04 16:06:01.811220,Hnúšťa Hlavná,2,2,x,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Jelšava Jesenského,2,3,*,x,x,2,4,x,x
+2023-02-04 16:06:01.811220,Žilina Obežná,13,9,57,x,190,9,13,x,x
+2023-02-04 16:06:01.811220,Oščadnica,9,11,66,5,x,5,8,x,x
+2023-02-04 16:06:01.811220,Martin Jesenského,13,13,x,x,438,8,16,0.5,x
+2023-02-04 16:06:01.811220,Ružomberok Riadok,6,3,57,2,383,5,10,0.6,x
+2023-02-04 16:06:01.811220,Chopok EMEP,x,x,69,x,x,PDL,2,x,x
+2023-02-04 16:06:01.811220,Liptovský Mikuláš Školská,*,*,x,4,x,2,4,x,x
+2023-02-04 16:06:01.811220,Košice Ďumbierska,x,x,66,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Košice Amurská,8,7,x,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Košice Štefánikova,11,10,x,2,525,6,12,0.4,x
+2023-02-04 16:06:01.811220,Kojšovská hoľa,x,x,*,x,x,3,5,x,x
+2023-02-04 16:06:01.811220,Veľká Ida Letná,49,39,x,x,931,x,x,x,x
+2023-02-04 16:06:01.811220,Strážske Mierová,4,4,x,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Trebišov T. G. Masaryka,5,6,65,x,x,5,9,x,x
+2023-02-04 16:06:01.811220,Krompachy SNP,9,8,x,7,211,5,11,0.3,x
+2023-02-04 16:06:01.811220,Poprad Železničná,7,14,x,x,x,*,*,x,x
+2023-02-04 16:06:01.811220,Stará Lesná AÚ SAV EMEP,9,9,56,x,x,4,9,x,x
+2023-02-04 16:06:01.811220,Gánovce Meteo. st,x,x,*,x,x,2,6,x,x
+2023-02-04 16:06:01.811220,Prešov Arm. gen. L. Svobodu,9,6,x,x,343,25,70,0.2,x
+2023-02-04 16:06:01.811220,Humenné Nám. slobody,4,3,69,x,x,3,5,x,x
+2023-02-04 16:06:01.811220,Starina Vodná nádrž EMEP,x,x,71,x,x,PDL,1,x,1.2
+2023-02-04 16:06:01.811220,Kolonické sedlo,3,2,x,x,x,x,x,x,x
+2023-02-04 16:06:01.811220,Vranov nad Top. M. R. Štefánika,5,5,x,5,x,x,x,x,x
+2023-02-04 16:06:01.811220,Bardejov Pod Vinbargom,7,6,64,x,x,4,5,x,x
+2023-02-04 17:06:02.543784,Bratislava Kamenné nám.,4,PDL,x,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Bratislava Trnavské Mýto,6,3,x,x,193,12,27,0.2,x
+2023-02-04 17:06:02.543784,Bratislava Jeséniova,PDL,4,68,2,x,2,4,x,x
+2023-02-04 17:06:02.543784,Bratislava Mamateyova,3,4,*,5,x,6,6,x,x
+2023-02-04 17:06:02.543784,Bratislava Púchovská,PDL,PDL,x,2,193,6,9,0.2,x
+2023-02-04 17:06:02.543784,Bratislava Padlých hrdinov mobilná AMS,5,5,x,x,PDL,5,7,x,x
+2023-02-04 17:06:02.543784,Rovinka mobilná AMS,4,x,x,PDL,166,*,*,0.2,x
+2023-02-04 17:06:02.543784,Pezinok Obrancov mieru,3,6,68,x,x,2,3,x,x
+2023-02-04 17:06:02.543784,Rohožník Senická,6,5,x,7,779,4,7,0.5,x
+2023-02-04 17:06:02.543784,Senec Boldocká,6,2,60,x,218,*,*,x,x
+2023-02-04 17:06:02.543784,Nitra Janíkovce,2,2,69,x,x,3,4,x,x
+2023-02-04 17:06:02.543784,Nitra Štúrova,4,2,x,1,296,PDL,4,0.1,x
+2023-02-04 17:06:02.543784,Komárno Vnútorná okružná,9,2,63,x,x,4,5,x,x
+2023-02-04 17:06:02.543784,Plášťovce,8,13,66,x,x,*,*,x,x
+2023-02-04 17:06:02.543784,Topoľníky Aszód EMEP,8,3,57,PDL,x,2,2,x,*
+2023-02-04 17:06:02.543784,Senica Hviezdoslavova,2,PDL,x,8,x,x,x,x,x
+2023-02-04 17:06:02.543784,Trnava Kollárova,1,PDL,x,x,241,22,52,0.4,x
+2023-02-04 17:06:02.543784,Sereď Vinárska,PDL,PDL,x,x,x,6,10,x,x
+2023-02-04 17:06:02.543784,Trenčín Hasičská,3,1,x,11,187,5,5,0.5,x
+2023-02-04 17:06:02.543784,Púchov 1. mája,5,4,x,3,169,4,6,x,x
+2023-02-04 17:06:02.543784,Bystričany Rozvodňa SSE,5,6,x,41,x,x,x,x,x
+2023-02-04 17:06:02.543784,Handlová Morovianska cesta,4,2,x,9,x,x,x,x,x
+2023-02-04 17:06:02.543784,Prievidza Malonecpalská,5,6,60,24,x,8,13,x,x
+2023-02-04 17:06:02.543784,Žarnovica Dolná,4,2,x,x,x,4,7,x,x
+2023-02-04 17:06:02.543784,Žiar nad Hronom Jilemnického,9,6,x,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Zvolen J. Alexyho,6,3,x,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Banská Bystrica Štefánikovo nábrežie,3,5,x,5,616,5,10,0.3,x
+2023-02-04 17:06:02.543784,Banská Bystrica Zelená,8,5,*,x,x,3,5,x,x
+2023-02-04 17:06:02.543784,Lučenec Gemerská cesta,3,4,71,x,178,2,3,0.2,x
+2023-02-04 17:06:02.543784,Hnúšťa Hlavná,PDL,PDL,x,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Jelšava Jesenského,3,5,*,x,x,2,4,x,x
+2023-02-04 17:06:02.543784,Žilina Obežná,9,6,*,x,206,8,11,x,x
+2023-02-04 17:06:02.543784,Oščadnica,12,10,65,6,x,5,8,x,x
+2023-02-04 17:06:02.543784,Martin Jesenského,11,9,x,x,438,9,17,0.5,x
+2023-02-04 17:06:02.543784,Ružomberok Riadok,8,6,56,1,405,6,13,0.6,x
+2023-02-04 17:06:02.543784,Chopok EMEP,x,x,67,x,x,2,3,x,x
+2023-02-04 17:06:02.543784,Liptovský Mikuláš Školská,*,*,x,5,x,4,5,x,x
+2023-02-04 17:06:02.543784,Košice Ďumbierska,x,x,66,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Košice Amurská,8,6,x,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Košice Štefánikova,12,5,x,PDL,495,12,20,0.4,x
+2023-02-04 17:06:02.543784,Kojšovská hoľa,x,x,65,x,x,3,5,x,x
+2023-02-04 17:06:02.543784,Veľká Ida Letná,44,40,x,x,782,x,x,x,x
+2023-02-04 17:06:02.543784,Strážske Mierová,6,5,x,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Trebišov T. G. Masaryka,4,6,67,x,x,2,5,x,x
+2023-02-04 17:06:02.543784,Krompachy SNP,7,9,x,7,232,5,10,0.4,x
+2023-02-04 17:06:02.543784,Poprad Železničná,4,4,x,x,x,4,7,x,x
+2023-02-04 17:06:02.543784,Stará Lesná AÚ SAV EMEP,5,5,52,x,x,6,15,x,x
+2023-02-04 17:06:02.543784,Gánovce Meteo. st,x,x,*,x,x,2,6,x,x
+2023-02-04 17:06:02.543784,Prešov Arm. gen. L. Svobodu,8,6,x,x,347,24,60,0.2,x
+2023-02-04 17:06:02.543784,Humenné Nám. slobody,5,3,68,x,x,3,5,x,x
+2023-02-04 17:06:02.543784,Starina Vodná nádrž EMEP,x,x,71,x,x,PDL,2,x,1.1
+2023-02-04 17:06:02.543784,Kolonické sedlo,2,2,x,x,x,x,x,x,x
+2023-02-04 17:06:02.543784,Vranov nad Top. M. R. Štefánika,7,8,x,5,x,x,x,x,x
+2023-02-04 17:06:02.543784,Bardejov Pod Vinbargom,7,6,65,x,x,4,5,x,x
+2023-02-04 18:06:02.232889,Bratislava Kamenné nám.,3,PDL,x,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Bratislava Trnavské Mýto,4,3,x,x,*,11,26,0.2,x
+2023-02-04 18:06:02.232889,Bratislava Jeséniova,3,3,69,3,x,3,4,x,x
+2023-02-04 18:06:02.232889,Bratislava Mamateyova,4,3,*,5,x,7,7,x,x
+2023-02-04 18:06:02.232889,Bratislava Púchovská,2,PDL,x,2,189,9,13,0.1,x
+2023-02-04 18:06:02.232889,Bratislava Padlých hrdinov mobilná AMS,4,6,x,x,PDL,7,8,x,x
+2023-02-04 18:06:02.232889,Rovinka mobilná AMS,1,x,x,1,168,*,*,0.2,x
+2023-02-04 18:06:02.232889,Pezinok Obrancov mieru,PDL,PDL,68,x,x,2,3,x,x
+2023-02-04 18:06:02.232889,Rohožník Senická,9,4,x,7,796,5,10,0.4,x
+2023-02-04 18:06:02.232889,Senec Boldocká,10,4,61,x,209,*,*,x,x
+2023-02-04 18:06:02.232889,Nitra Janíkovce,9,2,69,x,x,3,4,x,x
+2023-02-04 18:06:02.232889,Nitra Štúrova,5,4,x,1,295,PDL,6,0.1,x
+2023-02-04 18:06:02.232889,Komárno Vnútorná okružná,6,4,64,x,x,4,5,x,x
+2023-02-04 18:06:02.232889,Plášťovce,5,9,65,x,x,*,*,x,x
+2023-02-04 18:06:02.232889,Topoľníky Aszód EMEP,3,3,66,PDL,x,2,2,x,*
+2023-02-04 18:06:02.232889,Senica Hviezdoslavova,4,PDL,x,7,x,x,x,x,x
+2023-02-04 18:06:02.232889,Trnava Kollárova,3,3,x,x,235,21,51,0.4,x
+2023-02-04 18:06:02.232889,Sereď Vinárska,PDL,PDL,x,x,x,6,12,x,x
+2023-02-04 18:06:02.232889,Trenčín Hasičská,PDL,PDL,x,11,194,*,*,0.5,x
+2023-02-04 18:06:02.232889,Púchov 1. mája,3,3,x,3,169,6,7,x,x
+2023-02-04 18:06:02.232889,Bystričany Rozvodňa SSE,2,3,x,42,x,x,x,x,x
+2023-02-04 18:06:02.232889,Handlová Morovianska cesta,4,3,x,9,x,x,x,x,x
+2023-02-04 18:06:02.232889,Prievidza Malonecpalská,4,7,60,23,x,10,16,x,x
+2023-02-04 18:06:02.232889,Žarnovica Dolná,5,2,x,x,x,6,8,x,x
+2023-02-04 18:06:02.232889,Žiar nad Hronom Jilemnického,10,3,x,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Zvolen J. Alexyho,4,3,x,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Banská Bystrica Štefánikovo nábrežie,7,1,x,4,625,7,15,0.3,x
+2023-02-04 18:06:02.232889,Banská Bystrica Zelená,4,2,*,x,x,3,5,x,x
+2023-02-04 18:06:02.232889,Lučenec Gemerská cesta,2,3,69,x,191,4,4,0.1,x
+2023-02-04 18:06:02.232889,Hnúšťa Hlavná,1,PDL,x,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Jelšava Jesenského,6,7,*,x,x,3,4,x,x
+2023-02-04 18:06:02.232889,Žilina Obežná,6,5,58,x,213,9,13,x,x
+2023-02-04 18:06:02.232889,Oščadnica,16,15,65,6,x,6,8,x,x
+2023-02-04 18:06:02.232889,Martin Jesenského,9,8,x,x,449,9,16,0.5,x
+2023-02-04 18:06:02.232889,Ružomberok Riadok,4,8,*,PDL,432,10,18,0.7,x
+2023-02-04 18:06:02.232889,Chopok EMEP,x,x,64,x,x,2,2,x,x
+2023-02-04 18:06:02.232889,Liptovský Mikuláš Školská,*,*,x,5,x,4,5,x,x
+2023-02-04 18:06:02.232889,Košice Ďumbierska,x,x,68,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Košice Amurská,9,5,x,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Košice Štefánikova,16,7,x,4,528,9,17,0.5,x
+2023-02-04 18:06:02.232889,Kojšovská hoľa,x,x,59,x,x,4,9,x,x
+2023-02-04 18:06:02.232889,Veľká Ida Letná,25,20,x,x,335,x,x,x,x
+2023-02-04 18:06:02.232889,Strážske Mierová,6,4,x,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Trebišov T. G. Masaryka,4,4,66,x,x,*,*,x,x
+2023-02-04 18:06:02.232889,Krompachy SNP,8,11,x,6,208,5,9,0.4,x
+2023-02-04 18:06:02.232889,Poprad Železničná,8,9,x,x,x,3,7,x,x
+2023-02-04 18:06:02.232889,Stará Lesná AÚ SAV EMEP,5,3,57,x,x,2,3,x,x
+2023-02-04 18:06:02.232889,Gánovce Meteo. st,x,x,*,x,x,2,9,x,x
+2023-02-04 18:06:02.232889,Prešov Arm. gen. L. Svobodu,7,4,x,x,338,22,50,0.2,x
+2023-02-04 18:06:02.232889,Humenné Nám. slobody,10,4,66,x,x,5,7,x,x
+2023-02-04 18:06:02.232889,Starina Vodná nádrž EMEP,x,x,69,x,x,1,2,x,1.3
+2023-02-04 18:06:02.232889,Kolonické sedlo,5,3,x,x,x,x,x,x,x
+2023-02-04 18:06:02.232889,Vranov nad Top. M. R. Štefánika,5,6,x,5,x,x,x,x,x
+2023-02-04 18:06:02.232889,Bardejov Pod Vinbargom,8,6,63,x,x,4,5,x,x
+2023-02-04 19:06:01.830808,Bratislava Kamenné nám.,3,3,x,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Bratislava Trnavské Mýto,6,2,x,x,191,12,29,0.2,x
+2023-02-04 19:06:01.830808,Bratislava Jeséniova,6,3,65,2,x,3,4,x,x
+2023-02-04 19:06:01.830808,Bratislava Mamateyova,5,1,*,5,x,8,8,x,x
+2023-02-04 19:06:01.830808,Bratislava Púchovská,PDL,2,x,2,*,6,7,0.2,x
+2023-02-04 19:06:01.830808,Bratislava Padlých hrdinov mobilná AMS,5,4,x,x,PDL,8,9,x,x
+2023-02-04 19:06:01.830808,Rovinka mobilná AMS,3,x,x,2,171,*,*,0.2,x
+2023-02-04 19:06:01.830808,Pezinok Obrancov mieru,3,6,68,x,x,2,3,x,x
+2023-02-04 19:06:01.830808,Rohožník Senická,7,5,x,7,801,3,7,0.5,x
+2023-02-04 19:06:01.830808,Senec Boldocká,8,7,59,x,230,*,*,x,x
+2023-02-04 19:06:01.830808,Nitra Janíkovce,6,6,72,x,x,3,4,x,x
+2023-02-04 19:06:01.830808,Nitra Štúrova,1,PDL,x,1,301,PDL,5,0.1,x
+2023-02-04 19:06:01.830808,Komárno Vnútorná okružná,3,3,62,x,x,5,6,x,x
+2023-02-04 19:06:01.830808,Plášťovce,7,10,66,x,x,*,*,x,x
+2023-02-04 19:06:01.830808,Topoľníky Aszód EMEP,2,PDL,65,PDL,x,2,1,x,*
+2023-02-04 19:06:01.830808,Senica Hviezdoslavova,2,PDL,x,7,x,x,x,x,x
+2023-02-04 19:06:01.830808,Trnava Kollárova,4,4,x,x,224,19,42,0.5,x
+2023-02-04 19:06:01.830808,Sereď Vinárska,7,PDL,x,x,x,9,14,x,x
+2023-02-04 19:06:01.830808,Trenčín Hasičská,6,PDL,x,*,201,6,7,0.5,x
+2023-02-04 19:06:01.830808,Púchov 1. mája,5,4,x,*,181,6,7,x,x
+2023-02-04 19:06:01.830808,Bystričany Rozvodňa SSE,5,5,x,43,x,x,x,x,x
+2023-02-04 19:06:01.830808,Handlová Morovianska cesta,7,4,x,9,x,x,x,x,x
+2023-02-04 19:06:01.830808,Prievidza Malonecpalská,4,6,58,22,x,12,21,x,x
+2023-02-04 19:06:01.830808,Žarnovica Dolná,3,3,x,x,x,4,6,x,x
+2023-02-04 19:06:01.830808,Žiar nad Hronom Jilemnického,8,5,x,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Zvolen J. Alexyho,2,3,x,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Banská Bystrica Štefánikovo nábrežie,11,3,x,5,647,12,27,0.4,x
+2023-02-04 19:06:01.830808,Banská Bystrica Zelená,3,1,*,x,x,4,6,x,x
+2023-02-04 19:06:01.830808,Lučenec Gemerská cesta,6,5,58,x,273,7,7,0.3,x
+2023-02-04 19:06:01.830808,Hnúšťa Hlavná,2,PDL,x,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Jelšava Jesenského,11,9,*,x,x,2,4,x,x
+2023-02-04 19:06:01.830808,Žilina Obežná,5,5,56,x,*,10,14,x,x
+2023-02-04 19:06:01.830808,Oščadnica,21,23,64,7,x,7,10,x,x
+2023-02-04 19:06:01.830808,Martin Jesenského,7,7,x,x,448,10,17,0.5,x
+2023-02-04 19:06:01.830808,Ružomberok Riadok,11,10,51,3,502,9,16,0.9,x
+2023-02-04 19:06:01.830808,Chopok EMEP,x,x,63,x,x,2,3,x,x
+2023-02-04 19:06:01.830808,Liptovský Mikuláš Školská,*,*,x,5,x,4,5,x,x
+2023-02-04 19:06:01.830808,Košice Ďumbierska,x,x,64,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Košice Amurská,6,5,x,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Košice Štefánikova,18,6,x,PDL,507,8,14,0.5,x
+2023-02-04 19:06:01.830808,Kojšovská hoľa,x,x,58,x,x,3,6,x,x
+2023-02-04 19:06:01.830808,Veľká Ida Letná,14,14,x,x,418,x,x,x,x
+2023-02-04 19:06:01.830808,Strážske Mierová,5,5,x,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Trebišov T. G. Masaryka,8,5,64,x,x,3,5,x,x
+2023-02-04 19:06:01.830808,Krompachy SNP,7,7,x,6,216,6,12,0.4,x
+2023-02-04 19:06:01.830808,Poprad Železničná,4,4,x,x,x,4,8,x,x
+2023-02-04 19:06:01.830808,Stará Lesná AÚ SAV EMEP,5,PDL,52,x,x,5,13,x,x
+2023-02-04 19:06:01.830808,Gánovce Meteo. st,x,x,*,x,x,2,6,x,x
+2023-02-04 19:06:01.830808,Prešov Arm. gen. L. Svobodu,7,7,x,x,384,29,71,0.3,x
+2023-02-04 19:06:01.830808,Humenné Nám. slobody,7,3,64,x,x,5,7,x,x
+2023-02-04 19:06:01.830808,Starina Vodná nádrž EMEP,x,x,66,x,x,1,2,x,1.1
+2023-02-04 19:06:01.830808,Kolonické sedlo,9,7,x,x,x,x,x,x,x
+2023-02-04 19:06:01.830808,Vranov nad Top. M. R. Štefánika,6,5,x,4,x,x,x,x,x
+2023-02-04 19:06:01.830808,Bardejov Pod Vinbargom,6,6,60,x,x,3,4,x,x
+2023-02-04 20:06:02.263050,Bratislava Kamenné nám.,4,2,x,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Bratislava Trnavské Mýto,6,PDL,x,x,209,11,23,0.2,x
+2023-02-04 20:06:02.263050,Bratislava Jeséniova,5,1,67,3,x,3,4,x,x
+2023-02-04 20:06:02.263050,Bratislava Mamateyova,4,2,*,5,x,*,*,x,x
+2023-02-04 20:06:02.263050,Bratislava Púchovská,4,1,x,2,188,8,11,0.2,x
+2023-02-04 20:06:02.263050,Bratislava Padlých hrdinov mobilná AMS,12,4,x,x,PDL,9,10,x,x
+2023-02-04 20:06:02.263050,Rovinka mobilná AMS,16,x,x,2,184,*,*,0.2,x
+2023-02-04 20:06:02.263050,Pezinok Obrancov mieru,PDL,5,68,x,x,2,3,x,x
+2023-02-04 20:06:02.263050,Rohožník Senická,5,7,x,7,898,5,10,0.6,x
+2023-02-04 20:06:02.263050,Senec Boldocká,5,4,61,x,211,*,*,x,x
+2023-02-04 20:06:02.263050,Nitra Janíkovce,10,6,72,x,x,3,4,x,x
+2023-02-04 20:06:02.263050,Nitra Štúrova,2,PDL,x,1,311,PDL,5,0.1,x
+2023-02-04 20:06:02.263050,Komárno Vnútorná okružná,3,1,61,x,x,5,6,x,x
+2023-02-04 20:06:02.263050,Plášťovce,8,10,63,x,x,*,*,x,x
+2023-02-04 20:06:02.263050,Topoľníky Aszód EMEP,1,PDL,62,PDL,x,3,2,x,*
+2023-02-04 20:06:02.263050,Senica Hviezdoslavova,3,2,x,7,x,x,x,x,x
+2023-02-04 20:06:02.263050,Trnava Kollárova,6,5,x,x,282,27,63,0.5,x
+2023-02-04 20:06:02.263050,Sereď Vinárska,3,PDL,x,x,x,8,13,x,x
+2023-02-04 20:06:02.263050,Trenčín Hasičská,3,PDL,x,11,*,6,5,0.5,x
+2023-02-04 20:06:02.263050,Púchov 1. mája,6,4,x,3,183,6,8,x,x
+2023-02-04 20:06:02.263050,Bystričany Rozvodňa SSE,7,7,x,42,x,x,x,x,x
+2023-02-04 20:06:02.263050,Handlová Morovianska cesta,6,2,x,9,x,x,x,x,x
+2023-02-04 20:06:02.263050,Prievidza Malonecpalská,2,4,60,23,x,8,11,x,x
+2023-02-04 20:06:02.263050,Žarnovica Dolná,9,10,x,x,x,6,7,x,x
+2023-02-04 20:06:02.263050,Žiar nad Hronom Jilemnického,8,5,x,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Zvolen J. Alexyho,5,7,x,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Banská Bystrica Štefánikovo nábrežie,3,4,x,4,671,12,21,0.4,x
+2023-02-04 20:06:02.263050,Banská Bystrica Zelená,2,1,*,x,x,3,5,x,x
+2023-02-04 20:06:02.263050,Lučenec Gemerská cesta,9,7,56,x,222,7,7,0.4,x
+2023-02-04 20:06:02.263050,Hnúšťa Hlavná,PDL,2,x,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Jelšava Jesenského,21,23,*,x,x,9,12,x,x
+2023-02-04 20:06:02.263050,Žilina Obežná,7,10,57,x,239,8,10,x,x
+2023-02-04 20:06:02.263050,Oščadnica,15,16,62,6,x,6,8,x,x
+2023-02-04 20:06:02.263050,Martin Jesenského,9,7,x,x,466,9,17,0.5,x
+2023-02-04 20:06:02.263050,Ružomberok Riadok,12,7,53,2,416,7,13,1.1,x
+2023-02-04 20:06:02.263050,Chopok EMEP,x,x,63,x,x,2,3,x,x
+2023-02-04 20:06:02.263050,Liptovský Mikuláš Školská,*,*,x,5,x,5,5,x,x
+2023-02-04 20:06:02.263050,Košice Ďumbierska,x,x,62,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Košice Amurská,6,6,x,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Košice Štefánikova,19,9,x,5,527,9,17,0.6,x
+2023-02-04 20:06:02.263050,Kojšovská hoľa,x,x,58,x,x,3,7,x,x
+2023-02-04 20:06:02.263050,Veľká Ida Letná,9,9,x,x,426,x,x,x,x
+2023-02-04 20:06:02.263050,Strážske Mierová,8,5,x,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Trebišov T. G. Masaryka,6,4,62,x,x,3,6,x,x
+2023-02-04 20:06:02.263050,Krompachy SNP,7,5,x,6,243,7,16,0.4,x
+2023-02-04 20:06:02.263050,Poprad Železničná,7,5,x,x,x,4,8,x,x
+2023-02-04 20:06:02.263050,Stará Lesná AÚ SAV EMEP,2,10,45,x,x,*,*,x,x
+2023-02-04 20:06:02.263050,Gánovce Meteo. st,x,x,*,x,x,2,7,x,x
+2023-02-04 20:06:02.263050,Prešov Arm. gen. L. Svobodu,10,6,x,x,368,30,67,0.3,x
+2023-02-04 20:06:02.263050,Humenné Nám. slobody,5,4,61,x,x,5,7,x,x
+2023-02-04 20:06:02.263050,Starina Vodná nádrž EMEP,x,x,65,x,x,1,2,x,1.2
+2023-02-04 20:06:02.263050,Kolonické sedlo,9,7,x,x,x,x,x,x,x
+2023-02-04 20:06:02.263050,Vranov nad Top. M. R. Štefánika,6,6,x,4,x,x,x,x,x
+2023-02-04 20:06:02.263050,Bardejov Pod Vinbargom,7,4,60,x,x,4,4,x,x
+2023-02-04 21:06:01.692503,Bratislava Kamenné nám.,3,2,x,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Bratislava Trnavské Mýto,2,PDL,x,x,204,11,24,0.2,x
+2023-02-04 21:06:01.692503,Bratislava Jeséniova,5,3,66,3,x,3,5,x,x
+2023-02-04 21:06:01.692503,Bratislava Mamateyova,4,2,*,*,x,8,8,x,x
+2023-02-04 21:06:01.692503,Bratislava Púchovská,3,3,x,2,189,7,9,0.2,x
+2023-02-04 21:06:01.692503,Bratislava Padlých hrdinov mobilná AMS,12,5,x,x,PDL,7,8,x,x
+2023-02-04 21:06:01.692503,Rovinka mobilná AMS,3,x,x,1,184,*,*,0.3,x
+2023-02-04 21:06:01.692503,Pezinok Obrancov mieru,2,PDL,67,x,x,2,3,x,x
+2023-02-04 21:06:01.692503,Rohožník Senická,8,8,x,6,867,4,8,0.9,x
+2023-02-04 21:06:01.692503,Senec Boldocká,5,3,60,x,219,*,*,x,x
+2023-02-04 21:06:01.692503,Nitra Janíkovce,4,5,69,x,x,3,4,x,x
+2023-02-04 21:06:01.692503,Nitra Štúrova,6,2,x,1,303,PDL,4,0.1,x
+2023-02-04 21:06:01.692503,Komárno Vnútorná okružná,6,PDL,59,x,x,6,7,x,x
+2023-02-04 21:06:01.692503,Plášťovce,7,11,63,x,x,*,*,x,x
+2023-02-04 21:06:01.692503,Topoľníky Aszód EMEP,PDL,1,62,PDL,x,3,2,x,*
+2023-02-04 21:06:01.692503,Senica Hviezdoslavova,3,4,x,7,x,x,x,x,x
+2023-02-04 21:06:01.692503,Trnava Kollárova,8,6,x,x,271,23,52,0.6,x
+2023-02-04 21:06:01.692503,Sereď Vinárska,5,PDL,x,x,x,8,11,x,x
+2023-02-04 21:06:01.692503,Trenčín Hasičská,2,1,x,11,204,5,6,0.6,x
+2023-02-04 21:06:01.692503,Púchov 1. mája,6,3,x,3,192,6,7,x,x
+2023-02-04 21:06:01.692503,Bystričany Rozvodňa SSE,6,6,x,41,x,x,x,x,x
+2023-02-04 21:06:01.692503,Handlová Morovianska cesta,6,5,x,9,x,x,x,x,x
+2023-02-04 21:06:01.692503,Prievidza Malonecpalská,PDL,PDL,59,23,x,6,9,x,x
+2023-02-04 21:06:01.692503,Žarnovica Dolná,10,9,x,x,x,5,6,x,x
+2023-02-04 21:06:01.692503,Žiar nad Hronom Jilemnického,8,5,x,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Zvolen J. Alexyho,8,7,x,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Banská Bystrica Štefánikovo nábrežie,4,5,x,4,637,6,9,0.5,x
+2023-02-04 21:06:01.692503,Banská Bystrica Zelená,3,3,*,x,x,3,4,x,x
+2023-02-04 21:06:01.692503,Lučenec Gemerská cesta,7,8,49,x,303,15,19,0.3,x
+2023-02-04 21:06:01.692503,Hnúšťa Hlavná,PDL,PDL,x,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Jelšava Jesenského,41,42,*,x,x,10,14,x,x
+2023-02-04 21:06:01.692503,Žilina Obežná,7,5,52,x,245,10,12,x,x
+2023-02-04 21:06:01.692503,Oščadnica,13,13,61,6,x,5,7,x,x
+2023-02-04 21:06:01.692503,Martin Jesenského,8,7,x,x,447,8,14,0.6,x
+2023-02-04 21:06:01.692503,Ružomberok Riadok,7,5,53,2,401,*,*,0.8,x
+2023-02-04 21:06:01.692503,Chopok EMEP,x,x,61,x,x,2,3,x,x
+2023-02-04 21:06:01.692503,Liptovský Mikuláš Školská,*,*,x,5,x,5,6,x,x
+2023-02-04 21:06:01.692503,Košice Ďumbierska,x,x,62,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Košice Amurská,8,4,x,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Košice Štefánikova,15,8,x,PDL,520,8,14,0.6,x
+2023-02-04 21:06:01.692503,Kojšovská hoľa,x,x,59,x,x,2,4,x,x
+2023-02-04 21:06:01.692503,Veľká Ida Letná,17,17,x,x,441,x,x,x,x
+2023-02-04 21:06:01.692503,Strážske Mierová,5,5,x,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Trebišov T. G. Masaryka,6,2,60,x,x,4,6,x,x
+2023-02-04 21:06:01.692503,Krompachy SNP,9,6,x,7,240,7,12,0.6,x
+2023-02-04 21:06:01.692503,Poprad Železničná,10,10,x,x,x,4,8,x,x
+2023-02-04 21:06:01.692503,Stará Lesná AÚ SAV EMEP,5,15,45,x,x,7,20,x,x
+2023-02-04 21:06:01.692503,Gánovce Meteo. st,x,x,*,x,x,2,12,x,x
+2023-02-04 21:06:01.692503,Prešov Arm. gen. L. Svobodu,7,6,x,x,364,26,62,0.3,x
+2023-02-04 21:06:01.692503,Humenné Nám. slobody,6,3,60,x,x,4,6,x,x
+2023-02-04 21:06:01.692503,Starina Vodná nádrž EMEP,x,x,*,x,x,2,3,x,1.2
+2023-02-04 21:06:01.692503,Kolonické sedlo,9,6,x,x,x,x,x,x,x
+2023-02-04 21:06:01.692503,Vranov nad Top. M. R. Štefánika,5,6,x,4,x,x,x,x,x
+2023-02-04 21:06:01.692503,Bardejov Pod Vinbargom,9,9,60,x,x,4,5,x,x
+2023-02-04 22:06:02.230183,Bratislava Kamenné nám.,4,2,x,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Bratislava Trnavské Mýto,3,2,x,x,193,7,14,0.2,x
+2023-02-04 22:06:02.230183,Bratislava Jeséniova,2,3,65,3,x,3,5,x,x
+2023-02-04 22:06:02.230183,Bratislava Mamateyova,6,1,*,5,x,8,7,x,x
+2023-02-04 22:06:02.230183,Bratislava Púchovská,6,2,x,2,196,5,5,0.2,x
+2023-02-04 22:06:02.230183,Bratislava Padlých hrdinov mobilná AMS,7,3,x,x,PDL,9,10,x,x
+2023-02-04 22:06:02.230183,Rovinka mobilná AMS,3,x,x,2,188,*,*,0.3,x
+2023-02-04 22:06:02.230183,Pezinok Obrancov mieru,PDL,PDL,66,x,x,2,3,x,x
+2023-02-04 22:06:02.230183,Rohožník Senická,6,6,x,7,833,3,6,0.5,x
+2023-02-04 22:06:02.230183,Senec Boldocká,7,9,60,x,234,*,*,x,x
+2023-02-04 22:06:02.230183,Nitra Janíkovce,2,1,67,x,x,3,4,x,x
+2023-02-04 22:06:02.230183,Nitra Štúrova,5,2,x,1,315,PDL,4,0.1,x
+2023-02-04 22:06:02.230183,Komárno Vnútorná okružná,2,PDL,59,x,x,5,6,x,x
+2023-02-04 22:06:02.230183,Plášťovce,9,11,60,x,x,*,*,x,x
+2023-02-04 22:06:02.230183,Topoľníky Aszód EMEP,7,5,61,PDL,x,3,2,x,*
+2023-02-04 22:06:02.230183,Senica Hviezdoslavova,3,PDL,x,7,x,x,x,x,x
+2023-02-04 22:06:02.230183,Trnava Kollárova,7,6,x,x,246,17,39,0.6,x
+2023-02-04 22:06:02.230183,Sereď Vinárska,3,1,x,x,x,8,11,x,x
+2023-02-04 22:06:02.230183,Trenčín Hasičská,6,3,x,11,207,6,5,0.6,x
+2023-02-04 22:06:02.230183,Púchov 1. mája,5,2,x,3,177,4,5,x,x
+2023-02-04 22:06:02.230183,Bystričany Rozvodňa SSE,5,5,x,*,x,x,x,x,x
+2023-02-04 22:06:02.230183,Handlová Morovianska cesta,5,5,x,9,x,x,x,x,x
+2023-02-04 22:06:02.230183,Prievidza Malonecpalská,1,2,59,23,x,5,7,x,x
+2023-02-04 22:06:02.230183,Žarnovica Dolná,9,11,x,x,x,7,9,x,x
+2023-02-04 22:06:02.230183,Žiar nad Hronom Jilemnického,9,5,x,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Zvolen J. Alexyho,7,10,x,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Banská Bystrica Štefánikovo nábrežie,6,5,x,4,659,10,23,0.4,x
+2023-02-04 22:06:02.230183,Banská Bystrica Zelená,7,4,*,x,x,3,5,x,x
+2023-02-04 22:06:02.230183,Lučenec Gemerská cesta,18,16,45,x,425,14,16,1.3,x
+2023-02-04 22:06:02.230183,Hnúšťa Hlavná,2,2,x,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Jelšava Jesenského,30,28,*,x,x,6,10,x,x
+2023-02-04 22:06:02.230183,Žilina Obežná,8,6,53,x,220,9,13,x,x
+2023-02-04 22:06:02.230183,Oščadnica,19,18,60,6,x,5,7,x,x
+2023-02-04 22:06:02.230183,Martin Jesenského,9,6,x,x,480,8,14,0.6,x
+2023-02-04 22:06:02.230183,Ružomberok Riadok,9,8,47,*,489,11,19,0.9,x
+2023-02-04 22:06:02.230183,Chopok EMEP,x,x,60,x,x,3,5,x,x
+2023-02-04 22:06:02.230183,Liptovský Mikuláš Školská,*,*,x,5,x,7,8,x,x
+2023-02-04 22:06:02.230183,Košice Ďumbierska,x,x,63,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Košice Amurská,9,7,x,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Košice Štefánikova,6,8,x,4,510,8,14,0.6,x
+2023-02-04 22:06:02.230183,Kojšovská hoľa,x,x,60,x,x,2,3,x,x
+2023-02-04 22:06:02.230183,Veľká Ida Letná,10,23,x,x,290,x,x,x,x
+2023-02-04 22:06:02.230183,Strážske Mierová,6,5,x,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Trebišov T. G. Masaryka,10,7,57,x,x,7,9,x,x
+2023-02-04 22:06:02.230183,Krompachy SNP,7,9,x,6,228,5,8,0.5,x
+2023-02-04 22:06:02.230183,Poprad Železničná,9,8,x,x,x,6,10,x,x
+2023-02-04 22:06:02.230183,Stará Lesná AÚ SAV EMEP,2,1,43,x,x,6,21,x,x
+2023-02-04 22:06:02.230183,Gánovce Meteo. st,x,x,*,x,x,3,8,x,x
+2023-02-04 22:06:02.230183,Prešov Arm. gen. L. Svobodu,5,7,x,x,365,23,54,0.3,x
+2023-02-04 22:06:02.230183,Humenné Nám. slobody,6,3,60,x,x,*,*,x,x
+2023-02-04 22:06:02.230183,Starina Vodná nádrž EMEP,x,x,59,x,x,2,3,x,1.2
+2023-02-04 22:06:02.230183,Kolonické sedlo,7,7,x,x,x,x,x,x,x
+2023-02-04 22:06:02.230183,Vranov nad Top. M. R. Štefánika,5,7,x,4,x,x,x,x,x
+2023-02-04 22:06:02.230183,Bardejov Pod Vinbargom,6,6,60,x,x,3,4,x,x
+2023-02-04 23:06:01.705507,Bratislava Kamenné nám.,5,3,x,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Bratislava Trnavské Mýto,3,PDL,x,x,193,7,14,0.2,x
+2023-02-04 23:06:01.705507,Bratislava Jeséniova,5,4,61,3,x,4,5,x,x
+2023-02-04 23:06:01.705507,Bratislava Mamateyova,3,PDL,*,5,x,7,7,x,x
+2023-02-04 23:06:01.705507,Bratislava Púchovská,7,4,x,2,198,5,5,0.2,x
+2023-02-04 23:06:01.705507,Bratislava Padlých hrdinov mobilná AMS,4,2,x,x,PDL,9,10,x,x
+2023-02-04 23:06:01.705507,Rovinka mobilná AMS,4,x,x,4,189,*,*,0.3,x
+2023-02-04 23:06:01.705507,Pezinok Obrancov mieru,3,3,64,x,x,3,3,x,x
+2023-02-04 23:06:01.705507,Rohožník Senická,6,4,x,6,794,5,8,0.6,x
+2023-02-04 23:06:01.705507,Senec Boldocká,6,5,60,x,214,*,*,x,x
+2023-02-04 23:06:01.705507,Nitra Janíkovce,4,3,65,x,x,3,5,x,x
+2023-02-04 23:06:01.705507,Nitra Štúrova,8,2,x,1,323,PDL,4,0.1,x
+2023-02-04 23:06:01.705507,Komárno Vnútorná okružná,3,PDL,56,x,x,5,6,x,x
+2023-02-04 23:06:01.705507,Plášťovce,22,24,43,x,x,*,*,x,x
+2023-02-04 23:06:01.705507,Topoľníky Aszód EMEP,2,3,61,PDL,x,3,3,x,*
+2023-02-04 23:06:01.705507,Senica Hviezdoslavova,4,PDL,x,*,x,x,x,x,x
+2023-02-04 23:06:01.705507,Trnava Kollárova,7,6,x,x,235,10,22,0.7,x
+2023-02-04 23:06:01.705507,Sereď Vinárska,3,3,x,x,x,7,10,x,x
+2023-02-04 23:06:01.705507,Trenčín Hasičská,6,2,x,11,205,5,4,0.6,x
+2023-02-04 23:06:01.705507,Púchov 1. mája,3,3,x,3,179,3,4,x,x
+2023-02-04 23:06:01.705507,Bystričany Rozvodňa SSE,7,6,x,41,x,x,x,x,x
+2023-02-04 23:06:01.705507,Handlová Morovianska cesta,5,4,x,9,x,x,x,x,x
+2023-02-04 23:06:01.705507,Prievidza Malonecpalská,4,4,58,22,x,5,8,x,x
+2023-02-04 23:06:01.705507,Žarnovica Dolná,12,11,x,x,x,7,8,x,x
+2023-02-04 23:06:01.705507,Žiar nad Hronom Jilemnického,8,4,x,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Zvolen J. Alexyho,8,12,x,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Banská Bystrica Štefánikovo nábrežie,7,5,x,4,680,15,26,0.4,x
+2023-02-04 23:06:01.705507,Banská Bystrica Zelená,3,3,*,x,x,2,3,x,x
+2023-02-04 23:06:01.705507,Lučenec Gemerská cesta,25,21,29,x,611,25,31,1.9,x
+2023-02-04 23:06:01.705507,Hnúšťa Hlavná,2,4,x,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Jelšava Jesenského,39,44,*,x,x,5,8,x,x
+2023-02-04 23:06:01.705507,Žilina Obežná,6,5,53,x,214,9,12,x,x
+2023-02-04 23:06:01.705507,Oščadnica,13,12,61,5,x,3,5,x,x
+2023-02-04 23:06:01.705507,Martin Jesenského,12,10,x,x,*,7,13,0.6,x
+2023-02-04 23:06:01.705507,Ružomberok Riadok,9,10,50,1,*,7,14,1.1,x
+2023-02-04 23:06:01.705507,Chopok EMEP,x,x,58,x,x,4,6,x,x
+2023-02-04 23:06:01.705507,Liptovský Mikuláš Školská,*,*,x,5,x,6,7,x,x
+2023-02-04 23:06:01.705507,Košice Ďumbierska,x,x,60,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Košice Amurská,10,7,x,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Košice Štefánikova,13,6,x,2,539,7,12,0.6,x
+2023-02-04 23:06:01.705507,Kojšovská hoľa,x,x,59,x,x,1,2,x,x
+2023-02-04 23:06:01.705507,Veľká Ida Letná,10,8,x,x,773,x,x,x,x
+2023-02-04 23:06:01.705507,Strážske Mierová,5,4,x,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Trebišov T. G. Masaryka,6,5,57,x,x,6,9,x,x
+2023-02-04 23:06:01.705507,Krompachy SNP,8,7,x,6,239,5,9,0.5,x
+2023-02-04 23:06:01.705507,Poprad Železničná,6,10,x,x,x,3,5,x,x
+2023-02-04 23:06:01.705507,Stará Lesná AÚ SAV EMEP,5,1,45,x,x,5,20,x,x
+2023-02-04 23:06:01.705507,Gánovce Meteo. st,x,x,*,x,x,2,5,x,x
+2023-02-04 23:06:01.705507,Prešov Arm. gen. L. Svobodu,7,9,x,x,355,26,52,0.3,x
+2023-02-04 23:06:01.705507,Humenné Nám. slobody,4,4,*,x,x,4,5,x,x
+2023-02-04 23:06:01.705507,Starina Vodná nádrž EMEP,x,x,59,x,x,2,3,x,1.2
+2023-02-04 23:06:01.705507,Kolonické sedlo,6,4,x,x,x,x,x,x,x
+2023-02-04 23:06:01.705507,Vranov nad Top. M. R. Štefánika,7,5,x,4,x,x,x,x,x
+2023-02-04 23:06:01.705507,Bardejov Pod Vinbargom,4,5,59,x,x,3,4,x,x
+2023-02-05 00:06:02.148530,Bratislava Kamenné nám.,4,6,x,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Bratislava Trnavské Mýto,6,3,x,x,201,8,15,0.2,x
+2023-02-05 00:06:02.148530,Bratislava Jeséniova,5,5,61,3,x,4,5,x,x
+2023-02-05 00:06:02.148530,Bratislava Mamateyova,3,4,*,5,x,7,7,x,x
+2023-02-05 00:06:02.148530,Bratislava Púchovská,7,5,x,2,200,7,8,0.2,x
+2023-02-05 00:06:02.148530,Bratislava Padlých hrdinov mobilná AMS,4,5,x,x,PDL,8,9,x,x
+2023-02-05 00:06:02.148530,Rovinka mobilná AMS,5,x,x,2,208,*,*,0.3,x
+2023-02-05 00:06:02.148530,Pezinok Obrancov mieru,2,5,65,x,x,2,3,x,x
+2023-02-05 00:06:02.148530,Rohožník Senická,5,3,x,6,830,4,6,0.6,x
+2023-02-05 00:06:02.148530,Senec Boldocká,4,3,61,x,210,*,*,x,x
+2023-02-05 00:06:02.148530,Nitra Janíkovce,10,4,62,x,x,4,5,x,x
+2023-02-05 00:06:02.148530,Nitra Štúrova,5,3,x,*,315,PDL,3,0.1,x
+2023-02-05 00:06:02.148530,Komárno Vnútorná okružná,9,4,56,x,x,7,8,x,x
+2023-02-05 00:06:02.148530,Plášťovce,22,25,52,x,x,*,*,x,x
+2023-02-05 00:06:02.148530,Topoľníky Aszód EMEP,3,4,59,PDL,x,3,3,x,*
+2023-02-05 00:06:02.148530,Senica Hviezdoslavova,4,4,x,7,x,x,x,x,x
+2023-02-05 00:06:02.148530,Trnava Kollárova,8,3,x,x,247,14,28,0.6,x
+2023-02-05 00:06:02.148530,Sereď Vinárska,9,3,x,x,x,6,8,x,x
+2023-02-05 00:06:02.148530,Trenčín Hasičská,6,PDL,x,11,195,4,4,0.5,x
+2023-02-05 00:06:02.148530,Púchov 1. mája,5,7,x,3,174,2,4,x,x
+2023-02-05 00:06:02.148530,Bystričany Rozvodňa SSE,5,4,x,39,x,x,x,x,x
+2023-02-05 00:06:02.148530,Handlová Morovianska cesta,4,4,x,9,x,x,x,x,x
+2023-02-05 00:06:02.148530,Prievidza Malonecpalská,3,2,59,*,x,3,6,x,x
+2023-02-05 00:06:02.148530,Žarnovica Dolná,12,11,x,x,x,3,3,x,x
+2023-02-05 00:06:02.148530,Žiar nad Hronom Jilemnického,13,7,x,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Zvolen J. Alexyho,6,10,x,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Banská Bystrica Štefánikovo nábrežie,6,5,x,4,653,8,12,0.5,x
+2023-02-05 00:06:02.148530,Banská Bystrica Zelená,PDL,PDL,*,x,x,2,4,x,x
+2023-02-05 00:06:02.148530,Lučenec Gemerská cesta,24,18,36,x,353,20,24,1.1,x
+2023-02-05 00:06:02.148530,Hnúšťa Hlavná,4,8,x,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Jelšava Jesenského,28,28,*,x,x,5,7,x,x
+2023-02-05 00:06:02.148530,Žilina Obežná,6,6,51,x,235,10,12,x,x
+2023-02-05 00:06:02.148530,Oščadnica,13,18,61,7,x,5,7,x,x
+2023-02-05 00:06:02.148530,Martin Jesenského,14,9,x,x,464,6,10,0.7,x
+2023-02-05 00:06:02.148530,Ružomberok Riadok,7,9,50,2,420,6,10,0.9,x
+2023-02-05 00:06:02.148530,Chopok EMEP,x,x,61,x,x,2,3,x,x
+2023-02-05 00:06:02.148530,Liptovský Mikuláš Školská,*,*,x,5,x,2,3,x,x
+2023-02-05 00:06:02.148530,Košice Ďumbierska,x,x,60,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Košice Amurská,8,5,x,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Košice Štefánikova,6,5,x,1,507,7,11,0.6,x
+2023-02-05 00:06:02.148530,Kojšovská hoľa,x,x,58,x,x,PDL,2,x,x
+2023-02-05 00:06:02.148530,Veľká Ida Letná,24,18,x,x,973,x,x,x,x
+2023-02-05 00:06:02.148530,Strážske Mierová,6,4,x,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Trebišov T. G. Masaryka,4,1,55,x,x,8,11,x,x
+2023-02-05 00:06:02.148530,Krompachy SNP,8,5,x,6,229,4,8,0.4,x
+2023-02-05 00:06:02.148530,Poprad Železničná,5,7,x,x,x,1,3,x,x
+2023-02-05 00:06:02.148530,Stará Lesná AÚ SAV EMEP,5,PDL,39,x,x,8,28,x,x
+2023-02-05 00:06:02.148530,Gánovce Meteo. st,x,x,*,x,x,2,8,x,x
+2023-02-05 00:06:02.148530,Prešov Arm. gen. L. Svobodu,6,5,x,x,334,13,29,0.3,x
+2023-02-05 00:06:02.148530,Humenné Nám. slobody,5,7,61,x,x,3,5,x,x
+2023-02-05 00:06:02.148530,Starina Vodná nádrž EMEP,x,x,59,x,x,2,2,x,1.2
+2023-02-05 00:06:02.148530,Kolonické sedlo,6,5,x,x,x,x,x,x,x
+2023-02-05 00:06:02.148530,Vranov nad Top. M. R. Štefánika,6,3,x,4,x,x,x,x,x
+2023-02-05 00:06:02.148530,Bardejov Pod Vinbargom,5,7,57,x,x,3,4,x,x
+2023-02-05 01:06:01.602136,Bratislava Kamenné nám.,5,6,x,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Bratislava Trnavské Mýto,5,6,x,x,211,9,17,0.2,x
+2023-02-05 01:06:01.602136,Bratislava Jeséniova,7,5,63,3,x,4,5,x,x
+2023-02-05 01:06:01.602136,Bratislava Mamateyova,4,4,*,5,x,6,5,x,x
+2023-02-05 01:06:01.602136,Bratislava Púchovská,2,PDL,x,2,197,5,5,0.2,x
+2023-02-05 01:06:01.602136,Bratislava Padlých hrdinov mobilná AMS,5,7,x,x,PDL,7,7,x,x
+2023-02-05 01:06:01.602136,Rovinka mobilná AMS,4,x,x,1,207,*,*,0.3,x
+2023-02-05 01:06:01.602136,Pezinok Obrancov mieru,3,6,64,x,x,2,2,x,x
+2023-02-05 01:06:01.602136,Rohožník Senická,7,6,x,5,819,3,5,0.6,x
+2023-02-05 01:06:01.602136,Senec Boldocká,3,5,60,x,200,*,*,x,x
+2023-02-05 01:06:01.602136,Nitra Janíkovce,10,6,63,x,x,3,4,x,x
+2023-02-05 01:06:01.602136,Nitra Štúrova,1,PDL,x,PDL,307,PDL,2,0.1,x
+2023-02-05 01:06:01.602136,Komárno Vnútorná okružná,3,PDL,55,x,x,5,5,x,x
+2023-02-05 01:06:01.602136,Plášťovce,14,16,55,x,x,*,*,x,x
+2023-02-05 01:06:01.602136,Topoľníky Aszód EMEP,6,5,60,PDL,x,2,2,x,*
+2023-02-05 01:06:01.602136,Senica Hviezdoslavova,4,2,x,7,x,x,x,x,x
+2023-02-05 01:06:01.602136,Trnava Kollárova,9,7,x,x,225,8,16,0.6,x
+2023-02-05 01:06:01.602136,Sereď Vinárska,7,4,x,x,x,4,6,x,x
+2023-02-05 01:06:01.602136,Trenčín Hasičská,PDL,PDL,x,11,194,4,4,0.4,x
+2023-02-05 01:06:01.602136,Púchov 1. mája,5,4,x,3,169,2,3,x,x
+2023-02-05 01:06:01.602136,Bystričany Rozvodňa SSE,3,3,x,41,x,x,x,x,x
+2023-02-05 01:06:01.602136,Handlová Morovianska cesta,4,5,x,9,x,x,x,x,x
+2023-02-05 01:06:01.602136,Prievidza Malonecpalská,7,17,61,22,x,2,4,x,x
+2023-02-05 01:06:01.602136,Žarnovica Dolná,8,9,x,x,x,2,3,x,x
+2023-02-05 01:06:01.602136,Žiar nad Hronom Jilemnického,11,5,x,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Zvolen J. Alexyho,9,9,x,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Banská Bystrica Štefánikovo nábrežie,5,6,x,4,642,5,8,0.4,x
+2023-02-05 01:06:01.602136,Banská Bystrica Zelená,4,3,*,x,x,3,4,x,x
+2023-02-05 01:06:01.602136,Lučenec Gemerská cesta,10,6,52,x,243,6,7,0.3,x
+2023-02-05 01:06:01.602136,Hnúšťa Hlavná,13,13,x,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Jelšava Jesenského,12,10,*,x,x,*,*,x,x
+2023-02-05 01:06:01.602136,Žilina Obežná,8,8,57,x,216,5,7,x,x
+2023-02-05 01:06:01.602136,Oščadnica,14,16,64,6,x,3,5,x,x
+2023-02-05 01:06:01.602136,Martin Jesenského,12,8,x,x,502,6,11,0.6,x
+2023-02-05 01:06:01.602136,Ružomberok Riadok,8,7,52,PDL,418,6,12,0.8,x
+2023-02-05 01:06:01.602136,Chopok EMEP,x,x,63,x,x,1,2,x,x
+2023-02-05 01:06:01.602136,Liptovský Mikuláš Školská,*,*,x,4,x,*,*,x,x
+2023-02-05 01:06:01.602136,Košice Ďumbierska,x,x,59,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Košice Amurská,7,4,x,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Košice Štefánikova,12,8,x,PDL,506,7,12,0.5,x
+2023-02-05 01:06:01.602136,Kojšovská hoľa,x,x,56,x,x,1,3,x,x
+2023-02-05 01:06:01.602136,Veľká Ida Letná,30,22,x,x,*,x,x,x,x
+2023-02-05 01:06:01.602136,Strážske Mierová,6,4,x,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Trebišov T. G. Masaryka,4,4,59,x,x,2,4,x,x
+2023-02-05 01:06:01.602136,Krompachy SNP,7,7,x,6,*,3,7,0.4,x
+2023-02-05 01:06:01.602136,Poprad Železničná,6,6,x,x,x,2,3,x,x
+2023-02-05 01:06:01.602136,Stará Lesná AÚ SAV EMEP,5,5,*,x,x,5,18,x,x
+2023-02-05 01:06:01.602136,Gánovce Meteo. st,x,x,*,x,x,1,7,x,x
+2023-02-05 01:06:01.602136,Prešov Arm. gen. L. Svobodu,5,3,x,x,325,11,22,0.2,x
+2023-02-05 01:06:01.602136,Humenné Nám. slobody,5,5,60,x,x,3,4,x,x
+2023-02-05 01:06:01.602136,Starina Vodná nádrž EMEP,x,x,60,x,x,1,2,x,1
+2023-02-05 01:06:01.602136,Kolonické sedlo,9,6,x,x,x,x,x,x,x
+2023-02-05 01:06:01.602136,Vranov nad Top. M. R. Štefánika,3,4,x,4,x,x,x,x,x
+2023-02-05 01:06:01.602136,Bardejov Pod Vinbargom,6,7,56,x,x,3,3,x,x
+2023-02-05 02:06:02.056081,Bratislava Kamenné nám.,6,4,x,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Bratislava Trnavské Mýto,9,6,x,x,197,7,11,0.2,x
+2023-02-05 02:06:02.056081,Bratislava Jeséniova,6,4,62,3,x,3,4,x,x
+2023-02-05 02:06:02.056081,Bratislava Mamateyova,4,4,*,5,x,4,3,x,x
+2023-02-05 02:06:02.056081,Bratislava Púchovská,5,1,x,2,193,4,4,0.2,x
+2023-02-05 02:06:02.056081,Bratislava Padlých hrdinov mobilná AMS,4,6,x,x,PDL,5,6,x,x
+2023-02-05 02:06:02.056081,Rovinka mobilná AMS,5,x,x,1,192,*,*,0.3,x
+2023-02-05 02:06:02.056081,Pezinok Obrancov mieru,3,5,65,x,x,2,1,x,x
+2023-02-05 02:06:02.056081,Rohožník Senická,10,8,x,6,832,*,*,1,x
+2023-02-05 02:06:02.056081,Senec Boldocká,6,5,62,x,172,*,*,x,x
+2023-02-05 02:06:02.056081,Nitra Janíkovce,6,2,63,x,x,3,4,x,x
+2023-02-05 02:06:02.056081,Nitra Štúrova,2,PDL,x,1,299,PDL,2,0.1,x
+2023-02-05 02:06:02.056081,Komárno Vnútorná okružná,2,3,55,x,x,4,4,x,x
+2023-02-05 02:06:02.056081,Plášťovce,8,13,51,x,x,*,*,x,x
+2023-02-05 02:06:02.056081,Topoľníky Aszód EMEP,4,3,59,PDL,x,3,2,x,*
+2023-02-05 02:06:02.056081,Senica Hviezdoslavova,6,2,x,7,x,x,x,x,x
+2023-02-05 02:06:02.056081,Trnava Kollárova,8,6,x,x,*,5,10,0.5,x
+2023-02-05 02:06:02.056081,Sereď Vinárska,2,1,x,x,x,3,5,x,x
+2023-02-05 02:06:02.056081,Trenčín Hasičská,2,PDL,x,11,193,4,3,0.5,x
+2023-02-05 02:06:02.056081,Púchov 1. mája,5,4,x,3,179,2,3,x,x
+2023-02-05 02:06:02.056081,Bystričany Rozvodňa SSE,3,4,x,40,x,x,x,x,x
+2023-02-05 02:06:02.056081,Handlová Morovianska cesta,3,3,x,8,x,x,x,x,x
+2023-02-05 02:06:02.056081,Prievidza Malonecpalská,3,7,63,22,x,2,4,x,x
+2023-02-05 02:06:02.056081,Žarnovica Dolná,6,4,x,x,x,1,2,x,x
+2023-02-05 02:06:02.056081,Žiar nad Hronom Jilemnického,10,7,x,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Zvolen J. Alexyho,5,7,x,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Banská Bystrica Štefánikovo nábrežie,5,7,x,3,631,6,10,0.4,x
+2023-02-05 02:06:02.056081,Banská Bystrica Zelená,2,3,*,x,x,3,4,x,x
+2023-02-05 02:06:02.056081,Lučenec Gemerská cesta,7,6,48,x,282,7,8,0.3,x
+2023-02-05 02:06:02.056081,Hnúšťa Hlavná,22,20,x,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Jelšava Jesenského,3,3,*,x,x,1,3,x,x
+2023-02-05 02:06:02.056081,Žilina Obežná,6,3,61,x,193,3,5,x,x
+2023-02-05 02:06:02.056081,Oščadnica,7,8,65,5,x,3,4,x,x
+2023-02-05 02:06:02.056081,Martin Jesenského,12,7,x,x,432,3,6,0.6,x
+2023-02-05 02:06:02.056081,Ružomberok Riadok,4,5,54,1,394,4,9,0.6,x
+2023-02-05 02:06:02.056081,Chopok EMEP,x,x,61,x,x,2,4,x,x
+2023-02-05 02:06:02.056081,Liptovský Mikuláš Školská,*,*,x,*,x,1,2,x,x
+2023-02-05 02:06:02.056081,Košice Ďumbierska,x,x,57,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Košice Amurská,5,5,x,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Košice Štefánikova,16,5,x,6,527,*,*,0.6,x
+2023-02-05 02:06:02.056081,Kojšovská hoľa,x,x,55,x,x,2,4,x,x
+2023-02-05 02:06:02.056081,Veľká Ida Letná,36,28,x,x,850,x,x,x,x
+2023-02-05 02:06:02.056081,Strážske Mierová,6,4,x,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Trebišov T. G. Masaryka,7,4,57,x,x,3,4,x,x
+2023-02-05 02:06:02.056081,Krompachy SNP,8,7,x,6,211,2,4,0.4,x
+2023-02-05 02:06:02.056081,Poprad Železničná,6,4,x,x,x,PDL,2,x,x
+2023-02-05 02:06:02.056081,Stará Lesná AÚ SAV EMEP,5,3,57,x,x,2,2,x,x
+2023-02-05 02:06:02.056081,Gánovce Meteo. st,x,x,*,x,x,2,7,x,x
+2023-02-05 02:06:02.056081,Prešov Arm. gen. L. Svobodu,8,6,x,x,302,12,21,0.3,x
+2023-02-05 02:06:02.056081,Humenné Nám. slobody,7,2,59,x,x,2,4,x,x
+2023-02-05 02:06:02.056081,Starina Vodná nádrž EMEP,x,x,58,x,x,1,2,x,1.3
+2023-02-05 02:06:02.056081,Kolonické sedlo,9,5,x,x,x,x,x,x,x
+2023-02-05 02:06:02.056081,Vranov nad Top. M. R. Štefánika,6,7,x,5,x,x,x,x,x
+2023-02-05 02:06:02.056081,Bardejov Pod Vinbargom,6,6,54,x,x,*,*,x,x
+2023-02-05 03:06:04.594352,Bratislava Kamenné nám.,5,4,x,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Bratislava Trnavské Mýto,5,4,x,x,180,4,6,0.2,x
+2023-02-05 03:06:04.594352,Bratislava Jeséniova,8,5,65,3,x,3,4,x,x
+2023-02-05 03:06:04.594352,Bratislava Mamateyova,6,3,*,5,x,4,4,x,x
+2023-02-05 03:06:04.594352,Bratislava Púchovská,3,5,x,2,190,4,4,0.2,x
+2023-02-05 03:06:04.594352,Bratislava Padlých hrdinov mobilná AMS,5,8,x,x,PDL,4,5,x,x
+2023-02-05 03:06:04.594352,Rovinka mobilná AMS,4,x,x,1,179,*,*,0.3,x
+2023-02-05 03:06:04.594352,Pezinok Obrancov mieru,1,1,65,x,x,1,1,x,x
+2023-02-05 03:06:04.594352,Rohožník Senická,6,6,x,6,818,3,6,0.5,x
+2023-02-05 03:06:04.594352,Senec Boldocká,3,3,62,x,170,*,*,x,x
+2023-02-05 03:06:04.594352,Nitra Janíkovce,3,2,64,x,x,3,3,x,x
+2023-02-05 03:06:04.594352,Nitra Štúrova,4,PDL,x,1,295,*,*,0.1,x
+2023-02-05 03:06:04.594352,Komárno Vnútorná okružná,4,3,56,x,x,4,4,x,x
+2023-02-05 03:06:04.594352,Plášťovce,14,13,55,x,x,*,*,x,x
+2023-02-05 03:06:04.594352,Topoľníky Aszód EMEP,4,4,59,1,x,2,2,x,*
+2023-02-05 03:06:04.594352,Senica Hviezdoslavova,4,PDL,x,7,x,x,x,x,x
+2023-02-05 03:06:04.594352,Trnava Kollárova,7,7,x,x,193,4,9,0.4,x
+2023-02-05 03:06:04.594352,Sereď Vinárska,PDL,2,x,x,x,3,4,x,x
+2023-02-05 03:06:04.594352,Trenčín Hasičská,3,PDL,x,11,185,3,2,0.4,x
+2023-02-05 03:06:04.594352,Púchov 1. mája,7,7,x,3,195,3,4,x,x
+2023-02-05 03:06:04.594352,Bystričany Rozvodňa SSE,5,5,x,40,x,x,x,x,x
+2023-02-05 03:06:04.594352,Handlová Morovianska cesta,PDL,2,x,9,x,x,x,x,x
+2023-02-05 03:06:04.594352,Prievidza Malonecpalská,PDL,2,*,23,x,3,4,x,x
+2023-02-05 03:06:04.594352,Žarnovica Dolná,5,3,x,x,x,2,2,x,x
+2023-02-05 03:06:04.594352,Žiar nad Hronom Jilemnického,9,6,x,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Zvolen J. Alexyho,8,8,x,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Banská Bystrica Štefánikovo nábrežie,4,2,x,3,634,5,8,0.4,x
+2023-02-05 03:06:04.594352,Banská Bystrica Zelená,2,1,*,x,x,2,3,x,x
+2023-02-05 03:06:04.594352,Lučenec Gemerská cesta,12,10,32,x,383,11,11,0.5,x
+2023-02-05 03:06:04.594352,Hnúšťa Hlavná,13,11,x,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Jelšava Jesenského,2,6,*,x,x,1,3,x,x
+2023-02-05 03:06:04.594352,Žilina Obežná,5,1,62,x,190,3,4,x,x
+2023-02-05 03:06:04.594352,Oščadnica,9,12,63,6,x,4,5,x,x
+2023-02-05 03:06:04.594352,Martin Jesenského,6,5,x,x,416,3,5,0.5,x
+2023-02-05 03:06:04.594352,Ružomberok Riadok,4,4,55,1,376,3,8,0.5,x
+2023-02-05 03:06:04.594352,Chopok EMEP,x,x,60,x,x,2,4,x,x
+2023-02-05 03:06:04.594352,Liptovský Mikuláš Školská,*,*,x,4,x,2,3,x,x
+2023-02-05 03:06:04.594352,Košice Ďumbierska,x,x,56,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Košice Amurská,5,6,x,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Košice Štefánikova,12,5,x,PDL,502,5,8,0.6,x
+2023-02-05 03:06:04.594352,Kojšovská hoľa,x,x,54,x,x,2,4,x,x
+2023-02-05 03:06:04.594352,Veľká Ida Letná,41,34,x,x,759,x,x,x,x
+2023-02-05 03:06:04.594352,Strážske Mierová,6,4,x,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Trebišov T. G. Masaryka,7,2,54,x,x,3,5,x,x
+2023-02-05 03:06:04.594352,Krompachy SNP,6,4,x,6,201,2,3,0.3,x
+2023-02-05 03:06:04.594352,Poprad Železničná,2,6,x,x,x,1,2,x,x
+2023-02-05 03:06:04.594352,Stará Lesná AÚ SAV EMEP,4,3,56,x,x,2,3,x,x
+2023-02-05 03:06:04.594352,Gánovce Meteo. st,x,x,*,x,x,PDL,9,x,x
+2023-02-05 03:06:04.594352,Prešov Arm. gen. L. Svobodu,7,5,x,x,323,14,26,0.3,x
+2023-02-05 03:06:04.594352,Humenné Nám. slobody,7,5,56,x,x,3,4,x,x
+2023-02-05 03:06:04.594352,Starina Vodná nádrž EMEP,x,x,56,x,x,2,2,x,1.2
+2023-02-05 03:06:04.594352,Kolonické sedlo,8,5,x,x,x,x,x,x,x
+2023-02-05 03:06:04.594352,Vranov nad Top. M. R. Štefánika,5,6,x,4,x,x,x,x,x
+2023-02-05 03:06:04.594352,Bardejov Pod Vinbargom,4,4,54,x,x,3,3,x,x
+2023-02-05 04:06:02.307924,Bratislava Kamenné nám.,6,3,x,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Bratislava Trnavské Mýto,4,4,x,x,173,3,4,0.2,x
+2023-02-05 04:06:02.307924,Bratislava Jeséniova,5,3,65,3,x,2,4,x,x
+2023-02-05 04:06:02.307924,Bratislava Mamateyova,6,3,*,5,x,3,2,x,x
+2023-02-05 04:06:02.307924,Bratislava Púchovská,4,3,x,2,186,3,3,0.2,x
+2023-02-05 04:06:02.307924,Bratislava Padlých hrdinov mobilná AMS,5,7,x,x,PDL,4,5,x,x
+2023-02-05 04:06:02.307924,Rovinka mobilná AMS,3,x,x,PDL,168,*,*,0.3,x
+2023-02-05 04:06:02.307924,Pezinok Obrancov mieru,3,8,64,x,x,1,1,x,x
+2023-02-05 04:06:02.307924,Rohožník Senická,3,1,x,6,*,2,3,0.5,x
+2023-02-05 04:06:02.307924,Senec Boldocká,5,PDL,61,x,168,*,*,x,x
+2023-02-05 04:06:02.307924,Nitra Janíkovce,2,2,65,x,x,2,3,x,x
+2023-02-05 04:06:02.307924,Nitra Štúrova,3,3,x,1,*,PDL,2,0.1,x
+2023-02-05 04:06:02.307924,Komárno Vnútorná okružná,5,PDL,58,x,x,3,3,x,x
+2023-02-05 04:06:02.307924,Plášťovce,9,8,57,x,x,*,*,x,x
+2023-02-05 04:06:02.307924,Topoľníky Aszód EMEP,5,3,58,*,x,2,2,x,*
+2023-02-05 04:06:02.307924,Senica Hviezdoslavova,3,PDL,x,7,x,x,x,x,x
+2023-02-05 04:06:02.307924,Trnava Kollárova,4,3,x,x,179,3,6,0.4,x
+2023-02-05 04:06:02.307924,Sereď Vinárska,2,4,x,x,x,3,4,x,x
+2023-02-05 04:06:02.307924,Trenčín Hasičská,4,1,x,11,188,3,2,0.4,x
+2023-02-05 04:06:02.307924,Púchov 1. mája,8,8,x,3,194,4,5,x,x
+2023-02-05 04:06:02.307924,Bystričany Rozvodňa SSE,4,6,x,42,x,x,x,x,x
+2023-02-05 04:06:02.307924,Handlová Morovianska cesta,2,2,x,9,x,x,x,x,x
+2023-02-05 04:06:02.307924,Prievidza Malonecpalská,PDL,1,63,23,x,3,4,x,x
+2023-02-05 04:06:02.307924,Žarnovica Dolná,PDL,2,x,x,x,1,2,x,x
+2023-02-05 04:06:02.307924,Žiar nad Hronom Jilemnického,9,5,x,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Zvolen J. Alexyho,5,5,x,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Banská Bystrica Štefánikovo nábrežie,1,3,x,3,634,5,9,0.3,x
+2023-02-05 04:06:02.307924,Banská Bystrica Zelená,PDL,PDL,*,x,x,2,3,x,x
+2023-02-05 04:06:02.307924,Lučenec Gemerská cesta,15,12,30,x,414,13,14,0.6,x
+2023-02-05 04:06:02.307924,Hnúšťa Hlavná,10,7,x,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Jelšava Jesenského,2,4,*,x,x,PDL,2,x,x
+2023-02-05 04:06:02.307924,Žilina Obežná,4,1,60,x,190,3,4,x,x
+2023-02-05 04:06:02.307924,Oščadnica,8,8,61,6,x,4,5,x,x
+2023-02-05 04:06:02.307924,Martin Jesenského,6,5,x,x,407,3,5,0.5,x
+2023-02-05 04:06:02.307924,Ružomberok Riadok,1,4,53,PDL,387,4,8,0.5,x
+2023-02-05 04:06:02.307924,Chopok EMEP,x,x,58,x,x,3,5,x,x
+2023-02-05 04:06:02.307924,Liptovský Mikuláš Školská,*,*,x,4,x,4,5,x,x
+2023-02-05 04:06:02.307924,Košice Ďumbierska,x,x,55,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Košice Amurská,5,5,x,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Košice Štefánikova,7,5,x,PDL,511,4,7,0.5,x
+2023-02-05 04:06:02.307924,Kojšovská hoľa,x,x,54,x,x,1,3,x,x
+2023-02-05 04:06:02.307924,Veľká Ida Letná,38,48,x,x,1118,x,x,x,x
+2023-02-05 04:06:02.307924,Strážske Mierová,7,6,x,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Trebišov T. G. Masaryka,8,5,53,x,x,3,4,x,x
+2023-02-05 04:06:02.307924,Krompachy SNP,2,4,x,6,203,2,3,0.3,x
+2023-02-05 04:06:02.307924,Poprad Železničná,4,2,x,x,x,PDL,2,x,x
+2023-02-05 04:06:02.307924,Stará Lesná AÚ SAV EMEP,5,2,51,x,x,2,6,x,x
+2023-02-05 04:06:02.307924,Gánovce Meteo. st,x,x,*,x,x,1,8,x,x
+2023-02-05 04:06:02.307924,Prešov Arm. gen. L. Svobodu,3,5,x,x,328,15,26,0.3,x
+2023-02-05 04:06:02.307924,Humenné Nám. slobody,9,8,55,x,x,3,4,x,x
+2023-02-05 04:06:02.307924,Starina Vodná nádrž EMEP,x,x,55,x,x,2,2,x,1.2
+2023-02-05 04:06:02.307924,Kolonické sedlo,7,7,x,x,x,x,x,x,x
+2023-02-05 04:06:02.307924,Vranov nad Top. M. R. Štefánika,8,6,x,4,x,x,x,x,x
+2023-02-05 04:06:02.307924,Bardejov Pod Vinbargom,3,8,54,x,x,3,4,x,x
+2023-02-05 05:06:01.975412,Bratislava Kamenné nám.,2,3,x,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Bratislava Trnavské Mýto,4,PDL,x,x,170,1,2,0.2,x
+2023-02-05 05:06:01.975412,Bratislava Jeséniova,5,2,65,3,x,2,3,x,x
+2023-02-05 05:06:01.975412,Bratislava Mamateyova,5,3,*,5,x,4,3,x,x
+2023-02-05 05:06:01.975412,Bratislava Púchovská,3,2,x,2,181,2,2,0.2,x
+2023-02-05 05:06:01.975412,Bratislava Padlých hrdinov mobilná AMS,3,5,x,x,PDL,3,4,x,x
+2023-02-05 05:06:01.975412,Rovinka mobilná AMS,4,x,x,PDL,162,*,*,0.2,x
+2023-02-05 05:06:01.975412,Pezinok Obrancov mieru,PDL,7,64,x,x,PDL,1,x,x
+2023-02-05 05:06:01.975412,Rohožník Senická,6,PDL,x,7,808,2,4,0.7,x
+2023-02-05 05:06:01.975412,Senec Boldocká,4,3,61,x,163,*,*,x,x
+2023-02-05 05:06:01.975412,Nitra Janíkovce,4,PDL,65,x,x,2,2,x,x
+2023-02-05 05:06:01.975412,Nitra Štúrova,2,2,x,1,296,PDL,6,0.1,x
+2023-02-05 05:06:01.975412,Komárno Vnútorná okružná,PDL,3,56,x,x,4,4,x,x
+2023-02-05 05:06:01.975412,Plášťovce,8,10,48,x,x,*,*,x,x
+2023-02-05 05:06:01.975412,Topoľníky Aszód EMEP,5,3,56,PDL,x,2,1,x,*
+2023-02-05 05:06:01.975412,Senica Hviezdoslavova,3,1,x,7,x,x,x,x,x
+2023-02-05 05:06:01.975412,Trnava Kollárova,4,3,x,x,170,3,6,0.3,x
+2023-02-05 05:06:01.975412,Sereď Vinárska,2,PDL,x,x,x,2,4,x,x
+2023-02-05 05:06:01.975412,Trenčín Hasičská,5,1,x,11,189,5,5,0.4,x
+2023-02-05 05:06:01.975412,Púchov 1. mája,5,4,x,3,206,5,5,x,x
+2023-02-05 05:06:01.975412,Bystričany Rozvodňa SSE,4,5,x,40,x,x,x,x,x
+2023-02-05 05:06:01.975412,Handlová Morovianska cesta,2,2,x,7,x,x,x,x,x
+2023-02-05 05:06:01.975412,Prievidza Malonecpalská,PDL,PDL,62,24,x,3,4,x,x
+2023-02-05 05:06:01.975412,Žarnovica Dolná,3,PDL,x,x,x,PDL,2,x,x
+2023-02-05 05:06:01.975412,Žiar nad Hronom Jilemnického,9,5,x,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Zvolen J. Alexyho,2,2,x,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Banská Bystrica Štefánikovo nábrežie,PDL,2,x,3,632,8,16,0.3,x
+2023-02-05 05:06:01.975412,Banská Bystrica Zelená,1,2,*,x,x,3,5,x,x
+2023-02-05 05:06:01.975412,Lučenec Gemerská cesta,18,16,27,x,448,11,12,0.8,x
+2023-02-05 05:06:01.975412,Hnúšťa Hlavná,9,7,x,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Jelšava Jesenského,3,6,*,x,x,1,3,x,x
+2023-02-05 05:06:01.975412,Žilina Obežná,5,4,59,x,200,3,4,x,x
+2023-02-05 05:06:01.975412,Oščadnica,9,6,59,7,x,5,6,x,x
+2023-02-05 05:06:01.975412,Martin Jesenského,6,6,x,x,416,4,6,0.5,x
+2023-02-05 05:06:01.975412,Ružomberok Riadok,3,3,51,2,379,6,12,0.5,x
+2023-02-05 05:06:01.975412,Chopok EMEP,x,x,*,x,x,4,6,x,x
+2023-02-05 05:06:01.975412,Liptovský Mikuláš Školská,*,*,x,4,x,3,4,x,x
+2023-02-05 05:06:01.975412,Košice Ďumbierska,x,x,55,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Košice Amurská,PDL,5,x,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Košice Štefánikova,6,4,x,3,527,5,8,0.6,x
+2023-02-05 05:06:01.975412,Kojšovská hoľa,x,x,54,x,x,PDL,2,x,x
+2023-02-05 05:06:01.975412,Veľká Ida Letná,28,22,x,x,330,x,x,x,x
+2023-02-05 05:06:01.975412,Strážske Mierová,10,6,x,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Trebišov T. G. Masaryka,10,5,52,x,x,2,4,x,x
+2023-02-05 05:06:01.975412,Krompachy SNP,3,2,x,6,196,2,4,0.3,x
+2023-02-05 05:06:01.975412,Poprad Železničná,4,5,x,x,x,PDL,2,x,x
+2023-02-05 05:06:01.975412,Stará Lesná AÚ SAV EMEP,5,2,55,x,x,2,3,x,x
+2023-02-05 05:06:01.975412,Gánovce Meteo. st,x,x,*,x,x,PDL,5,x,x
+2023-02-05 05:06:01.975412,Prešov Arm. gen. L. Svobodu,5,6,x,x,326,7,13,0.3,x
+2023-02-05 05:06:01.975412,Humenné Nám. slobody,10,7,53,x,x,3,4,x,x
+2023-02-05 05:06:01.975412,Starina Vodná nádrž EMEP,x,x,52,x,x,2,3,x,1
+2023-02-05 05:06:01.975412,Kolonické sedlo,9,5,x,x,x,x,x,x,x
+2023-02-05 05:06:01.975412,Vranov nad Top. M. R. Štefánika,7,6,x,4,x,x,x,x,x
+2023-02-05 05:06:01.975412,Bardejov Pod Vinbargom,5,6,52,x,x,3,4,x,x
+2023-02-05 06:06:01.736343,Bratislava Kamenné nám.,6,2,x,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Bratislava Trnavské Mýto,7,PDL,x,x,174,3,4,0.2,x
+2023-02-05 06:06:01.736343,Bratislava Jeséniova,6,3,62,3,x,2,4,x,x
+2023-02-05 06:06:01.736343,Bratislava Mamateyova,5,4,*,5,x,5,4,x,x
+2023-02-05 06:06:01.736343,Bratislava Púchovská,4,2,x,2,181,*,*,0.2,x
+2023-02-05 06:06:01.736343,Bratislava Padlých hrdinov mobilná AMS,7,5,x,x,PDL,4,4,x,x
+2023-02-05 06:06:01.736343,Rovinka mobilná AMS,4,x,x,PDL,164,*,*,0.2,x
+2023-02-05 06:06:01.736343,Pezinok Obrancov mieru,PDL,1,63,x,x,2,2,x,x
+2023-02-05 06:06:01.736343,Rohožník Senická,8,4,x,7,779,2,4,0.5,x
+2023-02-05 06:06:01.736343,Senec Boldocká,3,6,57,x,167,*,*,x,x
+2023-02-05 06:06:01.736343,Nitra Janíkovce,PDL,PDL,64,x,x,2,3,x,x
+2023-02-05 06:06:01.736343,Nitra Štúrova,4,2,x,1,290,PDL,3,0.1,x
+2023-02-05 06:06:01.736343,Komárno Vnútorná okružná,4,5,57,x,x,3,3,x,x
+2023-02-05 06:06:01.736343,Plášťovce,11,16,38,x,x,*,*,x,x
+2023-02-05 06:06:01.736343,Topoľníky Aszód EMEP,3,5,57,PDL,x,2,1,x,*
+2023-02-05 06:06:01.736343,Senica Hviezdoslavova,2,1,x,7,x,x,x,x,x
+2023-02-05 06:06:01.736343,Trnava Kollárova,2,PDL,x,x,179,5,10,0.3,x
+2023-02-05 06:06:01.736343,Sereď Vinárska,PDL,1,x,x,x,3,4,x,x
+2023-02-05 06:06:01.736343,Trenčín Hasičská,6,3,x,10,187,4,3,0.4,x
+2023-02-05 06:06:01.736343,Púchov 1. mája,5,5,x,3,198,4,4,x,x
+2023-02-05 06:06:01.736343,Bystričany Rozvodňa SSE,4,4,x,42,x,x,x,x,x
+2023-02-05 06:06:01.736343,Handlová Morovianska cesta,1,3,x,9,x,x,x,x,x
+2023-02-05 06:06:01.736343,Prievidza Malonecpalská,2,4,58,24,x,5,6,x,x
+2023-02-05 06:06:01.736343,Žarnovica Dolná,2,2,x,x,x,PDL,2,x,x
+2023-02-05 06:06:01.736343,Žiar nad Hronom Jilemnického,6,2,x,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Zvolen J. Alexyho,5,3,x,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Banská Bystrica Štefánikovo nábrežie,4,2,x,3,636,11,19,0.3,x
+2023-02-05 06:06:01.736343,Banská Bystrica Zelená,PDL,PDL,*,x,x,5,6,x,x
+2023-02-05 06:06:01.736343,Lučenec Gemerská cesta,18,15,25,x,394,10,10,0.7,x
+2023-02-05 06:06:01.736343,Hnúšťa Hlavná,13,4,x,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Jelšava Jesenského,3,5,*,x,x,PDL,3,x,x
+2023-02-05 06:06:01.736343,Žilina Obežná,4,1,58,x,202,4,5,x,x
+2023-02-05 06:06:01.736343,Oščadnica,9,5,58,7,x,5,6,x,x
+2023-02-05 06:06:01.736343,Martin Jesenského,7,5,x,x,427,3,4,0.4,x
+2023-02-05 06:06:01.736343,Ružomberok Riadok,2,2,49,PDL,373,5,10,0.5,x
+2023-02-05 06:06:01.736343,Chopok EMEP,x,x,59,x,x,5,8,x,x
+2023-02-05 06:06:01.736343,Liptovský Mikuláš Školská,*,*,x,4,x,2,3,x,x
+2023-02-05 06:06:01.736343,Košice Ďumbierska,x,x,56,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Košice Amurská,2,6,x,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Košice Štefánikova,5,5,x,1,518,7,10,0.5,x
+2023-02-05 06:06:01.736343,Kojšovská hoľa,x,x,53,x,x,1,2,x,x
+2023-02-05 06:06:01.736343,Veľká Ida Letná,5,4,x,x,252,x,x,x,x
+2023-02-05 06:06:01.736343,Strážske Mierová,10,7,x,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Trebišov T. G. Masaryka,7,3,52,x,x,2,4,x,x
+2023-02-05 06:06:01.736343,Krompachy SNP,5,5,x,6,205,*,*,0.3,x
+2023-02-05 06:06:01.736343,Poprad Železničná,4,4,x,x,x,1,3,x,x
+2023-02-05 06:06:01.736343,Stará Lesná AÚ SAV EMEP,3,3,55,x,x,2,2,x,x
+2023-02-05 06:06:01.736343,Gánovce Meteo. st,x,x,*,x,x,1,5,x,x
+2023-02-05 06:06:01.736343,Prešov Arm. gen. L. Svobodu,5,6,x,x,328,7,13,0.2,x
+2023-02-05 06:06:01.736343,Humenné Nám. slobody,8,11,52,x,x,3,4,x,x
+2023-02-05 06:06:01.736343,Starina Vodná nádrž EMEP,x,x,53,x,x,2,2,x,1
+2023-02-05 06:06:01.736343,Kolonické sedlo,10,8,x,x,x,x,x,x,x
+2023-02-05 06:06:01.736343,Vranov nad Top. M. R. Štefánika,8,7,x,4,x,x,x,x,x
+2023-02-05 06:06:01.736343,Bardejov Pod Vinbargom,6,7,50,x,x,4,4,x,x
+2023-02-05 07:06:02.577207,Bratislava Kamenné nám.,7,4,x,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Bratislava Trnavské Mýto,8,4,x,x,171,3,4,0.2,x
+2023-02-05 07:06:02.577207,Bratislava Jeséniova,6,4,61,3,x,2,4,x,x
+2023-02-05 07:06:02.577207,Bratislava Mamateyova,2,4,*,5,x,4,3,x,x
+2023-02-05 07:06:02.577207,Bratislava Púchovská,5,3,x,*,181,3,3,0.2,x
+2023-02-05 07:06:02.577207,Bratislava Padlých hrdinov mobilná AMS,6,4,x,x,PDL,8,10,x,x
+2023-02-05 07:06:02.577207,Rovinka mobilná AMS,3,x,x,3,167,*,*,0.2,x
+2023-02-05 07:06:02.577207,Pezinok Obrancov mieru,PDL,PDL,61,x,x,1,2,x,x
+2023-02-05 07:06:02.577207,Rohožník Senická,6,6,x,6,785,5,8,0.5,x
+2023-02-05 07:06:02.577207,Senec Boldocká,4,4,58,x,175,*,*,x,x
+2023-02-05 07:06:02.577207,Nitra Janíkovce,6,1,58,x,x,3,4,x,x
+2023-02-05 07:06:02.577207,Nitra Štúrova,3,PDL,x,1,303,PDL,4,0.1,x
+2023-02-05 07:06:02.577207,Komárno Vnútorná okružná,7,2,55,x,x,3,4,x,x
+2023-02-05 07:06:02.577207,Plášťovce,20,25,30,x,x,*,*,x,x
+2023-02-05 07:06:02.577207,Topoľníky Aszód EMEP,4,PDL,57,PDL,x,1,1,x,*
+2023-02-05 07:06:02.577207,Senica Hviezdoslavova,3,PDL,x,7,x,x,x,x,x
+2023-02-05 07:06:02.577207,Trnava Kollárova,5,4,x,x,177,7,14,0.4,x
+2023-02-05 07:06:02.577207,Sereď Vinárska,1,PDL,x,x,x,5,7,x,x
+2023-02-05 07:06:02.577207,Trenčín Hasičská,3,PDL,x,10,194,6,7,0.4,x
+2023-02-05 07:06:02.577207,Púchov 1. mája,5,6,x,4,198,*,*,x,x
+2023-02-05 07:06:02.577207,Bystričany Rozvodňa SSE,4,4,x,39,x,x,x,x,x
+2023-02-05 07:06:02.577207,Handlová Morovianska cesta,3,5,x,10,x,x,x,x,x
+2023-02-05 07:06:02.577207,Prievidza Malonecpalská,3,4,37,23,x,21,35,x,x
+2023-02-05 07:06:02.577207,Žarnovica Dolná,4,4,x,x,x,4,4,x,x
+2023-02-05 07:06:02.577207,Žiar nad Hronom Jilemnického,9,3,x,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Zvolen J. Alexyho,3,3,x,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Banská Bystrica Štefánikovo nábrežie,5,2,x,3,666,13,27,0.3,x
+2023-02-05 07:06:02.577207,Banská Bystrica Zelená,3,PDL,*,x,x,5,6,x,x
+2023-02-05 07:06:02.577207,Lučenec Gemerská cesta,17,13,19,x,403,17,21,0.7,x
+2023-02-05 07:06:02.577207,Hnúšťa Hlavná,13,6,x,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Jelšava Jesenského,3,4,*,x,x,1,3,x,x
+2023-02-05 07:06:02.577207,Žilina Obežná,4,2,56,x,212,5,7,x,x
+2023-02-05 07:06:02.577207,Oščadnica,6,3,58,7,x,5,7,x,x
+2023-02-05 07:06:02.577207,Martin Jesenského,8,4,x,x,430,6,11,0.5,x
+2023-02-05 07:06:02.577207,Ružomberok Riadok,3,4,45,PDL,375,10,17,0.5,x
+2023-02-05 07:06:02.577207,Chopok EMEP,x,x,58,x,x,6,10,x,x
+2023-02-05 07:06:02.577207,Liptovský Mikuláš Školská,*,*,x,4,x,6,7,x,x
+2023-02-05 07:06:02.577207,Košice Ďumbierska,x,x,55,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Košice Amurská,2,4,x,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Košice Štefánikova,7,3,x,PDL,507,10,21,0.5,x
+2023-02-05 07:06:02.577207,Kojšovská hoľa,x,x,55,x,x,PDL,1,x,x
+2023-02-05 07:06:02.577207,Veľká Ida Letná,4,3,x,x,264,x,x,x,x
+2023-02-05 07:06:02.577207,Strážske Mierová,9,7,x,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Trebišov T. G. Masaryka,6,5,50,x,x,3,4,x,x
+2023-02-05 07:06:02.577207,Krompachy SNP,5,5,x,*,211,3,5,0.3,x
+2023-02-05 07:06:02.577207,Poprad Železničná,PDL,4,x,x,x,6,10,x,x
+2023-02-05 07:06:02.577207,Stará Lesná AÚ SAV EMEP,PDL,1,56,x,x,2,3,x,x
+2023-02-05 07:06:02.577207,Gánovce Meteo. st,x,x,*,x,x,PDL,6,x,x
+2023-02-05 07:06:02.577207,Prešov Arm. gen. L. Svobodu,8,6,x,x,342,15,27,0.3,x
+2023-02-05 07:06:02.577207,Humenné Nám. slobody,8,8,50,x,x,4,6,x,x
+2023-02-05 07:06:02.577207,Starina Vodná nádrž EMEP,x,x,52,x,x,2,2,x,1.2
+2023-02-05 07:06:02.577207,Kolonické sedlo,7,8,x,x,x,x,x,x,x
+2023-02-05 07:06:02.577207,Vranov nad Top. M. R. Štefánika,6,7,x,4,x,x,x,x,x
+2023-02-05 07:06:02.577207,Bardejov Pod Vinbargom,9,7,51,x,x,4,4,x,x
+2023-02-05 08:06:02.194955,Bratislava Kamenné nám.,5,2,x,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Bratislava Trnavské Mýto,5,3,x,x,174,3,5,0.1,x
+2023-02-05 08:06:02.194955,Bratislava Jeséniova,6,3,61,3,x,*,*,x,x
+2023-02-05 08:06:02.194955,Bratislava Mamateyova,3,2,*,5,x,4,4,x,x
+2023-02-05 08:06:02.194955,Bratislava Púchovská,6,4,x,2,181,3,3,0.2,x
+2023-02-05 08:06:02.194955,Bratislava Padlých hrdinov mobilná AMS,4,4,x,x,PDL,7,8,x,x
+2023-02-05 08:06:02.194955,Rovinka mobilná AMS,4,x,x,*,166,*,*,0.2,x
+2023-02-05 08:06:02.194955,Pezinok Obrancov mieru,3,5,59,x,x,3,3,x,x
+2023-02-05 08:06:02.194955,Rohožník Senická,3,7,x,6,799,6,11,0.5,x
+2023-02-05 08:06:02.194955,Senec Boldocká,6,6,57,x,172,*,*,x,x
+2023-02-05 08:06:02.194955,Nitra Janíkovce,5,2,*,x,x,3,4,x,x
+2023-02-05 08:06:02.194955,Nitra Štúrova,4,PDL,x,1,293,PDL,3,0.1,x
+2023-02-05 08:06:02.194955,Komárno Vnútorná okružná,3,PDL,54,x,x,3,4,x,x
+2023-02-05 08:06:02.194955,Plášťovce,27,34,23,x,x,*,*,x,x
+2023-02-05 08:06:02.194955,Topoľníky Aszód EMEP,3,2,56,PDL,x,2,1,x,*
+2023-02-05 08:06:02.194955,Senica Hviezdoslavova,PDL,PDL,x,7,x,x,x,x,x
+2023-02-05 08:06:02.194955,Trnava Kollárova,5,4,x,x,191,13,25,0.4,x
+2023-02-05 08:06:02.194955,Sereď Vinárska,2,PDL,x,x,x,4,6,x,x
+2023-02-05 08:06:02.194955,Trenčín Hasičská,4,2,x,10,214,11,10,0.4,x
+2023-02-05 08:06:02.194955,Púchov 1. mája,6,7,x,4,217,9,11,x,x
+2023-02-05 08:06:02.194955,Bystričany Rozvodňa SSE,6,5,x,41,x,x,x,x,x
+2023-02-05 08:06:02.194955,Handlová Morovianska cesta,3,4,x,9,x,x,x,x,x
+2023-02-05 08:06:02.194955,Prievidza Malonecpalská,4,5,25,23,x,31,36,x,x
+2023-02-05 08:06:02.194955,Žarnovica Dolná,7,8,x,x,x,8,9,x,x
+2023-02-05 08:06:02.194955,Žiar nad Hronom Jilemnického,9,4,x,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Zvolen J. Alexyho,4,4,x,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Banská Bystrica Štefánikovo nábrežie,2,2,x,3,658,12,25,0.3,x
+2023-02-05 08:06:02.194955,Banská Bystrica Zelená,3,PDL,*,x,x,2,4,x,x
+2023-02-05 08:06:02.194955,Lučenec Gemerská cesta,19,15,19,x,436,15,16,0.8,x
+2023-02-05 08:06:02.194955,Hnúšťa Hlavná,9,4,x,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Jelšava Jesenského,5,4,*,x,x,2,4,x,x
+2023-02-05 08:06:02.194955,Žilina Obežná,5,4,50,x,226,9,11,x,x
+2023-02-05 08:06:02.194955,Oščadnica,6,7,55,7,x,7,9,x,x
+2023-02-05 08:06:02.194955,Martin Jesenského,8,7,x,x,425,4,6,0.5,x
+2023-02-05 08:06:02.194955,Ružomberok Riadok,4,5,46,PDL,386,9,15,0.6,x
+2023-02-05 08:06:02.194955,Chopok EMEP,x,x,58,x,x,*,*,x,x
+2023-02-05 08:06:02.194955,Liptovský Mikuláš Školská,*,*,x,5,x,45,64,x,x
+2023-02-05 08:06:02.194955,Košice Ďumbierska,x,x,55,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Košice Amurská,4,5,x,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Košice Štefánikova,7,4,x,3,525,10,20,0.6,x
+2023-02-05 08:06:02.194955,Kojšovská hoľa,x,x,55,x,x,PDL,1,x,x
+2023-02-05 08:06:02.194955,Veľká Ida Letná,4,3,x,x,278,x,x,x,x
+2023-02-05 08:06:02.194955,Strážske Mierová,9,8,x,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Trebišov T. G. Masaryka,8,7,45,x,x,9,12,x,x
+2023-02-05 08:06:02.194955,Krompachy SNP,5,5,x,5,217,6,9,0.3,x
+2023-02-05 08:06:02.194955,Poprad Železničná,5,6,x,x,x,33,53,x,x
+2023-02-05 08:06:02.194955,Stará Lesná AÚ SAV EMEP,3,1,54,x,x,3,4,x,x
+2023-02-05 08:06:02.194955,Gánovce Meteo. st,x,x,*,x,x,5,9,x,x
+2023-02-05 08:06:02.194955,Prešov Arm. gen. L. Svobodu,9,8,x,x,344,15,27,0.3,x
+2023-02-05 08:06:02.194955,Humenné Nám. slobody,9,7,52,x,x,4,5,x,x
+2023-02-05 08:06:02.194955,Starina Vodná nádrž EMEP,x,x,55,x,x,1,2,x,1.2
+2023-02-05 08:06:02.194955,Kolonické sedlo,8,6,x,x,x,x,x,x,x
+2023-02-05 08:06:02.194955,Vranov nad Top. M. R. Štefánika,6,6,x,4,x,x,x,x,x
+2023-02-05 08:06:02.194955,Bardejov Pod Vinbargom,6,7,53,x,x,3,3,x,x
