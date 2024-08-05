@@ -1,501 +1,501 @@
 Datum,Stanica,PM10,PM2.5,O3,SO2,CO,NO2,NOx,Benzén,Hg
-2024-08-04 08:06:01.735513,Žilina Obežná,6,6,13,x,244,7,13,x,x
-2024-08-04 08:06:01.735513,Žiar nad Hronom Jilemnického,9,5,x,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Žarnovica,8,2,x,x,x,*,*,x,x
-2024-08-04 08:06:01.735513,Zvolen J. Alexyho,12,8,x,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Vranov nad Top. M. R. Štefánika,10,5,x,8,x,x,x,x,x
-2024-08-04 08:06:01.735513,Veľká Ida Letná,7,5,x,x,211,x,x,x,x
-2024-08-04 08:06:01.735513,Trnava Kollárova,13,8,x,x,912,*,*,0.1,x
-2024-08-04 08:06:01.735513,Trenčín Hasičská,12,5,x,PDL,194,9,14,0.2,x
-2024-08-04 08:06:01.735513,Trebišov T. G. Masaryka,2,PDL,59,x,x,3,5,x,x
-2024-08-04 08:06:01.735513,Topoľníky Aszód EMEP,12,6,13,PDL,x,4,7,x,*
-2024-08-04 08:06:01.735513,Strážske Mierová,9,4,x,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Stará Lesná AÚ SAV EMEP,4,1,*,x,x,3,4,x,x
-2024-08-04 08:06:01.735513,Starina Vodná nádrž EMEP,x,x,14,x,x,2,3,x,*
-2024-08-04 08:06:01.735513,Sereď Vinárska,14,11,x,x,x,10,13,x,x
-2024-08-04 08:06:01.735513,Senica Hviezdoslavova,2,8,x,36,x,x,x,x,x
-2024-08-04 08:06:01.735513,Senec Boldocká,16,7,25,x,*,6,11,x,x
-2024-08-04 08:06:01.735513,Ružomberok Riadok,9,5,20,7,573,4,6,0.1,x
-2024-08-04 08:06:01.735513,Rovinka mobilná AMS,9,x,x,3,549,9,12,0.9,x
-2024-08-04 08:06:01.735513,Rohožník Senická,15,7,x,15,487,PDL,13,0.1,x
-2024-08-04 08:06:01.735513,Púchov 1. mája,10,10,x,PDL,168,4,11,x,x
-2024-08-04 08:06:01.735513,Prievidza Malonecpalská,10,5,32,*,x,5,13,x,x
-2024-08-04 08:06:01.735513,Prešov Arm. gen. L. Svobodu,8,3,x,x,134,20,36,*,x
-2024-08-04 08:06:01.735513,Poprad Železničná,4,2,x,x,x,PDL,PDL,x,x
-2024-08-04 08:06:01.735513,Plášťovce,7,6,24,x,x,4,7,x,x
-2024-08-04 08:06:01.735513,Pezinok Obrancov mieru,8,2,54,x,x,4,7,x,x
-2024-08-04 08:06:01.735513,Oščadnica,14,9,7,3,x,2,4,x,x
-2024-08-04 08:06:01.735513,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 08:06:01.735513,Nitra Janíkovce,11,4,21,x,x,*,*,x,x
-2024-08-04 08:06:01.735513,Martin Jesenského,11,5,x,x,688,PDL,PDL,PDL,x
-2024-08-04 08:06:01.735513,Lučenec Gemerská cesta,8,6,9,x,158,6,13,0.1,x
-2024-08-04 08:06:01.735513,Liptovský Mikuláš Školská,11,6,x,PDL,x,5,7,x,x
-2024-08-04 08:06:01.735513,Krompachy SNP,8,6,x,*,370,3,8,*,x
-2024-08-04 08:06:01.735513,Košice Štefánikova,9,4,x,18,219,13,17,*,x
-2024-08-04 08:06:01.735513,Košice Ďumbierska,x,x,39,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Košice Amurská,8,8,x,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Komárno Vnútorná okružná,10,6,19,x,x,16,22,x,x
-2024-08-04 08:06:01.735513,Kolonické sedlo,14,12,x,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Kojšovská hoľa,x,x,*,x,x,1,2,x,x
-2024-08-04 08:06:01.735513,Jelšava Jesenského,79,22,30,x,x,2,4,x,x
-2024-08-04 08:06:01.735513,Humenné Nám. slobody,16,7,20,x,x,*,*,x,x
-2024-08-04 08:06:01.735513,Hnúšťa Hlavná,6,4,x,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Handlová Morovnianska cesta,9,5,x,33,x,x,x,x,x
-2024-08-04 08:06:01.735513,Gánovce Meteo. st,x,x,39,x,x,3,6,x,x
-2024-08-04 08:06:01.735513,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 08:06:01.735513,Bystričany Rozvodňa SSE,14,5,x,2,x,x,x,x,x
-2024-08-04 08:06:01.735513,Bratislava Trnavské Mýto,13,8,x,x,*,31,42,PDL,x
-2024-08-04 08:06:01.735513,Bratislava Púchovská,10,5,x,5,158,8,9,0.1,x
-2024-08-04 08:06:01.735513,Bratislava Mamateyova,15,8,16,PDL,x,36,47,x,x
-2024-08-04 08:06:01.735513,Bratislava Kamenné nám.,12,7,x,x,x,x,x,x,x
-2024-08-04 08:06:01.735513,Bratislava Jeséniova,9,8,70,2,x,3,4,x,x
-2024-08-04 08:06:01.735513,Bardejov Pod Vinbargom,6,4,31,x,x,13,17,x,x
-2024-08-04 08:06:01.735513,Banská Bystrica Štefánikovo nábrežie,10,11,x,11,339,12,24,PDL,x
-2024-08-04 08:06:01.735513,Banská Bystrica Zelená,34,3,38,x,x,*,*,x,x
-2024-08-04 07:06:01.879913,Žilina Obežná,15,9,8,x,261,7,11,x,x
-2024-08-04 07:06:01.879913,Žiar nad Hronom Jilemnického,8,3,x,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Žarnovica,5,8,x,x,x,5,6,x,x
-2024-08-04 07:06:01.879913,Zvolen J. Alexyho,15,7,x,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Vranov nad Top. M. R. Štefánika,11,4,x,9,x,x,x,x,x
-2024-08-04 07:06:01.879913,Veľká Ida Letná,9,3,x,x,217,x,x,x,x
-2024-08-04 07:06:01.879913,Trnava Kollárova,14,9,x,x,904,13,22,0.1,x
-2024-08-04 07:06:01.879913,Trenčín Hasičská,12,6,x,PDL,195,10,12,0.2,x
-2024-08-04 07:06:01.879913,Trebišov T. G. Masaryka,11,5,60,x,x,3,5,x,x
-2024-08-04 07:06:01.879913,Topoľníky Aszód EMEP,8,21,12,PDL,x,6,8,x,*
-2024-08-04 07:06:01.879913,Strážske Mierová,10,4,x,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Stará Lesná AÚ SAV EMEP,4,4,*,x,x,2,2,x,x
-2024-08-04 07:06:01.879913,Starina Vodná nádrž EMEP,x,x,14,x,x,3,4,x,*
-2024-08-04 07:06:01.879913,Sereď Vinárska,13,8,x,x,x,13,16,x,x
-2024-08-04 07:06:01.879913,Senica Hviezdoslavova,PDL,6,x,36,x,x,x,x,x
-2024-08-04 07:06:01.879913,Senec Boldocká,17,6,25,x,195,8,11,x,x
-2024-08-04 07:06:01.879913,Ružomberok Riadok,11,6,17,7,576,4,6,0.1,x
-2024-08-04 07:06:01.879913,Rovinka mobilná AMS,11,x,x,3,*,26,32,0.9,x
-2024-08-04 07:06:01.879913,Rohožník Senická,14,6,x,16,510,PDL,8,0.1,x
-2024-08-04 07:06:01.879913,Púchov 1. mája,10,15,x,PDL,175,3,8,x,x
-2024-08-04 07:06:01.879913,Prievidza Malonecpalská,7,9,18,*,x,8,18,x,x
-2024-08-04 07:06:01.879913,Prešov Arm. gen. L. Svobodu,9,4,x,x,*,14,23,*,x
-2024-08-04 07:06:01.879913,Poprad Železničná,7,2,x,x,x,PDL,PDL,x,x
-2024-08-04 07:06:01.879913,Plášťovce,9,8,20,x,x,5,8,x,x
-2024-08-04 07:06:01.879913,Pezinok Obrancov mieru,12,6,61,x,x,2,5,x,x
-2024-08-04 07:06:01.879913,Oščadnica,10,6,7,4,x,1,3,x,x
-2024-08-04 07:06:01.879913,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 07:06:01.879913,Nitra Janíkovce,10,5,29,x,x,11,13,x,x
-2024-08-04 07:06:01.879913,Martin Jesenského,9,6,x,x,675,PDL,PDL,PDL,x
-2024-08-04 07:06:01.879913,Lučenec Gemerská cesta,6,5,17,x,136,5,7,0.1,x
-2024-08-04 07:06:01.879913,Liptovský Mikuláš Školská,13,9,x,PDL,x,5,6,x,x
-2024-08-04 07:06:01.879913,Krompachy SNP,6,3,x,*,376,4,10,*,x
-2024-08-04 07:06:01.879913,Košice Štefánikova,8,1,x,20,204,8,12,*,x
-2024-08-04 07:06:01.879913,Košice Ďumbierska,x,x,46,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Košice Amurská,8,6,x,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Komárno Vnútorná okružná,11,8,11,x,x,20,24,x,x
-2024-08-04 07:06:01.879913,Kolonické sedlo,13,13,x,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Kojšovská hoľa,x,x,*,x,x,PDL,2,x,x
-2024-08-04 07:06:01.879913,Jelšava Jesenského,107,29,19,x,x,2,3,x,x
-2024-08-04 07:06:01.879913,Humenné Nám. slobody,14,6,*,x,x,8,10,x,x
-2024-08-04 07:06:01.879913,Hnúšťa Hlavná,7,4,x,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Handlová Morovnianska cesta,7,4,x,32,x,x,x,x,x
-2024-08-04 07:06:01.879913,Gánovce Meteo. st,x,x,38,x,x,5,8,x,x
-2024-08-04 07:06:01.879913,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 07:06:01.879913,Bystričany Rozvodňa SSE,8,5,x,2,x,x,x,x,x
-2024-08-04 07:06:01.879913,Bratislava Trnavské Mýto,14,6,x,x,157,25,30,PDL,x
-2024-08-04 07:06:01.879913,Bratislava Púchovská,10,6,x,4,161,5,7,0.1,x
-2024-08-04 07:06:01.879913,Bratislava Mamateyova,16,8,8,PDL,x,43,53,x,x
-2024-08-04 07:06:01.879913,Bratislava Kamenné nám.,15,10,x,x,x,x,x,x,x
-2024-08-04 07:06:01.879913,Bratislava Jeséniova,9,8,80,2,x,PDL,PDL,x,x
-2024-08-04 07:06:01.879913,Bardejov Pod Vinbargom,8,4,18,x,x,23,28,x,x
-2024-08-04 07:06:01.879913,Banská Bystrica Štefánikovo nábrežie,9,5,x,12,325,10,20,PDL,x
-2024-08-04 07:06:01.879913,Banská Bystrica Zelená,11,3,44,x,x,2,3,x,x
-2024-08-04 06:06:02.267447,Žilina Obežná,16,10,15,x,259,8,10,x,x
-2024-08-04 06:06:02.267447,Žiar nad Hronom Jilemnického,6,5,x,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Žarnovica,6,9,x,x,x,3,5,x,x
-2024-08-04 06:06:02.267447,Zvolen J. Alexyho,9,7,x,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Vranov nad Top. M. R. Štefánika,9,6,x,9,x,x,x,x,x
-2024-08-04 06:06:02.267447,Veľká Ida Letná,11,6,x,x,238,x,x,x,x
-2024-08-04 06:06:02.267447,Trnava Kollárova,10,9,x,x,839,9,12,0.1,x
-2024-08-04 06:06:02.267447,Trenčín Hasičská,15,9,x,PDL,198,10,12,0.2,x
-2024-08-04 06:06:02.267447,Trebišov T. G. Masaryka,4,PDL,60,x,x,2,4,x,x
-2024-08-04 06:06:02.267447,Topoľníky Aszód EMEP,7,PDL,11,PDL,x,8,10,x,*
-2024-08-04 06:06:02.267447,Strážske Mierová,10,7,x,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Stará Lesná AÚ SAV EMEP,5,5,*,x,x,1,2,x,x
-2024-08-04 06:06:02.267447,Starina Vodná nádrž EMEP,x,x,14,x,x,2,3,x,*
-2024-08-04 06:06:02.267447,Sereď Vinárska,11,8,x,x,x,12,15,x,x
-2024-08-04 06:06:02.267447,Senica Hviezdoslavova,PDL,7,x,37,x,x,x,x,x
-2024-08-04 06:06:02.267447,Senec Boldocká,10,4,33,x,176,4,3,x,x
-2024-08-04 06:06:02.267447,Ružomberok Riadok,10,6,12,6,575,4,6,0.1,x
-2024-08-04 06:06:02.267447,Rovinka mobilná AMS,9,x,x,3,411,15,16,0.7,x
-2024-08-04 06:06:02.267447,Rohožník Senická,15,PDL,x,15,477,PDL,PDL,0.1,x
-2024-08-04 06:06:02.267447,Púchov 1. mája,9,13,x,PDL,172,3,7,x,x
-2024-08-04 06:06:02.267447,Prievidza Malonecpalská,9,7,24,*,x,*,*,x,x
-2024-08-04 06:06:02.267447,Prešov Arm. gen. L. Svobodu,9,4,x,x,95,9,12,*,x
-2024-08-04 06:06:02.267447,Poprad Železničná,8,2,x,x,x,PDL,PDL,x,x
-2024-08-04 06:06:02.267447,Plášťovce,9,8,20,x,x,5,8,x,x
-2024-08-04 06:06:02.267447,Pezinok Obrancov mieru,7,5,61,x,x,3,5,x,x
-2024-08-04 06:06:02.267447,Oščadnica,9,5,10,4,x,2,4,x,x
-2024-08-04 06:06:02.267447,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 06:06:02.267447,Nitra Janíkovce,12,7,25,x,x,9,11,x,x
-2024-08-04 06:06:02.267447,Martin Jesenského,9,5,x,x,665,PDL,PDL,PDL,x
-2024-08-04 06:06:02.267447,Lučenec Gemerská cesta,6,6,15,x,141,6,8,0.1,x
-2024-08-04 06:06:02.267447,Liptovský Mikuláš Školská,12,7,x,PDL,x,4,4,x,x
-2024-08-04 06:06:02.267447,Krompachy SNP,6,5,x,*,378,3,5,*,x
-2024-08-04 06:06:02.267447,Košice Štefánikova,5,4,x,15,207,9,11,*,x
-2024-08-04 06:06:02.267447,Košice Ďumbierska,x,x,51,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Košice Amurská,11,6,x,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Komárno Vnútorná okružná,11,8,9,x,x,28,34,x,x
-2024-08-04 06:06:02.267447,Kolonické sedlo,12,9,x,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Kojšovská hoľa,x,x,*,x,x,PDL,1,x,x
-2024-08-04 06:06:02.267447,Jelšava Jesenského,91,35,22,x,x,*,*,x,x
-2024-08-04 06:06:02.267447,Humenné Nám. slobody,13,7,18,x,x,5,7,x,x
-2024-08-04 06:06:02.267447,Hnúšťa Hlavná,7,2,x,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Handlová Morovnianska cesta,8,3,x,33,x,x,x,x,x
-2024-08-04 06:06:02.267447,Gánovce Meteo. st,x,x,46,x,x,4,7,x,x
-2024-08-04 06:06:02.267447,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 06:06:02.267447,Bystričany Rozvodňa SSE,9,7,x,2,x,x,x,x,x
-2024-08-04 06:06:02.267447,Bratislava Trnavské Mýto,15,5,x,x,111,18,21,PDL,x
-2024-08-04 06:06:02.267447,Bratislava Púchovská,10,6,x,4,148,2,2,0.1,x
-2024-08-04 06:06:02.267447,Bratislava Mamateyova,17,10,19,PDL,x,29,32,x,x
-2024-08-04 06:06:02.267447,Bratislava Kamenné nám.,11,8,x,x,x,x,x,x,x
-2024-08-04 06:06:02.267447,Bratislava Jeséniova,9,8,83,1,x,PDL,PDL,x,x
-2024-08-04 06:06:02.267447,Bardejov Pod Vinbargom,6,2,28,x,x,10,12,x,x
-2024-08-04 06:06:02.267447,Banská Bystrica Štefánikovo nábrežie,8,7,x,13,340,13,22,PDL,x
-2024-08-04 06:06:02.267447,Banská Bystrica Zelená,5,3,41,x,x,2,3,x,x
-2024-08-04 05:06:02.325135,Žilina Obežná,9,8,15,x,266,7,8,x,x
-2024-08-04 05:06:02.325135,Žiar nad Hronom Jilemnického,7,3,x,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Žarnovica,6,5,x,x,x,4,6,x,x
-2024-08-04 05:06:02.325135,Zvolen J. Alexyho,8,8,x,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Vranov nad Top. M. R. Štefánika,8,7,x,8,x,x,x,x,x
-2024-08-04 05:06:02.325135,Veľká Ida Letná,10,4,x,x,238,x,x,x,x
-2024-08-04 05:06:02.325135,Trnava Kollárova,13,9,x,x,847,12,16,0.1,x
-2024-08-04 05:06:02.325135,Trenčín Hasičská,13,8,x,PDL,193,9,11,0.2,x
-2024-08-04 05:06:02.325135,Trebišov T. G. Masaryka,8,1,60,x,x,3,4,x,x
-2024-08-04 05:06:02.325135,Topoľníky Aszód EMEP,7,7,8,PDL,x,11,13,x,*
-2024-08-04 05:06:02.325135,Strážske Mierová,12,4,x,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Stará Lesná AÚ SAV EMEP,4,2,*,x,x,1,2,x,x
-2024-08-04 05:06:02.325135,Starina Vodná nádrž EMEP,x,x,16,x,x,*,*,x,*
-2024-08-04 05:06:02.325135,Sereď Vinárska,12,9,x,x,x,13,15,x,x
-2024-08-04 05:06:02.325135,Senica Hviezdoslavova,3,11,x,37,x,x,x,x,x
-2024-08-04 05:06:02.325135,Senec Boldocká,11,4,36,x,206,13,21,x,x
-2024-08-04 05:06:02.325135,Ružomberok Riadok,9,6,13,7,568,5,6,0.1,x
-2024-08-04 05:06:02.325135,Rovinka mobilná AMS,10,x,x,4,407,11,12,0.7,x
-2024-08-04 05:06:02.325135,Rohožník Senická,19,3,x,14,575,3,13,0.1,x
-2024-08-04 05:06:02.325135,Púchov 1. mája,11,12,x,PDL,174,3,7,x,x
-2024-08-04 05:06:02.325135,Prievidza Malonecpalská,7,7,32,*,x,6,11,x,x
-2024-08-04 05:06:02.325135,Prešov Arm. gen. L. Svobodu,9,4,x,x,98,5,6,*,x
-2024-08-04 05:06:02.325135,Poprad Železničná,9,2,x,x,x,PDL,PDL,x,x
-2024-08-04 05:06:02.325135,Plášťovce,8,7,24,x,x,*,*,x,x
-2024-08-04 05:06:02.325135,Pezinok Obrancov mieru,8,8,64,x,x,2,5,x,x
-2024-08-04 05:06:02.325135,Oščadnica,9,6,12,4,x,2,3,x,x
-2024-08-04 05:06:02.325135,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 05:06:02.325135,Nitra Janíkovce,13,9,26,x,x,10,12,x,x
-2024-08-04 05:06:02.325135,Martin Jesenského,8,5,x,x,669,PDL,PDL,PDL,x
-2024-08-04 05:06:02.325135,Lučenec Gemerská cesta,5,6,14,x,141,7,9,0.1,x
-2024-08-04 05:06:02.325135,Liptovský Mikuláš Školská,8,6,x,PDL,x,4,5,x,x
-2024-08-04 05:06:02.325135,Krompachy SNP,7,3,x,*,376,1,3,*,x
-2024-08-04 05:06:02.325135,Košice Štefánikova,8,4,x,14,209,8,9,*,x
-2024-08-04 05:06:02.325135,Košice Ďumbierska,x,x,62,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Košice Amurská,9,6,x,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Komárno Vnútorná okružná,12,8,11,x,x,28,34,x,x
-2024-08-04 05:06:02.325135,Kolonické sedlo,12,10,x,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Kojšovská hoľa,x,x,*,x,x,PDL,1,x,x
-2024-08-04 05:06:02.325135,Jelšava Jesenského,78,36,28,x,x,1,3,x,x
-2024-08-04 05:06:02.325135,Humenné Nám. slobody,12,5,15,x,x,4,6,x,x
-2024-08-04 05:06:02.325135,Hnúšťa Hlavná,6,3,x,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Handlová Morovnianska cesta,10,4,x,33,x,x,x,x,x
-2024-08-04 05:06:02.325135,Gánovce Meteo. st,x,x,44,x,x,5,8,x,x
-2024-08-04 05:06:02.325135,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 05:06:02.325135,Bystričany Rozvodňa SSE,15,6,x,2,x,x,x,x,x
-2024-08-04 05:06:02.325135,Bratislava Trnavské Mýto,13,6,x,x,126,23,29,PDL,x
-2024-08-04 05:06:02.325135,Bratislava Púchovská,9,7,x,4,150,3,3,0.1,x
-2024-08-04 05:06:02.325135,Bratislava Mamateyova,14,10,26,PDL,x,29,31,x,x
-2024-08-04 05:06:02.325135,Bratislava Kamenné nám.,12,6,x,x,x,x,x,x,x
-2024-08-04 05:06:02.325135,Bratislava Jeséniova,10,9,79,2,x,PDL,PDL,x,x
-2024-08-04 05:06:02.325135,Bardejov Pod Vinbargom,9,8,31,x,x,8,11,x,x
-2024-08-04 05:06:02.325135,Banská Bystrica Štefánikovo nábrežie,9,7,x,14,338,9,17,PDL,x
-2024-08-04 05:06:02.325135,Banská Bystrica Zelená,8,5,47,x,x,PDL,2,x,x
-2024-08-04 04:06:02.390577,Žilina Obežná,10,9,*,x,277,9,11,x,x
-2024-08-04 04:06:02.390577,Žiar nad Hronom Jilemnického,9,2,x,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Žarnovica,6,9,x,x,x,5,7,x,x
-2024-08-04 04:06:02.390577,Zvolen J. Alexyho,8,7,x,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Vranov nad Top. M. R. Štefánika,10,6,x,9,x,x,x,x,x
-2024-08-04 04:06:02.390577,Veľká Ida Letná,12,5,x,x,232,x,x,x,x
-2024-08-04 04:06:02.390577,Trnava Kollárova,13,5,x,x,850,13,16,0.1,x
-2024-08-04 04:06:02.390577,Trenčín Hasičská,11,6,x,PDL,197,10,12,0.1,x
-2024-08-04 04:06:02.390577,Trebišov T. G. Masaryka,16,8,63,x,x,2,4,x,x
-2024-08-04 04:06:02.390577,Topoľníky Aszód EMEP,8,24,17,PDL,x,9,11,x,*
-2024-08-04 04:06:02.390577,Strážske Mierová,12,5,x,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Stará Lesná AÚ SAV EMEP,7,4,*,x,x,2,2,x,x
-2024-08-04 04:06:02.390577,Starina Vodná nádrž EMEP,x,x,21,x,x,2,2,x,*
-2024-08-04 04:06:02.390577,Sereď Vinárska,13,10,x,x,x,15,17,x,x
-2024-08-04 04:06:02.390577,Senica Hviezdoslavova,PDL,8,x,36,x,x,x,x,x
-2024-08-04 04:06:02.390577,Senec Boldocká,9,5,45,x,196,7,11,x,x
-2024-08-04 04:06:02.390577,Ružomberok Riadok,7,4,18,6,*,5,6,0.1,x
-2024-08-04 04:06:02.390577,Rovinka mobilná AMS,12,x,x,*,403,13,15,0.8,x
-2024-08-04 04:06:02.390577,Rohožník Senická,16,10,x,15,508,3,5,0.1,x
-2024-08-04 04:06:02.390577,Púchov 1. mája,11,13,x,PDL,178,2,7,x,x
-2024-08-04 04:06:02.390577,Prievidza Malonecpalská,8,7,34,*,x,5,10,x,x
-2024-08-04 04:06:02.390577,Prešov Arm. gen. L. Svobodu,9,5,x,x,95,6,8,*,x
-2024-08-04 04:06:02.390577,Poprad Železničná,7,5,x,x,x,PDL,PDL,x,x
-2024-08-04 04:06:02.390577,Plášťovce,11,8,29,x,x,6,9,x,x
-2024-08-04 04:06:02.390577,Pezinok Obrancov mieru,6,7,71,x,x,2,4,x,x
-2024-08-04 04:06:02.390577,Oščadnica,8,5,12,4,x,2,3,x,x
-2024-08-04 04:06:02.390577,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 04:06:02.390577,Nitra Janíkovce,13,8,44,x,x,10,12,x,x
-2024-08-04 04:06:02.390577,Martin Jesenského,4,7,x,x,*,PDL,PDL,PDL,x
-2024-08-04 04:06:02.390577,Lučenec Gemerská cesta,7,4,30,x,154,6,9,0.1,x
-2024-08-04 04:06:02.390577,Liptovský Mikuláš Školská,9,6,x,PDL,x,6,6,x,x
-2024-08-04 04:06:02.390577,Krompachy SNP,8,3,x,*,386,1,3,*,x
-2024-08-04 04:06:02.390577,Košice Štefánikova,6,3,x,19,203,3,4,*,x
-2024-08-04 04:06:02.390577,Košice Ďumbierska,x,x,75,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Košice Amurská,11,5,x,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Komárno Vnútorná okružná,11,7,19,x,x,27,30,x,x
-2024-08-04 04:06:02.390577,Kolonické sedlo,11,8,x,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Kojšovská hoľa,x,x,*,x,x,PDL,1,x,x
-2024-08-04 04:06:02.390577,Jelšava Jesenského,110,33,27,x,x,2,3,x,x
-2024-08-04 04:06:02.390577,Humenné Nám. slobody,13,6,21,x,x,3,4,x,x
-2024-08-04 04:06:02.390577,Hnúšťa Hlavná,6,3,x,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Handlová Morovnianska cesta,7,4,x,32,x,x,x,x,x
-2024-08-04 04:06:02.390577,Gánovce Meteo. st,x,x,41,x,x,7,9,x,x
-2024-08-04 04:06:02.390577,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 04:06:02.390577,Bystričany Rozvodňa SSE,14,8,x,2,x,x,x,x,x
-2024-08-04 04:06:02.390577,Bratislava Trnavské Mýto,12,10,x,x,153,*,*,PDL,x
-2024-08-04 04:06:02.390577,Bratislava Púchovská,10,5,x,4,157,3,4,0.1,x
-2024-08-04 04:06:02.390577,Bratislava Mamateyova,19,12,32,PDL,x,31,34,x,x
-2024-08-04 04:06:02.390577,Bratislava Kamenné nám.,14,7,x,x,x,x,x,x,x
-2024-08-04 04:06:02.390577,Bratislava Jeséniova,8,7,90,2,x,PDL,PDL,x,x
-2024-08-04 04:06:02.390577,Bardejov Pod Vinbargom,11,9,49,x,x,2,4,x,x
-2024-08-04 04:06:02.390577,Banská Bystrica Štefánikovo nábrežie,8,8,x,14,332,7,13,PDL,x
-2024-08-04 04:06:02.390577,Banská Bystrica Zelená,8,7,54,x,x,PDL,2,x,x
-2024-08-04 03:06:02.293072,Žilina Obežná,15,11,17,x,265,9,11,x,x
-2024-08-04 03:06:02.293072,Žiar nad Hronom Jilemnického,4,2,x,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Žarnovica,9,4,x,x,x,5,7,x,x
-2024-08-04 03:06:02.293072,Zvolen J. Alexyho,12,7,x,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Vranov nad Top. M. R. Štefánika,9,6,x,8,x,x,x,x,x
-2024-08-04 03:06:02.293072,Veľká Ida Letná,12,5,x,x,262,x,x,x,x
-2024-08-04 03:06:02.293072,Trnava Kollárova,14,6,x,x,879,18,22,0.1,x
-2024-08-04 03:06:02.293072,Trenčín Hasičská,11,8,x,PDL,203,11,14,0.2,x
-2024-08-04 03:06:02.293072,Trebišov T. G. Masaryka,9,6,62,x,x,2,3,x,x
-2024-08-04 03:06:02.293072,Topoľníky Aszód EMEP,7,PDL,28,PDL,x,5,7,x,*
-2024-08-04 03:06:02.293072,Strážske Mierová,11,6,x,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Stará Lesná AÚ SAV EMEP,8,5,*,x,x,2,3,x,x
-2024-08-04 03:06:02.293072,Starina Vodná nádrž EMEP,x,x,28,x,x,2,2,x,*
-2024-08-04 03:06:02.293072,Sereď Vinárska,14,11,x,x,x,13,15,x,x
-2024-08-04 03:06:02.293072,Senica Hviezdoslavova,3,10,x,36,x,x,x,x,x
-2024-08-04 03:06:02.293072,Senec Boldocká,11,7,50,x,203,4,7,x,x
-2024-08-04 03:06:02.293072,Ružomberok Riadok,8,3,*,6,602,4,5,0.1,x
-2024-08-04 03:06:02.293072,Rovinka mobilná AMS,12,x,x,3,398,14,16,0.8,x
-2024-08-04 03:06:02.293072,Rohožník Senická,15,6,x,15,536,2,6,0.1,x
-2024-08-04 03:06:02.293072,Púchov 1. mája,9,11,x,PDL,184,3,8,x,x
-2024-08-04 03:06:02.293072,Prievidza Malonecpalská,10,7,36,*,x,7,13,x,x
-2024-08-04 03:06:02.293072,Prešov Arm. gen. L. Svobodu,9,5,x,x,104,7,11,*,x
-2024-08-04 03:06:02.293072,Poprad Železničná,7,3,x,x,x,3,4,x,x
-2024-08-04 03:06:02.293072,Plášťovce,8,6,38,x,x,6,8,x,x
-2024-08-04 03:06:02.293072,Pezinok Obrancov mieru,11,7,79,x,x,2,4,x,x
-2024-08-04 03:06:02.293072,Oščadnica,17,7,14,4,x,2,4,x,x
-2024-08-04 03:06:02.293072,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 03:06:02.293072,Nitra Janíkovce,12,7,48,x,x,7,9,x,x
-2024-08-04 03:06:02.293072,Martin Jesenského,4,5,x,x,694,PDL,PDL,PDL,x
-2024-08-04 03:06:02.293072,Lučenec Gemerská cesta,7,5,37,x,147,5,6,0.1,x
-2024-08-04 03:06:02.293072,Liptovský Mikuláš Školská,7,5,x,PDL,x,4,5,x,x
-2024-08-04 03:06:02.293072,Krompachy SNP,9,PDL,x,*,*,3,5,*,x
-2024-08-04 03:06:02.293072,Košice Štefánikova,7,5,x,17,202,4,5,*,x
-2024-08-04 03:06:02.293072,Košice Ďumbierska,x,x,73,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Košice Amurská,6,6,x,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Komárno Vnútorná okružná,8,6,27,x,x,20,23,x,x
-2024-08-04 03:06:02.293072,Kolonické sedlo,9,7,x,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Kojšovská hoľa,x,x,*,x,x,PDL,2,x,x
-2024-08-04 03:06:02.293072,Jelšava Jesenského,74,17,34,x,x,3,4,x,x
-2024-08-04 03:06:02.293072,Humenné Nám. slobody,11,7,26,x,x,3,4,x,x
-2024-08-04 03:06:02.293072,Hnúšťa Hlavná,6,3,x,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Handlová Morovnianska cesta,8,5,x,32,x,x,x,x,x
-2024-08-04 03:06:02.293072,Gánovce Meteo. st,x,x,37,x,x,8,11,x,x
-2024-08-04 03:06:02.293072,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 03:06:02.293072,Bystričany Rozvodňa SSE,16,11,x,2,x,x,x,x,x
-2024-08-04 03:06:02.293072,Bratislava Trnavské Mýto,17,9,x,x,146,24,29,PDL,x
-2024-08-04 03:06:02.293072,Bratislava Púchovská,10,6,x,4,*,2,3,0.1,x
-2024-08-04 03:06:02.293072,Bratislava Mamateyova,24,14,19,PDL,x,48,50,x,x
-2024-08-04 03:06:02.293072,Bratislava Kamenné nám.,15,10,x,x,x,x,x,x,x
-2024-08-04 03:06:02.293072,Bratislava Jeséniova,9,10,88,1,x,PDL,PDL,x,x
-2024-08-04 03:06:02.293072,Bardejov Pod Vinbargom,12,5,54,x,x,2,4,x,x
-2024-08-04 03:06:02.293072,Banská Bystrica Štefánikovo nábrežie,8,3,x,14,324,8,12,PDL,x
-2024-08-04 03:06:02.293072,Banská Bystrica Zelená,6,7,56,x,x,1,2,x,x
-2024-08-04 02:06:02.422501,Žilina Obežná,17,12,18,x,294,13,15,x,x
-2024-08-04 02:06:02.422501,Žiar nad Hronom Jilemnického,3,3,x,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Žarnovica,9,11,x,x,x,5,7,x,x
-2024-08-04 02:06:02.422501,Zvolen J. Alexyho,9,6,x,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Vranov nad Top. M. R. Štefánika,11,4,x,8,x,x,x,x,x
-2024-08-04 02:06:02.422501,Veľká Ida Letná,19,10,x,x,446,x,x,x,x
-2024-08-04 02:06:02.422501,Trnava Kollárova,15,9,x,x,907,36,44,0.2,x
-2024-08-04 02:06:02.422501,Trenčín Hasičská,8,6,x,PDL,199,9,11,0.1,x
-2024-08-04 02:06:02.422501,Trebišov T. G. Masaryka,4,3,57,x,x,2,4,x,x
-2024-08-04 02:06:02.422501,Topoľníky Aszód EMEP,5,47,34,PDL,x,5,6,x,*
-2024-08-04 02:06:02.422501,Strážske Mierová,12,6,x,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Stará Lesná AÚ SAV EMEP,6,5,*,x,x,*,*,x,x
-2024-08-04 02:06:02.422501,Starina Vodná nádrž EMEP,x,x,31,x,x,1,2,x,*
-2024-08-04 02:06:02.422501,Sereď Vinárska,14,14,x,x,x,20,22,x,x
-2024-08-04 02:06:02.422501,Senica Hviezdoslavova,2,8,x,36,x,x,x,x,x
-2024-08-04 02:06:02.422501,Senec Boldocká,10,5,57,x,229,5,14,x,x
-2024-08-04 02:06:02.422501,Ružomberok Riadok,9,5,24,6,619,5,7,0.1,x
-2024-08-04 02:06:02.422501,Rovinka mobilná AMS,14,x,x,3,386,10,12,0.7,x
-2024-08-04 02:06:02.422501,Rohožník Senická,12,3,x,15,547,PDL,3,0.1,x
-2024-08-04 02:06:02.422501,Púchov 1. mája,10,13,x,PDL,184,3,8,x,x
-2024-08-04 02:06:02.422501,Prievidza Malonecpalská,9,7,37,*,x,12,19,x,x
-2024-08-04 02:06:02.422501,Prešov Arm. gen. L. Svobodu,8,5,x,x,110,10,16,*,x
-2024-08-04 02:06:02.422501,Poprad Železničná,6,1,x,x,x,6,10,x,x
-2024-08-04 02:06:02.422501,Plášťovce,10,7,41,x,x,6,8,x,x
-2024-08-04 02:06:02.422501,Pezinok Obrancov mieru,10,8,80,x,x,3,6,x,x
-2024-08-04 02:06:02.422501,Oščadnica,10,6,14,4,x,2,4,x,x
-2024-08-04 02:06:02.422501,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 02:06:02.422501,Nitra Janíkovce,10,7,58,x,x,6,8,x,x
-2024-08-04 02:06:02.422501,Martin Jesenského,7,5,x,x,699,PDL,PDL,PDL,x
-2024-08-04 02:06:02.422501,Lučenec Gemerská cesta,5,4,28,x,146,9,11,0.1,x
-2024-08-04 02:06:02.422501,Liptovský Mikuláš Školská,6,5,x,*,x,3,4,x,x
-2024-08-04 02:06:02.422501,Krompachy SNP,10,2,x,*,402,4,7,*,x
-2024-08-04 02:06:02.422501,Košice Štefánikova,9,5,x,*,218,10,12,*,x
-2024-08-04 02:06:02.422501,Košice Ďumbierska,x,x,67,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Košice Amurská,5,6,x,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Komárno Vnútorná okružná,8,6,38,x,x,13,16,x,x
-2024-08-04 02:06:02.422501,Kolonické sedlo,10,7,x,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Kojšovská hoľa,x,x,*,x,x,PDL,2,x,x
-2024-08-04 02:06:02.422501,Jelšava Jesenského,26,8,38,x,x,2,3,x,x
-2024-08-04 02:06:02.422501,Humenné Nám. slobody,11,6,28,x,x,3,5,x,x
-2024-08-04 02:06:02.422501,Hnúšťa Hlavná,5,2,x,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Handlová Morovnianska cesta,11,7,x,32,x,x,x,x,x
-2024-08-04 02:06:02.422501,Gánovce Meteo. st,x,x,46,x,x,5,8,x,x
-2024-08-04 02:06:02.422501,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 02:06:02.422501,Bystričany Rozvodňa SSE,12,9,x,1,x,x,x,x,x
-2024-08-04 02:06:02.422501,Bratislava Trnavské Mýto,17,10,x,x,156,21,27,PDL,x
-2024-08-04 02:06:02.422501,Bratislava Púchovská,17,8,x,4,175,6,10,0.1,x
-2024-08-04 02:06:02.422501,Bratislava Mamateyova,24,13,17,PDL,x,58,60,x,x
-2024-08-04 02:06:02.422501,Bratislava Kamenné nám.,16,9,x,x,x,x,x,x,x
-2024-08-04 02:06:02.422501,Bratislava Jeséniova,10,8,97,2,x,PDL,PDL,x,x
-2024-08-04 02:06:02.422501,Bardejov Pod Vinbargom,11,1,60,x,x,2,3,x,x
-2024-08-04 02:06:02.422501,Banská Bystrica Štefánikovo nábrežie,11,7,x,13,347,10,17,PDL,x
-2024-08-04 02:06:02.422501,Banská Bystrica Zelená,7,3,63,x,x,PDL,2,x,x
-2024-08-04 01:06:04.473098,Žilina Obežná,12,7,24,x,278,15,17,x,x
-2024-08-04 01:06:04.473098,Žiar nad Hronom Jilemnického,8,4,x,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Žarnovica,10,10,x,x,x,8,9,x,x
-2024-08-04 01:06:04.473098,Zvolen J. Alexyho,7,5,x,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Vranov nad Top. M. R. Štefánika,9,5,x,8,x,x,x,x,x
-2024-08-04 01:06:04.473098,Veľká Ida Letná,9,7,x,x,301,x,x,x,x
-2024-08-04 01:06:04.473098,Trnava Kollárova,13,10,x,x,*,37,51,0.2,x
-2024-08-04 01:06:04.473098,Trenčín Hasičská,11,7,x,PDL,207,11,13,0.2,x
-2024-08-04 01:06:04.473098,Trebišov T. G. Masaryka,16,8,60,x,x,2,4,x,x
-2024-08-04 01:06:04.473098,Topoľníky Aszód EMEP,4,13,49,PDL,x,3,5,x,*
-2024-08-04 01:06:04.473098,Strážske Mierová,10,5,x,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Stará Lesná AÚ SAV EMEP,5,2,*,x,x,2,3,x,x
-2024-08-04 01:06:04.473098,Starina Vodná nádrž EMEP,x,x,44,x,x,2,3,x,*
-2024-08-04 01:06:04.473098,Sereď Vinárska,14,12,x,x,x,28,34,x,x
-2024-08-04 01:06:04.473098,Senica Hviezdoslavova,5,9,x,36,x,x,x,x,x
-2024-08-04 01:06:04.473098,Senec Boldocká,13,8,58,x,231,10,18,x,x
-2024-08-04 01:06:04.473098,Ružomberok Riadok,8,6,27,6,630,*,*,0.1,x
-2024-08-04 01:06:04.473098,Rovinka mobilná AMS,12,x,x,4,374,20,22,0.8,x
-2024-08-04 01:06:04.473098,Rohožník Senická,12,5,x,14,472,PDL,3,0.1,x
-2024-08-04 01:06:04.473098,Púchov 1. mája,12,13,x,PDL,194,3,8,x,x
-2024-08-04 01:06:04.473098,Prievidza Malonecpalská,11,10,31,*,x,18,26,x,x
-2024-08-04 01:06:04.473098,Prešov Arm. gen. L. Svobodu,8,6,x,x,128,21,32,*,x
-2024-08-04 01:06:04.473098,Poprad Železničná,6,2,x,x,x,1,2,x,x
-2024-08-04 01:06:04.473098,Plášťovce,10,7,44,x,x,7,10,x,x
-2024-08-04 01:06:04.473098,Pezinok Obrancov mieru,10,7,82,x,x,5,7,x,x
-2024-08-04 01:06:04.473098,Oščadnica,10,7,20,4,x,3,4,x,x
-2024-08-04 01:06:04.473098,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 01:06:04.473098,Nitra Janíkovce,10,5,51,x,x,11,12,x,x
-2024-08-04 01:06:04.473098,Martin Jesenského,8,3,x,x,708,PDL,PDL,PDL,x
-2024-08-04 01:06:04.473098,Lučenec Gemerská cesta,5,4,33,x,143,9,12,0.1,x
-2024-08-04 01:06:04.473098,Liptovský Mikuláš Školská,11,2,x,PDL,x,3,3,x,x
-2024-08-04 01:06:04.473098,Krompachy SNP,11,4,x,*,404,*,*,*,x
-2024-08-04 01:06:04.473098,Košice Štefánikova,10,5,x,18,230,15,18,*,x
-2024-08-04 01:06:04.473098,Košice Ďumbierska,x,x,54,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Košice Amurská,7,5,x,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Komárno Vnútorná okružná,6,6,49,x,x,10,12,x,x
-2024-08-04 01:06:04.473098,Kolonické sedlo,10,7,x,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Kojšovská hoľa,x,x,*,x,x,PDL,1,x,x
-2024-08-04 01:06:04.473098,Jelšava Jesenského,10,4,40,x,x,3,5,x,x
-2024-08-04 01:06:04.473098,Humenné Nám. slobody,11,6,30,x,x,6,7,x,x
-2024-08-04 01:06:04.473098,Hnúšťa Hlavná,5,3,x,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Handlová Morovnianska cesta,12,9,x,32,x,x,x,x,x
-2024-08-04 01:06:04.473098,Gánovce Meteo. st,x,x,45,x,x,7,9,x,x
-2024-08-04 01:06:04.473098,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 01:06:04.473098,Bystričany Rozvodňa SSE,8,6,x,1,x,x,x,x,x
-2024-08-04 01:06:04.473098,Bratislava Trnavské Mýto,15,9,x,x,156,39,46,PDL,x
-2024-08-04 01:06:04.473098,Bratislava Púchovská,19,8,x,4,169,4,5,0.1,x
-2024-08-04 01:06:04.473098,Bratislava Mamateyova,24,13,20,PDL,x,59,60,x,x
-2024-08-04 01:06:04.473098,Bratislava Kamenné nám.,16,10,x,x,x,x,x,x,x
-2024-08-04 01:06:04.473098,Bratislava Jeséniova,12,9,*,2,x,PDL,PDL,x,x
-2024-08-04 01:06:04.473098,Bardejov Pod Vinbargom,12,3,65,x,x,2,4,x,x
-2024-08-04 01:06:04.473098,Banská Bystrica Štefánikovo nábrežie,7,7,x,13,340,12,18,PDL,x
-2024-08-04 01:06:04.473098,Banská Bystrica Zelená,5,2,66,x,x,PDL,2,x,x
-2024-08-04 00:06:01.679505,Žilina Obežná,17,9,29,x,304,20,24,x,x
-2024-08-04 00:06:01.679505,Žiar nad Hronom Jilemnického,7,7,x,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Žarnovica,12,11,x,x,x,15,17,x,x
-2024-08-04 00:06:01.679505,Zvolen J. Alexyho,8,5,x,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Vranov nad Top. M. R. Štefánika,8,6,x,7,x,x,x,x,x
-2024-08-04 00:06:01.679505,Veľká Ida Letná,9,10,x,x,227,x,x,x,x
-2024-08-04 00:06:01.679505,Trnava Kollárova,14,11,x,x,956,51,75,0.2,x
-2024-08-04 00:06:01.679505,Trenčín Hasičská,13,7,x,PDL,223,17,19,0.2,x
-2024-08-04 00:06:01.679505,Trebišov T. G. Masaryka,7,3,59,x,x,3,5,x,x
-2024-08-04 00:06:01.679505,Topoľníky Aszód EMEP,5,5,35,PDL,x,6,7,x,*
-2024-08-04 00:06:01.679505,Strážske Mierová,9,5,x,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Stará Lesná AÚ SAV EMEP,3,PDL,*,x,x,2,2,x,x
-2024-08-04 00:06:01.679505,Starina Vodná nádrž EMEP,x,x,*,x,x,2,2,x,*
-2024-08-04 00:06:01.679505,Sereď Vinárska,11,8,x,x,x,18,21,x,x
-2024-08-04 00:06:01.679505,Senica Hviezdoslavova,7,10,x,34,x,x,x,x,x
-2024-08-04 00:06:01.679505,Senec Boldocká,17,7,48,x,237,17,30,x,x
-2024-08-04 00:06:01.679505,Ružomberok Riadok,9,6,27,6,648,12,13,0.1,x
-2024-08-04 00:06:01.679505,Rovinka mobilná AMS,16,x,x,4,352,21,23,0.7,x
-2024-08-04 00:06:01.679505,Rohožník Senická,8,5,x,14,480,PDL,2,0.1,x
-2024-08-04 00:06:01.679505,Púchov 1. mája,11,12,x,PDL,195,4,8,x,x
-2024-08-04 00:06:01.679505,Prievidza Malonecpalská,10,8,45,*,x,17,27,x,x
-2024-08-04 00:06:01.679505,Prešov Arm. gen. L. Svobodu,12,6,x,x,129,20,41,*,x
-2024-08-04 00:06:01.679505,Poprad Železničná,3,2,x,x,x,4,7,x,x
-2024-08-04 00:06:01.679505,Plášťovce,9,9,53,x,x,7,9,x,x
-2024-08-04 00:06:01.679505,Pezinok Obrancov mieru,10,6,81,x,x,5,8,x,x
-2024-08-04 00:06:01.679505,Oščadnica,13,8,21,4,x,3,4,x,x
-2024-08-04 00:06:01.679505,Nitra Štúrova,*,*,x,*,*,*,*,*,x
-2024-08-04 00:06:01.679505,Nitra Janíkovce,8,8,50,x,x,14,15,x,x
-2024-08-04 00:06:01.679505,Martin Jesenského,6,4,x,x,700,PDL,PDL,PDL,x
-2024-08-04 00:06:01.679505,Lučenec Gemerská cesta,6,5,55,x,151,7,10,0.1,x
-2024-08-04 00:06:01.679505,Liptovský Mikuláš Školská,7,4,x,PDL,x,4,5,x,x
-2024-08-04 00:06:01.679505,Krompachy SNP,11,5,x,*,408,7,13,*,x
-2024-08-04 00:06:01.679505,Košice Štefánikova,5,3,x,12,224,10,12,*,x
-2024-08-04 00:06:01.679505,Košice Ďumbierska,x,x,63,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Košice Amurská,7,6,x,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Komárno Vnútorná okružná,6,5,54,x,x,10,11,x,x
-2024-08-04 00:06:01.679505,Kolonické sedlo,9,5,x,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Kojšovská hoľa,x,x,*,x,x,1,2,x,x
-2024-08-04 00:06:01.679505,Jelšava Jesenského,12,7,50,x,x,4,6,x,x
-2024-08-04 00:06:01.679505,Humenné Nám. slobody,9,6,43,x,x,5,6,x,x
-2024-08-04 00:06:01.679505,Hnúšťa Hlavná,7,4,x,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Handlová Morovnianska cesta,11,8,x,32,x,x,x,x,x
-2024-08-04 00:06:01.679505,Gánovce Meteo. st,x,x,54,x,x,3,6,x,x
-2024-08-04 00:06:01.679505,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-04 00:06:01.679505,Bystričany Rozvodňa SSE,9,7,x,2,x,x,x,x,x
-2024-08-04 00:06:01.679505,Bratislava Trnavské Mýto,15,10,x,x,166,34,41,PDL,x
-2024-08-04 00:06:01.679505,Bratislava Púchovská,17,8,x,5,201,10,11,0.1,x
-2024-08-04 00:06:01.679505,Bratislava Mamateyova,21,11,37,PDL,x,51,53,x,x
-2024-08-04 00:06:01.679505,Bratislava Kamenné nám.,12,8,x,x,x,x,x,x,x
-2024-08-04 00:06:01.679505,Bratislava Jeséniova,11,8,95,3,x,4,4,x,x
-2024-08-04 00:06:01.679505,Bardejov Pod Vinbargom,11,3,65,x,x,*,*,x,x
-2024-08-04 00:06:01.679505,Banská Bystrica Štefánikovo nábrežie,8,8,x,13,339,9,14,PDL,x
-2024-08-04 00:06:01.679505,Banská Bystrica Zelená,6,5,69,x,x,1,2,x,x
-2024-08-03 23:06:05.665633,Žilina Obežná,14,9,25,x,347,27,33,x,x
-2024-08-03 23:06:05.665633,Vranov nad Top. M. R. Štefánika,9,5,x,*,x,x,x,x,x
-2024-08-03 23:06:05.665633,Veľká Ida Letná,10,9,x,x,214,x,x,x,x
-2024-08-03 23:06:05.665633,Trebišov T. G. Masaryka,6,2,57,x,x,4,5,x,x
-2024-08-03 23:06:05.665633,Strážske Mierová,8,4,x,x,x,x,x,x,x
-2024-08-03 23:06:05.665633,Stará Lesná AÚ SAV EMEP,6,4,*,x,x,3,3,x,x
-2024-08-03 23:06:05.665633,Starina Vodná nádrž EMEP,x,x,56,x,x,2,2,x,*
-2024-08-03 23:06:05.665633,Ružomberok Riadok,7,7,35,6,658,11,12,0.1,x
-2024-08-03 23:06:05.665633,Prešov Arm. gen. L. Svobodu,10,6,x,x,166,25,46,*,x
-2024-08-03 23:06:05.665633,Poprad Železničná,3,3,x,x,x,PDL,PDL,x,x
-2024-08-03 23:06:05.665633,Oščadnica,16,12,29,4,x,4,5,x,x
-2024-08-03 23:06:05.665633,Martin Jesenského,6,6,x,x,695,PDL,PDL,PDL,x
-2024-08-03 23:06:05.665633,Liptovský Mikuláš Školská,5,4,x,PDL,x,4,5,x,x
-2024-08-03 23:06:05.665633,Krompachy SNP,11,6,x,*,414,7,11,*,x
-2024-08-03 23:06:05.665633,Košice Štefánikova,6,3,x,19,221,6,9,*,x
-2024-08-03 23:06:05.665633,Košice Ďumbierska,x,x,52,x,x,x,x,x,x
-2024-08-03 23:06:05.665633,Košice Amurská,8,4,x,x,x,x,x,x,x
-2024-08-03 23:06:05.665633,Kolonické sedlo,7,5,x,x,x,x,x,x,x
-2024-08-03 23:06:05.665633,Kojšovská hoľa,x,x,*,x,x,1,3,x,x
-2024-08-03 23:06:05.665633,Humenné Nám. slobody,7,4,52,x,x,3,4,x,x
-2024-08-03 23:06:05.665633,Gánovce Meteo. st,x,x,73,x,x,2,4,x,x
-2024-08-03 23:06:05.665633,Chopok EMEP,x,x,*,x,x,*,*,x,x
-2024-08-03 23:06:05.665633,Bardejov Pod Vinbargom,9,5,63,x,x,3,4,x,x
+2024-08-05 08:06:03.007468,Žilina Obežná,19,8,10,x,303,18,28,x,x
+2024-08-05 08:06:03.007468,Žiar nad Hronom Jilemnického,12,6,x,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Žarnovica,10,9,x,x,x,8,15,x,x
+2024-08-05 08:06:03.007468,Zvolen J. Alexyho,12,8,x,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Vranov nad Top. M. R. Štefánika,11,8,x,8,x,x,x,x,x
+2024-08-05 08:06:03.007468,Veľká Ida Letná,11,9,x,x,273,x,x,x,x
+2024-08-05 08:06:03.007468,Trnava Kollárova,16,6,x,x,1030,37,75,0.2,x
+2024-08-05 08:06:03.007468,Trenčín Hasičská,17,5,x,PDL,288,23,60,0.2,x
+2024-08-05 08:06:03.007468,Trebišov T. G. Masaryka,12,5,29,x,x,9,11,x,x
+2024-08-05 08:06:03.007468,Topoľníky Aszód EMEP,17,8,11,PDL,x,6,10,x,*
+2024-08-05 08:06:03.007468,Strážske Mierová,12,7,x,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Stará Lesná AÚ SAV EMEP,9,6,*,x,x,2,3,x,x
+2024-08-05 08:06:03.007468,Starina Vodná nádrž EMEP,x,x,32,x,x,PDL,2,x,*
+2024-08-05 08:06:03.007468,Sereď Vinárska,10,7,x,x,x,21,28,x,x
+2024-08-05 08:06:03.007468,Senica Hviezdoslavova,6,7,x,37,x,x,x,x,x
+2024-08-05 08:06:03.007468,Senec Boldocká,9,7,37,x,276,21,37,x,x
+2024-08-05 08:06:03.007468,Ružomberok Riadok,16,8,15,7,716,20,55,0.1,x
+2024-08-05 08:06:03.007468,Rovinka mobilná AMS,6,x,x,3,397,19,23,1.6,x
+2024-08-05 08:06:03.007468,Rohožník Senická,8,2,x,14,417,4,21,0.1,x
+2024-08-05 08:06:03.007468,Púchov 1. mája,7,10,x,PDL,192,10,18,x,x
+2024-08-05 08:06:03.007468,Prievidza Malonecpalská,12,8,9,*,x,*,*,x,x
+2024-08-05 08:06:03.007468,Prešov Arm. gen. L. Svobodu,18,11,x,x,*,37,144,*,x
+2024-08-05 08:06:03.007468,Poprad Železničná,12,7,x,x,x,14,20,x,x
+2024-08-05 08:06:03.007468,Plášťovce,14,8,9,x,x,4,11,x,x
+2024-08-05 08:06:03.007468,Pezinok Obrancov mieru,7,7,54,x,x,10,13,x,x
+2024-08-05 08:06:03.007468,Oščadnica,7,5,8,3,x,3,5,x,x
+2024-08-05 08:06:03.007468,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 08:06:03.007468,Nitra Janíkovce,14,8,26,x,x,15,19,x,x
+2024-08-05 08:06:03.007468,Martin Jesenského,17,8,x,x,772,PDL,PDL,0.1,x
+2024-08-05 08:06:03.007468,Lučenec Gemerská cesta,19,13,17,x,207,19,38,0.2,x
+2024-08-05 08:06:03.007468,Liptovský Mikuláš Školská,15,10,x,PDL,x,15,22,x,x
+2024-08-05 08:06:03.007468,Krompachy SNP,11,6,x,*,453,10,27,*,x
+2024-08-05 08:06:03.007468,Košice Štefánikova,11,6,x,21,292,11,20,*,x
+2024-08-05 08:06:03.007468,Košice Ďumbierska,x,x,32,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Košice Amurská,10,8,x,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Komárno Vnútorná okružná,10,9,26,x,x,20,26,x,x
+2024-08-05 08:06:03.007468,Kolonické sedlo,11,9,x,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Kojšovská hoľa,x,x,*,x,x,PDL,2,x,x
+2024-08-05 08:06:03.007468,Jelšava Jesenského,21,7,25,x,x,*,*,x,x
+2024-08-05 08:06:03.007468,Humenné Nám. slobody,12,8,*,x,x,3,5,x,x
+2024-08-05 08:06:03.007468,Hnúšťa Hlavná,11,9,x,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Handlová Morovnianska cesta,12,5,x,33,x,x,x,x,x
+2024-08-05 08:06:03.007468,Gánovce Meteo. st,x,x,25,x,x,14,21,x,x
+2024-08-05 08:06:03.007468,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 08:06:03.007468,Bystričany Rozvodňa SSE,14,8,x,2,x,x,x,x,x
+2024-08-05 08:06:03.007468,Bratislava Trnavské Mýto,9,6,x,x,168,33,76,PDL,x
+2024-08-05 08:06:03.007468,Bratislava Púchovská,10,5,x,4,200,7,10,0.1,x
+2024-08-05 08:06:03.007468,Bratislava Mamateyova,14,6,41,PDL,x,14,17,x,x
+2024-08-05 08:06:03.007468,Bratislava Kamenné nám.,8,6,x,x,x,x,x,x,x
+2024-08-05 08:06:03.007468,Bratislava Jeséniova,7,5,61,2,x,PDL,PDL,x,x
+2024-08-05 08:06:03.007468,Bardejov Pod Vinbargom,12,12,24,x,x,6,10,x,x
+2024-08-05 08:06:03.007468,Banská Bystrica Štefánikovo nábrežie,26,13,x,15,465,34,116,*,x
+2024-08-05 08:06:03.007468,Banská Bystrica Zelená,PDL,9,23,x,x,12,16,x,x
+2024-08-05 07:06:02.089546,Žilina Obežná,12,10,7,x,278,12,18,x,x
+2024-08-05 07:06:02.089546,Žiar nad Hronom Jilemnického,9,4,x,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Žarnovica,7,4,x,x,x,8,11,x,x
+2024-08-05 07:06:02.089546,Zvolen J. Alexyho,8,8,x,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Vranov nad Top. M. R. Štefánika,9,6,x,8,x,x,x,x,x
+2024-08-05 07:06:02.089546,Veľká Ida Letná,26,16,x,x,321,x,x,x,x
+2024-08-05 07:06:02.089546,Trnava Kollárova,18,10,x,x,1063,34,76,0.1,x
+2024-08-05 07:06:02.089546,Trenčín Hasičská,10,2,x,PDL,224,16,25,0.1,x
+2024-08-05 07:06:02.089546,Trebišov T. G. Masaryka,14,9,28,x,x,8,11,x,x
+2024-08-05 07:06:02.089546,Topoľníky Aszód EMEP,28,30,12,PDL,x,16,38,x,*
+2024-08-05 07:06:02.089546,Strážske Mierová,11,6,x,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Stará Lesná AÚ SAV EMEP,6,6,*,x,x,2,3,x,x
+2024-08-05 07:06:02.089546,Starina Vodná nádrž EMEP,x,x,26,x,x,*,*,x,*
+2024-08-05 07:06:02.089546,Sereď Vinárska,10,10,x,x,x,22,29,x,x
+2024-08-05 07:06:02.089546,Senica Hviezdoslavova,7,12,x,36,x,x,x,x,x
+2024-08-05 07:06:02.089546,Senec Boldocká,6,3,31,x,243,20,31,x,x
+2024-08-05 07:06:02.089546,Ružomberok Riadok,10,5,22,7,618,10,16,0.1,x
+2024-08-05 07:06:02.089546,Rovinka mobilná AMS,8,x,x,4,397,13,15,1.6,x
+2024-08-05 07:06:02.089546,Rohožník Senická,8,PDL,x,15,517,4,17,0.1,x
+2024-08-05 07:06:02.089546,Púchov 1. mája,9,9,x,PDL,188,8,14,x,x
+2024-08-05 07:06:02.089546,Prievidza Malonecpalská,13,7,4,*,x,15,53,x,x
+2024-08-05 07:06:02.089546,Prešov Arm. gen. L. Svobodu,12,8,x,x,194,29,78,*,x
+2024-08-05 07:06:02.089546,Poprad Železničná,9,6,x,x,x,14,23,x,x
+2024-08-05 07:06:02.089546,Plášťovce,11,6,6,x,x,8,19,x,x
+2024-08-05 07:06:02.089546,Pezinok Obrancov mieru,7,4,55,x,x,8,11,x,x
+2024-08-05 07:06:02.089546,Oščadnica,3,2,7,3,x,3,6,x,x
+2024-08-05 07:06:02.089546,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 07:06:02.089546,Nitra Janíkovce,10,10,29,x,x,12,15,x,x
+2024-08-05 07:06:02.089546,Martin Jesenského,11,5,x,x,793,PDL,PDL,PDL,x
+2024-08-05 07:06:02.089546,Lučenec Gemerská cesta,14,10,23,x,191,16,27,0.1,x
+2024-08-05 07:06:02.089546,Liptovský Mikuláš Školská,14,10,x,PDL,x,11,14,x,x
+2024-08-05 07:06:02.089546,Krompachy SNP,9,6,x,*,444,8,16,*,x
+2024-08-05 07:06:02.089546,Košice Štefánikova,9,6,x,24,276,7,12,*,x
+2024-08-05 07:06:02.089546,Košice Ďumbierska,x,x,27,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Košice Amurská,10,5,x,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Komárno Vnútorná okružná,8,7,33,x,x,12,14,x,x
+2024-08-05 07:06:02.089546,Kolonické sedlo,12,10,x,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Kojšovská hoľa,x,x,*,x,x,1,2,x,x
+2024-08-05 07:06:02.089546,Jelšava Jesenského,25,8,28,x,x,2,3,x,x
+2024-08-05 07:06:02.089546,Humenné Nám. slobody,12,10,16,x,x,3,5,x,x
+2024-08-05 07:06:02.089546,Hnúšťa Hlavná,12,8,x,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Handlová Morovnianska cesta,9,4,x,32,x,x,x,x,x
+2024-08-05 07:06:02.089546,Gánovce Meteo. st,x,x,32,x,x,5,8,x,x
+2024-08-05 07:06:02.089546,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 07:06:02.089546,Bystričany Rozvodňa SSE,13,7,x,2,x,x,x,x,x
+2024-08-05 07:06:02.089546,Bratislava Trnavské Mýto,8,3,x,x,125,20,35,PDL,x
+2024-08-05 07:06:02.089546,Bratislava Púchovská,15,7,x,4,189,5,6,0.1,x
+2024-08-05 07:06:02.089546,Bratislava Mamateyova,14,8,40,PDL,x,12,14,x,x
+2024-08-05 07:06:02.089546,Bratislava Kamenné nám.,10,7,x,x,x,x,x,x,x
+2024-08-05 07:06:02.089546,Bratislava Jeséniova,6,5,62,2,x,PDL,PDL,x,x
+2024-08-05 07:06:02.089546,Bardejov Pod Vinbargom,12,9,17,x,x,11,16,x,x
+2024-08-05 07:06:02.089546,Banská Bystrica Štefánikovo nábrežie,17,10,x,14,404,24,61,PDL,x
+2024-08-05 07:06:02.089546,Banská Bystrica Zelená,PDL,8,30,x,x,8,10,x,x
+2024-08-05 06:06:02.469178,Žilina Obežná,9,9,*,x,275,10,16,x,x
+2024-08-05 06:06:02.469178,Žiar nad Hronom Jilemnického,8,4,x,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Žarnovica,7,4,x,x,x,4,6,x,x
+2024-08-05 06:06:02.469178,Zvolen J. Alexyho,6,8,x,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Vranov nad Top. M. R. Štefánika,12,8,x,8,x,x,x,x,x
+2024-08-05 06:06:02.469178,Veľká Ida Letná,38,26,x,x,472,x,x,x,x
+2024-08-05 06:06:02.469178,Trnava Kollárova,15,11,x,x,949,19,28,0.1,x
+2024-08-05 06:06:02.469178,Trenčín Hasičská,12,1,x,PDL,200,10,13,0.1,x
+2024-08-05 06:06:02.469178,Trebišov T. G. Masaryka,11,5,34,x,x,7,9,x,x
+2024-08-05 06:06:02.469178,Topoľníky Aszód EMEP,13,12,15,PDL,x,6,8,x,*
+2024-08-05 06:06:02.469178,Strážske Mierová,10,5,x,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Stará Lesná AÚ SAV EMEP,7,6,*,x,x,1,2,x,x
+2024-08-05 06:06:02.469178,Starina Vodná nádrž EMEP,x,x,23,x,x,PDL,1,x,*
+2024-08-05 06:06:02.469178,Sereď Vinárska,11,12,x,x,x,17,20,x,x
+2024-08-05 06:06:02.469178,Senica Hviezdoslavova,5,7,x,36,x,x,x,x,x
+2024-08-05 06:06:02.469178,Senec Boldocká,9,9,42,x,206,8,9,x,x
+2024-08-05 06:06:02.469178,Ružomberok Riadok,10,4,20,7,*,8,10,0.1,x
+2024-08-05 06:06:02.469178,Rovinka mobilná AMS,11,x,x,*,392,13,16,1.1,x
+2024-08-05 06:06:02.469178,Rohožník Senická,7,1,x,16,504,6,21,0.1,x
+2024-08-05 06:06:02.469178,Púchov 1. mája,11,11,x,PDL,186,6,11,x,x
+2024-08-05 06:06:02.469178,Prievidza Malonecpalská,11,8,7,*,x,12,24,x,x
+2024-08-05 06:06:02.469178,Prešov Arm. gen. L. Svobodu,11,8,x,x,143,29,60,*,x
+2024-08-05 06:06:02.469178,Poprad Železničná,10,7,x,x,x,1,4,x,x
+2024-08-05 06:06:02.469178,Plášťovce,13,7,7,x,x,9,17,x,x
+2024-08-05 06:06:02.469178,Pezinok Obrancov mieru,6,3,58,x,x,5,8,x,x
+2024-08-05 06:06:02.469178,Oščadnica,3,3,7,3,x,2,3,x,x
+2024-08-05 06:06:02.469178,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 06:06:02.469178,Nitra Janíkovce,12,7,32,x,x,9,11,x,x
+2024-08-05 06:06:02.469178,Martin Jesenského,9,4,x,x,*,PDL,PDL,PDL,x
+2024-08-05 06:06:02.469178,Lučenec Gemerská cesta,14,11,31,x,161,9,13,0.1,x
+2024-08-05 06:06:02.469178,Liptovský Mikuláš Školská,13,9,x,PDL,x,9,10,x,x
+2024-08-05 06:06:02.469178,Krompachy SNP,7,6,x,*,405,3,5,*,x
+2024-08-05 06:06:02.469178,Košice Štefánikova,8,6,x,18,243,3,5,*,x
+2024-08-05 06:06:02.469178,Košice Ďumbierska,x,x,41,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Košice Amurská,9,3,x,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Komárno Vnútorná okružná,10,7,28,x,x,14,17,x,x
+2024-08-05 06:06:02.469178,Kolonické sedlo,14,9,x,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Kojšovská hoľa,x,x,*,x,x,1,2,x,x
+2024-08-05 06:06:02.469178,Jelšava Jesenského,28,7,29,x,x,2,3,x,x
+2024-08-05 06:06:02.469178,Humenné Nám. slobody,15,8,18,x,x,2,3,x,x
+2024-08-05 06:06:02.469178,Hnúšťa Hlavná,11,9,x,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Handlová Morovnianska cesta,9,5,x,33,x,x,x,x,x
+2024-08-05 06:06:02.469178,Gánovce Meteo. st,x,x,27,x,x,6,9,x,x
+2024-08-05 06:06:02.469178,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 06:06:02.469178,Bystričany Rozvodňa SSE,13,7,x,2,x,x,x,x,x
+2024-08-05 06:06:02.469178,Bratislava Trnavské Mýto,9,7,x,x,102,*,*,PDL,x
+2024-08-05 06:06:02.469178,Bratislava Púchovská,9,6,x,4,184,4,5,0.1,x
+2024-08-05 06:06:02.469178,Bratislava Mamateyova,17,8,37,PDL,x,10,12,x,x
+2024-08-05 06:06:02.469178,Bratislava Kamenné nám.,12,11,x,x,x,x,x,x,x
+2024-08-05 06:06:02.469178,Bratislava Jeséniova,8,8,60,2,x,PDL,PDL,x,x
+2024-08-05 06:06:02.469178,Bardejov Pod Vinbargom,11,9,32,x,x,4,6,x,x
+2024-08-05 06:06:02.469178,Banská Bystrica Štefánikovo nábrežie,12,11,x,13,347,15,24,PDL,x
+2024-08-05 06:06:02.469178,Banská Bystrica Zelená,PDL,4,56,x,x,2,3,x,x
+2024-08-05 05:06:02.550827,Žilina Obežná,3,5,12,x,260,7,10,x,x
+2024-08-05 05:06:02.550827,Žiar nad Hronom Jilemnického,5,3,x,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Žarnovica,6,6,x,x,x,4,6,x,x
+2024-08-05 05:06:02.550827,Zvolen J. Alexyho,9,7,x,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Vranov nad Top. M. R. Štefánika,12,6,x,7,x,x,x,x,x
+2024-08-05 05:06:02.550827,Veľká Ida Letná,24,14,x,x,448,x,x,x,x
+2024-08-05 05:06:02.550827,Trnava Kollárova,12,10,x,x,919,17,22,0.1,x
+2024-08-05 05:06:02.550827,Trenčín Hasičská,11,5,x,PDL,194,6,8,0.1,x
+2024-08-05 05:06:02.550827,Trebišov T. G. Masaryka,19,9,35,x,x,7,9,x,x
+2024-08-05 05:06:02.550827,Topoľníky Aszód EMEP,16,12,24,PDL,x,6,9,x,*
+2024-08-05 05:06:02.550827,Strážske Mierová,13,6,x,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Stará Lesná AÚ SAV EMEP,10,7,*,x,x,1,2,x,x
+2024-08-05 05:06:02.550827,Starina Vodná nádrž EMEP,x,x,29,x,x,PDL,1,x,*
+2024-08-05 05:06:02.550827,Sereď Vinárska,12,12,x,x,x,14,17,x,x
+2024-08-05 05:06:02.550827,Senica Hviezdoslavova,5,7,x,37,x,x,x,x,x
+2024-08-05 05:06:02.550827,Senec Boldocká,11,8,31,x,218,6,5,x,x
+2024-08-05 05:06:02.550827,Ružomberok Riadok,10,6,*,6,600,4,5,0.1,x
+2024-08-05 05:06:02.550827,Rovinka mobilná AMS,7,x,x,3,388,13,15,1,x
+2024-08-05 05:06:02.550827,Rohožník Senická,7,PDL,x,15,494,2,9,0.1,x
+2024-08-05 05:06:02.550827,Púchov 1. mája,10,11,x,PDL,187,5,10,x,x
+2024-08-05 05:06:02.550827,Prievidza Malonecpalská,12,10,12,*,x,8,15,x,x
+2024-08-05 05:06:02.550827,Prešov Arm. gen. L. Svobodu,11,8,x,x,130,24,36,*,x
+2024-08-05 05:06:02.550827,Poprad Železničná,11,6,x,x,x,PDL,PDL,x,x
+2024-08-05 05:06:02.550827,Plášťovce,11,4,8,x,x,9,14,x,x
+2024-08-05 05:06:02.550827,Pezinok Obrancov mieru,10,5,41,x,x,12,15,x,x
+2024-08-05 05:06:02.550827,Oščadnica,6,2,8,3,x,1,3,x,x
+2024-08-05 05:06:02.550827,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 05:06:02.550827,Nitra Janíkovce,15,8,43,x,x,8,10,x,x
+2024-08-05 05:06:02.550827,Martin Jesenského,9,7,x,x,687,PDL,PDL,PDL,x
+2024-08-05 05:06:02.550827,Lučenec Gemerská cesta,12,10,39,x,162,7,10,0.1,x
+2024-08-05 05:06:02.550827,Liptovský Mikuláš Školská,12,10,x,PDL,x,5,6,x,x
+2024-08-05 05:06:02.550827,Krompachy SNP,7,8,x,*,405,2,4,*,x
+2024-08-05 05:06:02.550827,Košice Štefánikova,8,3,x,8,227,3,5,*,x
+2024-08-05 05:06:02.550827,Košice Ďumbierska,x,x,34,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Košice Amurská,10,5,x,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Komárno Vnútorná okružná,12,4,33,x,x,14,16,x,x
+2024-08-05 05:06:02.550827,Kolonické sedlo,13,8,x,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Kojšovská hoľa,x,x,*,x,x,1,3,x,x
+2024-08-05 05:06:02.550827,Jelšava Jesenského,21,6,31,x,x,2,4,x,x
+2024-08-05 05:06:02.550827,Humenné Nám. slobody,13,6,20,x,x,2,4,x,x
+2024-08-05 05:06:02.550827,Hnúšťa Hlavná,12,8,x,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Handlová Morovnianska cesta,10,7,x,33,x,x,x,x,x
+2024-08-05 05:06:02.550827,Gánovce Meteo. st,x,x,33,x,x,6,9,x,x
+2024-08-05 05:06:02.550827,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 05:06:02.550827,Bystričany Rozvodňa SSE,11,7,x,2,x,x,x,x,x
+2024-08-05 05:06:02.550827,Bratislava Trnavské Mýto,11,7,x,x,105,14,17,PDL,x
+2024-08-05 05:06:02.550827,Bratislava Púchovská,7,7,x,4,*,4,5,0.1,x
+2024-08-05 05:06:02.550827,Bratislava Mamateyova,15,8,24,PDL,x,15,18,x,x
+2024-08-05 05:06:02.550827,Bratislava Kamenné nám.,7,11,x,x,x,x,x,x,x
+2024-08-05 05:06:02.550827,Bratislava Jeséniova,9,7,58,1,x,PDL,1,x,x
+2024-08-05 05:06:02.550827,Bardejov Pod Vinbargom,12,9,40,x,x,3,4,x,x
+2024-08-05 05:06:02.550827,Banská Bystrica Štefánikovo nábrežie,12,9,x,14,342,6,11,PDL,x
+2024-08-05 05:06:02.550827,Banská Bystrica Zelená,PDL,2,63,x,x,1,3,x,x
+2024-08-05 04:06:02.710861,Žilina Obežná,13,10,17,x,267,6,7,x,x
+2024-08-05 04:06:02.710861,Žiar nad Hronom Jilemnického,9,6,x,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Žarnovica,6,7,x,x,x,3,6,x,x
+2024-08-05 04:06:02.710861,Zvolen J. Alexyho,10,7,x,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Vranov nad Top. M. R. Štefánika,13,5,x,8,x,x,x,x,x
+2024-08-05 04:06:02.710861,Veľká Ida Letná,16,8,x,x,305,x,x,x,x
+2024-08-05 04:06:02.710861,Trnava Kollárova,15,8,x,x,908,14,18,0.1,x
+2024-08-05 04:06:02.710861,Trenčín Hasičská,10,6,x,PDL,196,5,7,0.1,x
+2024-08-05 04:06:02.710861,Trebišov T. G. Masaryka,13,7,31,x,x,9,11,x,x
+2024-08-05 04:06:02.710861,Topoľníky Aszód EMEP,13,9,22,PDL,x,9,11,x,*
+2024-08-05 04:06:02.710861,Strážske Mierová,14,8,x,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Stará Lesná AÚ SAV EMEP,7,7,*,x,x,2,2,x,x
+2024-08-05 04:06:02.710861,Starina Vodná nádrž EMEP,x,x,31,x,x,PDL,1,x,*
+2024-08-05 04:06:02.710861,Sereď Vinárska,11,11,x,x,x,13,17,x,x
+2024-08-05 04:06:02.710861,Senica Hviezdoslavova,3,6,x,36,x,x,x,x,x
+2024-08-05 04:06:02.710861,Senec Boldocká,10,5,41,x,207,5,5,x,x
+2024-08-05 04:06:02.710861,Ružomberok Riadok,12,8,35,7,618,4,5,0.1,x
+2024-08-05 04:06:02.710861,Rovinka mobilná AMS,8,x,x,3,386,15,17,1,x
+2024-08-05 04:06:02.710861,Rohožník Senická,12,PDL,x,11,444,PDL,PDL,0.1,x
+2024-08-05 04:06:02.710861,Púchov 1. mája,12,13,x,PDL,192,6,11,x,x
+2024-08-05 04:06:02.710861,Prievidza Malonecpalská,13,9,16,*,x,7,13,x,x
+2024-08-05 04:06:02.710861,Prešov Arm. gen. L. Svobodu,13,10,x,x,129,21,37,*,x
+2024-08-05 04:06:02.710861,Poprad Železničná,9,7,x,x,x,PDL,PDL,x,x
+2024-08-05 04:06:02.710861,Plášťovce,10,9,13,x,x,7,11,x,x
+2024-08-05 04:06:02.710861,Pezinok Obrancov mieru,8,5,31,x,x,14,18,x,x
+2024-08-05 04:06:02.710861,Oščadnica,12,7,12,3,x,2,3,x,x
+2024-08-05 04:06:02.710861,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 04:06:02.710861,Nitra Janíkovce,27,22,36,x,x,9,11,x,x
+2024-08-05 04:06:02.710861,Martin Jesenského,9,7,x,x,712,PDL,PDL,PDL,x
+2024-08-05 04:06:02.710861,Lučenec Gemerská cesta,13,11,35,x,159,7,9,0.1,x
+2024-08-05 04:06:02.710861,Liptovský Mikuláš Školská,13,12,x,*,x,2,3,x,x
+2024-08-05 04:06:02.710861,Krompachy SNP,7,6,x,*,*,3,4,*,x
+2024-08-05 04:06:02.710861,Košice Štefánikova,6,5,x,*,226,5,7,*,x
+2024-08-05 04:06:02.710861,Košice Ďumbierska,x,x,38,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Košice Amurská,11,6,x,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Komárno Vnútorná okružná,6,6,37,x,x,14,16,x,x
+2024-08-05 04:06:02.710861,Kolonické sedlo,13,10,x,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Kojšovská hoľa,x,x,*,x,x,1,2,x,x
+2024-08-05 04:06:02.710861,Jelšava Jesenského,21,8,33,x,x,2,3,x,x
+2024-08-05 04:06:02.710861,Humenné Nám. slobody,14,7,23,x,x,2,4,x,x
+2024-08-05 04:06:02.710861,Hnúšťa Hlavná,13,9,x,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Handlová Morovnianska cesta,9,7,x,32,x,x,x,x,x
+2024-08-05 04:06:02.710861,Gánovce Meteo. st,x,x,41,x,x,7,9,x,x
+2024-08-05 04:06:02.710861,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 04:06:02.710861,Bystričany Rozvodňa SSE,12,8,x,2,x,x,x,x,x
+2024-08-05 04:06:02.710861,Bratislava Trnavské Mýto,11,6,x,x,114,30,33,PDL,x
+2024-08-05 04:06:02.710861,Bratislava Púchovská,9,7,x,4,184,5,5,0.1,x
+2024-08-05 04:06:02.710861,Bratislava Mamateyova,5,8,27,PDL,x,17,19,x,x
+2024-08-05 04:06:02.710861,Bratislava Kamenné nám.,12,11,x,x,x,x,x,x,x
+2024-08-05 04:06:02.710861,Bratislava Jeséniova,11,10,62,1,x,PDL,1,x,x
+2024-08-05 04:06:02.710861,Bardejov Pod Vinbargom,10,13,49,x,x,3,4,x,x
+2024-08-05 04:06:02.710861,Banská Bystrica Štefánikovo nábrežie,11,8,x,13,341,5,9,PDL,x
+2024-08-05 04:06:02.710861,Banská Bystrica Zelená,PDL,5,57,x,x,2,3,x,x
+2024-08-05 03:06:02.652905,Žilina Obežná,12,8,28,x,268,5,6,x,x
+2024-08-05 03:06:02.652905,Žiar nad Hronom Jilemnického,6,8,x,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Žarnovica,6,7,x,x,x,3,6,x,x
+2024-08-05 03:06:02.652905,Zvolen J. Alexyho,10,7,x,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Vranov nad Top. M. R. Štefánika,15,9,x,8,x,x,x,x,x
+2024-08-05 03:06:02.652905,Veľká Ida Letná,31,11,x,x,249,x,x,x,x
+2024-08-05 03:06:02.652905,Trnava Kollárova,12,10,x,x,*,13,17,0.1,x
+2024-08-05 03:06:02.652905,Trenčín Hasičská,9,7,x,PDL,197,6,8,0.1,x
+2024-08-05 03:06:02.652905,Trebišov T. G. Masaryka,17,8,36,x,x,9,11,x,x
+2024-08-05 03:06:02.652905,Topoľníky Aszód EMEP,13,6,24,PDL,x,9,11,x,*
+2024-08-05 03:06:02.652905,Strážske Mierová,11,8,x,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Stará Lesná AÚ SAV EMEP,7,5,*,x,x,*,*,x,x
+2024-08-05 03:06:02.652905,Starina Vodná nádrž EMEP,x,x,31,x,x,PDL,1,x,*
+2024-08-05 03:06:02.652905,Sereď Vinárska,13,12,x,x,x,13,15,x,x
+2024-08-05 03:06:02.652905,Senica Hviezdoslavova,3,6,x,36,x,x,x,x,x
+2024-08-05 03:06:02.652905,Senec Boldocká,12,4,55,x,208,2,PDL,x,x
+2024-08-05 03:06:02.652905,Ružomberok Riadok,13,8,39,7,625,*,*,0.1,x
+2024-08-05 03:06:02.652905,Rovinka mobilná AMS,7,x,x,3,388,15,17,1.1,x
+2024-08-05 03:06:02.652905,Rohožník Senická,10,PDL,x,12,482,PDL,PDL,PDL,x
+2024-08-05 03:06:02.652905,Púchov 1. mája,9,11,x,PDL,205,6,12,x,x
+2024-08-05 03:06:02.652905,Prievidza Malonecpalská,11,11,23,*,x,6,11,x,x
+2024-08-05 03:06:02.652905,Prešov Arm. gen. L. Svobodu,15,9,x,x,132,21,31,*,x
+2024-08-05 03:06:02.652905,Poprad Železničná,8,7,x,x,x,PDL,PDL,x,x
+2024-08-05 03:06:02.652905,Plášťovce,14,5,17,x,x,8,11,x,x
+2024-08-05 03:06:02.652905,Pezinok Obrancov mieru,11,9,27,x,x,16,20,x,x
+2024-08-05 03:06:02.652905,Oščadnica,15,11,13,3,x,2,4,x,x
+2024-08-05 03:06:02.652905,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 03:06:02.652905,Nitra Janíkovce,20,15,44,x,x,10,12,x,x
+2024-08-05 03:06:02.652905,Martin Jesenského,12,10,x,x,712,PDL,PDL,PDL,x
+2024-08-05 03:06:02.652905,Lučenec Gemerská cesta,13,10,46,x,163,6,8,0.1,x
+2024-08-05 03:06:02.652905,Liptovský Mikuláš Školská,14,3,x,PDL,x,2,3,x,x
+2024-08-05 03:06:02.652905,Krompachy SNP,8,5,x,*,395,1,3,*,x
+2024-08-05 03:06:02.652905,Košice Štefánikova,7,6,x,25,216,5,6,*,x
+2024-08-05 03:06:02.652905,Košice Ďumbierska,x,x,51,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Košice Amurská,15,7,x,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Komárno Vnútorná okružná,8,5,44,x,x,8,10,x,x
+2024-08-05 03:06:02.652905,Kolonické sedlo,12,11,x,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Kojšovská hoľa,x,x,*,x,x,1,2,x,x
+2024-08-05 03:06:02.652905,Jelšava Jesenského,19,6,35,x,x,3,5,x,x
+2024-08-05 03:06:02.652905,Humenné Nám. slobody,12,6,24,x,x,2,4,x,x
+2024-08-05 03:06:02.652905,Hnúšťa Hlavná,13,9,x,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Handlová Morovnianska cesta,11,8,x,32,x,x,x,x,x
+2024-08-05 03:06:02.652905,Gánovce Meteo. st,x,x,50,x,x,3,5,x,x
+2024-08-05 03:06:02.652905,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 03:06:02.652905,Bystričany Rozvodňa SSE,14,7,x,2,x,x,x,x,x
+2024-08-05 03:06:02.652905,Bratislava Trnavské Mýto,11,5,x,x,110,27,29,PDL,x
+2024-08-05 03:06:02.652905,Bratislava Púchovská,12,10,x,4,198,9,10,0.1,x
+2024-08-05 03:06:02.652905,Bratislava Mamateyova,14,8,32,PDL,x,15,17,x,x
+2024-08-05 03:06:02.652905,Bratislava Kamenné nám.,11,14,x,x,x,x,x,x,x
+2024-08-05 03:06:02.652905,Bratislava Jeséniova,11,8,*,1,x,3,4,x,x
+2024-08-05 03:06:02.652905,Bardejov Pod Vinbargom,10,6,50,x,x,5,6,x,x
+2024-08-05 03:06:02.652905,Banská Bystrica Štefánikovo nábrežie,11,9,x,12,347,5,9,PDL,x
+2024-08-05 03:06:02.652905,Banská Bystrica Zelená,PDL,5,77,x,x,PDL,2,x,x
+2024-08-05 02:06:03.525250,Žilina Obežná,17,10,23,x,295,10,11,x,x
+2024-08-05 02:06:03.525250,Žiar nad Hronom Jilemnického,7,6,x,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Žarnovica,7,6,x,x,x,4,6,x,x
+2024-08-05 02:06:03.525250,Zvolen J. Alexyho,10,9,x,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Vranov nad Top. M. R. Štefánika,12,8,x,8,x,x,x,x,x
+2024-08-05 02:06:03.525250,Veľká Ida Letná,29,14,x,x,249,x,x,x,x
+2024-08-05 02:06:03.525250,Trnava Kollárova,12,8,x,x,922,14,19,0.1,x
+2024-08-05 02:06:03.525250,Trenčín Hasičská,10,8,x,PDL,206,7,9,0.1,x
+2024-08-05 02:06:03.525250,Trebišov T. G. Masaryka,23,14,23,x,x,23,25,x,x
+2024-08-05 02:06:03.525250,Topoľníky Aszód EMEP,12,6,31,PDL,x,6,8,x,*
+2024-08-05 02:06:03.525250,Strážske Mierová,15,8,x,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Stará Lesná AÚ SAV EMEP,9,6,*,x,x,2,3,x,x
+2024-08-05 02:06:03.525250,Starina Vodná nádrž EMEP,x,x,*,x,x,1,2,x,*
+2024-08-05 02:06:03.525250,Sereď Vinárska,13,7,x,x,x,18,20,x,x
+2024-08-05 02:06:03.525250,Senica Hviezdoslavova,5,9,x,36,x,x,x,x,x
+2024-08-05 02:06:03.525250,Senec Boldocká,13,6,50,x,212,7,7,x,x
+2024-08-05 02:06:03.525250,Ružomberok Riadok,8,7,45,8,608,4,5,0.1,x
+2024-08-05 02:06:03.525250,Rovinka mobilná AMS,7,x,x,3,387,8,10,1,x
+2024-08-05 02:06:03.525250,Rohožník Senická,9,2,x,14,481,PDL,PDL,0.1,x
+2024-08-05 02:06:03.525250,Púchov 1. mája,11,12,x,PDL,201,3,8,x,x
+2024-08-05 02:06:03.525250,Prievidza Malonecpalská,11,7,26,*,x,7,12,x,x
+2024-08-05 02:06:03.525250,Prešov Arm. gen. L. Svobodu,15,11,x,x,136,28,53,*,x
+2024-08-05 02:06:03.525250,Poprad Železničná,9,6,x,x,x,PDL,PDL,x,x
+2024-08-05 02:06:03.525250,Plášťovce,13,11,21,x,x,9,12,x,x
+2024-08-05 02:06:03.525250,Pezinok Obrancov mieru,10,8,22,x,x,18,23,x,x
+2024-08-05 02:06:03.525250,Oščadnica,11,8,14,3,x,3,4,x,x
+2024-08-05 02:06:03.525250,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 02:06:03.525250,Nitra Janíkovce,13,10,53,x,x,7,9,x,x
+2024-08-05 02:06:03.525250,Martin Jesenského,13,10,x,x,728,PDL,PDL,PDL,x
+2024-08-05 02:06:03.525250,Lučenec Gemerská cesta,14,11,55,x,176,9,13,0.1,x
+2024-08-05 02:06:03.525250,Liptovský Mikuláš Školská,12,13,x,PDL,x,3,3,x,x
+2024-08-05 02:06:03.525250,Krompachy SNP,11,6,x,*,395,*,*,*,x
+2024-08-05 02:06:03.525250,Košice Štefánikova,9,5,x,20,211,5,6,*,x
+2024-08-05 02:06:03.525250,Košice Ďumbierska,x,x,68,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Košice Amurská,15,10,x,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Komárno Vnútorná okružná,10,6,60,x,x,7,9,x,x
+2024-08-05 02:06:03.525250,Kolonické sedlo,11,11,x,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Kojšovská hoľa,x,x,*,x,x,1,2,x,x
+2024-08-05 02:06:03.525250,Jelšava Jesenského,21,6,38,x,x,3,4,x,x
+2024-08-05 02:06:03.525250,Humenné Nám. slobody,14,7,33,x,x,3,4,x,x
+2024-08-05 02:06:03.525250,Hnúšťa Hlavná,12,9,x,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Handlová Morovnianska cesta,14,10,x,33,x,x,x,x,x
+2024-08-05 02:06:03.525250,Gánovce Meteo. st,x,x,44,x,x,3,5,x,x
+2024-08-05 02:06:03.525250,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 02:06:03.525250,Bystričany Rozvodňa SSE,11,8,x,2,x,x,x,x,x
+2024-08-05 02:06:03.525250,Bratislava Trnavské Mýto,14,8,x,x,106,24,26,PDL,x
+2024-08-05 02:06:03.525250,Bratislava Púchovská,13,10,x,4,209,12,13,0.1,x
+2024-08-05 02:06:03.525250,Bratislava Mamateyova,17,9,30,PDL,x,17,19,x,x
+2024-08-05 02:06:03.525250,Bratislava Kamenné nám.,9,12,x,x,x,x,x,x,x
+2024-08-05 02:06:03.525250,Bratislava Jeséniova,12,11,74,1,x,3,3,x,x
+2024-08-05 02:06:03.525250,Bardejov Pod Vinbargom,11,8,55,x,x,*,*,x,x
+2024-08-05 02:06:03.525250,Banská Bystrica Štefánikovo nábrežie,12,8,x,13,352,9,14,PDL,x
+2024-08-05 02:06:03.525250,Banská Bystrica Zelená,PDL,5,84,x,x,PDL,2,x,x
+2024-08-05 01:06:02.063916,Žilina Obežná,14,10,30,x,338,16,18,x,x
+2024-08-05 01:06:02.063916,Žiar nad Hronom Jilemnického,10,8,x,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Žarnovica,9,7,x,x,x,5,7,x,x
+2024-08-05 01:06:02.063916,Zvolen J. Alexyho,11,9,x,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Vranov nad Top. M. R. Štefánika,15,8,x,*,x,x,x,x,x
+2024-08-05 01:06:02.063916,Veľká Ida Letná,22,16,x,x,256,x,x,x,x
+2024-08-05 01:06:02.063916,Trnava Kollárova,12,7,x,x,947,18,25,0.1,x
+2024-08-05 01:06:02.063916,Trenčín Hasičská,12,8,x,*,226,12,14,0.2,x
+2024-08-05 01:06:02.063916,Trebišov T. G. Masaryka,26,13,33,x,x,16,19,x,x
+2024-08-05 01:06:02.063916,Topoľníky Aszód EMEP,14,6,24,PDL,x,6,8,x,*
+2024-08-05 01:06:02.063916,Strážske Mierová,16,11,x,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Stará Lesná AÚ SAV EMEP,11,5,*,x,x,2,3,x,x
+2024-08-05 01:06:02.063916,Starina Vodná nádrž EMEP,x,x,32,x,x,1,2,x,*
+2024-08-05 01:06:02.063916,Sereď Vinárska,11,7,x,x,x,19,22,x,x
+2024-08-05 01:06:02.063916,Senica Hviezdoslavova,6,10,x,35,x,x,x,x,x
+2024-08-05 01:06:02.063916,Senec Boldocká,9,6,57,x,215,9,9,x,x
+2024-08-05 01:06:02.063916,Ružomberok Riadok,8,6,64,7,617,4,4,0.1,x
+2024-08-05 01:06:02.063916,Rovinka mobilná AMS,PDL,x,x,3,381,9,11,1.2,x
+2024-08-05 01:06:02.063916,Rohožník Senická,9,PDL,x,*,460,PDL,PDL,0.1,x
+2024-08-05 01:06:02.063916,Púchov 1. mája,9,9,x,PDL,192,5,10,x,x
+2024-08-05 01:06:02.063916,Prievidza Malonecpalská,12,10,30,*,x,8,14,x,x
+2024-08-05 01:06:02.063916,Prešov Arm. gen. L. Svobodu,15,10,x,x,155,18,29,*,x
+2024-08-05 01:06:02.063916,Poprad Železničná,9,8,x,x,x,PDL,PDL,x,x
+2024-08-05 01:06:02.063916,Plášťovce,13,9,32,x,x,8,11,x,x
+2024-08-05 01:06:02.063916,Pezinok Obrancov mieru,9,8,31,x,x,17,21,x,x
+2024-08-05 01:06:02.063916,Oščadnica,16,11,20,3,x,2,4,x,x
+2024-08-05 01:06:02.063916,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 01:06:02.063916,Nitra Janíkovce,11,7,58,x,x,7,9,x,x
+2024-08-05 01:06:02.063916,Martin Jesenského,14,8,x,x,740,PDL,PDL,PDL,x
+2024-08-05 01:06:02.063916,Lučenec Gemerská cesta,16,11,71,x,172,6,9,0.1,x
+2024-08-05 01:06:02.063916,Liptovský Mikuláš Školská,16,16,x,PDL,x,4,5,x,x
+2024-08-05 01:06:02.063916,Krompachy SNP,9,5,x,*,399,4,6,*,x
+2024-08-05 01:06:02.063916,Košice Štefánikova,14,5,x,20,227,11,13,*,x
+2024-08-05 01:06:02.063916,Košice Ďumbierska,x,x,60,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Košice Amurská,13,8,x,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Komárno Vnútorná okružná,9,6,61,x,x,8,11,x,x
+2024-08-05 01:06:02.063916,Kolonické sedlo,10,10,x,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Kojšovská hoľa,x,x,*,x,x,2,3,x,x
+2024-08-05 01:06:02.063916,Jelšava Jesenského,22,9,41,x,x,3,4,x,x
+2024-08-05 01:06:02.063916,Humenné Nám. slobody,14,7,36,x,x,4,5,x,x
+2024-08-05 01:06:02.063916,Hnúšťa Hlavná,13,11,x,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Handlová Morovnianska cesta,12,10,x,32,x,x,x,x,x
+2024-08-05 01:06:02.063916,Gánovce Meteo. st,x,x,50,x,x,2,4,x,x
+2024-08-05 01:06:02.063916,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 01:06:02.063916,Bystričany Rozvodňa SSE,11,6,x,2,x,x,x,x,x
+2024-08-05 01:06:02.063916,Bratislava Trnavské Mýto,14,7,x,x,128,49,56,PDL,x
+2024-08-05 01:06:02.063916,Bratislava Púchovská,12,7,x,4,195,7,8,0.1,x
+2024-08-05 01:06:02.063916,Bratislava Mamateyova,18,9,25,PDL,x,28,31,x,x
+2024-08-05 01:06:02.063916,Bratislava Kamenné nám.,8,6,x,x,x,x,x,x,x
+2024-08-05 01:06:02.063916,Bratislava Jeséniova,10,8,75,1,x,*,*,x,x
+2024-08-05 01:06:02.063916,Bardejov Pod Vinbargom,12,11,51,x,x,6,8,x,x
+2024-08-05 01:06:02.063916,Banská Bystrica Štefánikovo nábrežie,11,8,x,13,355,6,10,PDL,x
+2024-08-05 01:06:02.063916,Banská Bystrica Zelená,PDL,7,79,x,x,2,3,x,x
+2024-08-05 00:06:02.063655,Žilina Obežná,13,8,44,x,344,18,21,x,x
+2024-08-05 00:06:02.063655,Žiar nad Hronom Jilemnického,12,8,x,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Žarnovica,8,9,x,x,x,5,8,x,x
+2024-08-05 00:06:02.063655,Zvolen J. Alexyho,14,12,x,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Vranov nad Top. M. R. Štefánika,13,10,x,8,x,x,x,x,x
+2024-08-05 00:06:02.063655,Veľká Ida Letná,24,21,x,x,304,x,x,x,x
+2024-08-05 00:06:02.063655,Trnava Kollárova,12,11,x,x,927,30,44,0.1,x
+2024-08-05 00:06:02.063655,Trenčín Hasičská,9,9,x,PDL,223,18,21,0.1,x
+2024-08-05 00:06:02.063655,Trebišov T. G. Masaryka,23,16,41,x,x,17,20,x,x
+2024-08-05 00:06:02.063655,Topoľníky Aszód EMEP,12,6,28,PDL,x,5,6,x,*
+2024-08-05 00:06:02.063655,Strážske Mierová,18,14,x,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Stará Lesná AÚ SAV EMEP,8,5,*,x,x,2,2,x,x
+2024-08-05 00:06:02.063655,Starina Vodná nádrž EMEP,x,x,40,x,x,1,2,x,*
+2024-08-05 00:06:02.063655,Sereď Vinárska,10,8,x,x,x,19,21,x,x
+2024-08-05 00:06:02.063655,Senica Hviezdoslavova,8,7,x,35,x,x,x,x,x
+2024-08-05 00:06:02.063655,Senec Boldocká,11,4,53,x,222,14,17,x,x
+2024-08-05 00:06:02.063655,Ružomberok Riadok,11,8,69,7,638,5,6,0.1,x
+2024-08-05 00:06:02.063655,Rovinka mobilná AMS,5,x,x,4,376,14,16,1.3,x
+2024-08-05 00:06:02.063655,Rohožník Senická,10,4,x,14,487,PDL,PDL,PDL,x
+2024-08-05 00:06:02.063655,Púchov 1. mája,9,10,x,PDL,206,7,12,x,x
+2024-08-05 00:06:02.063655,Prievidza Malonecpalská,10,10,31,*,x,14,21,x,x
+2024-08-05 00:06:02.063655,Prešov Arm. gen. L. Svobodu,15,8,x,x,177,36,53,*,x
+2024-08-05 00:06:02.063655,Poprad Železničná,10,11,x,x,x,PDL,PDL,x,x
+2024-08-05 00:06:02.063655,Plášťovce,15,7,37,x,x,8,11,x,x
+2024-08-05 00:06:02.063655,Pezinok Obrancov mieru,12,7,48,x,x,15,19,x,x
+2024-08-05 00:06:02.063655,Oščadnica,12,7,23,3,x,3,4,x,x
+2024-08-05 00:06:02.063655,Nitra Štúrova,*,*,x,*,*,*,*,*,x
+2024-08-05 00:06:02.063655,Nitra Janíkovce,5,9,65,x,x,8,10,x,x
+2024-08-05 00:06:02.063655,Martin Jesenského,14,8,x,x,747,PDL,PDL,PDL,x
+2024-08-05 00:06:02.063655,Lučenec Gemerská cesta,16,12,81,x,*,7,9,0.1,x
+2024-08-05 00:06:02.063655,Liptovský Mikuláš Školská,20,14,x,PDL,x,6,7,x,x
+2024-08-05 00:06:02.063655,Krompachy SNP,11,10,x,*,397,4,6,*,x
+2024-08-05 00:06:02.063655,Košice Štefánikova,13,8,x,25,*,23,27,*,x
+2024-08-05 00:06:02.063655,Košice Ďumbierska,x,x,66,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Košice Amurská,11,10,x,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Komárno Vnútorná okružná,7,8,65,x,x,7,9,x,x
+2024-08-05 00:06:02.063655,Kolonické sedlo,12,9,x,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Kojšovská hoľa,x,x,*,x,x,2,3,x,x
+2024-08-05 00:06:02.063655,Jelšava Jesenského,19,10,46,x,x,3,4,x,x
+2024-08-05 00:06:02.063655,Humenné Nám. slobody,14,7,42,x,x,4,5,x,x
+2024-08-05 00:06:02.063655,Hnúšťa Hlavná,13,11,x,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Handlová Morovnianska cesta,14,10,x,32,x,x,x,x,x
+2024-08-05 00:06:02.063655,Gánovce Meteo. st,x,x,68,x,x,2,4,x,x
+2024-08-05 00:06:02.063655,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-05 00:06:02.063655,Bystričany Rozvodňa SSE,15,8,x,2,x,x,x,x,x
+2024-08-05 00:06:02.063655,Bratislava Trnavské Mýto,10,7,x,x,143,33,46,PDL,x
+2024-08-05 00:06:02.063655,Bratislava Púchovská,10,6,x,4,184,4,4,0.1,x
+2024-08-05 00:06:02.063655,Bratislava Mamateyova,18,9,44,PDL,x,22,25,x,x
+2024-08-05 00:06:02.063655,Bratislava Kamenné nám.,9,8,x,x,x,x,x,x,x
+2024-08-05 00:06:02.063655,Bratislava Jeséniova,8,7,80,2,x,PDL,2,x,x
+2024-08-05 00:06:02.063655,Bardejov Pod Vinbargom,10,8,45,x,x,7,9,x,x
+2024-08-05 00:06:02.063655,Banská Bystrica Štefánikovo nábrežie,16,11,x,13,372,10,15,PDL,x
+2024-08-05 00:06:02.063655,Banská Bystrica Zelená,PDL,10,76,x,x,2,3,x,x
+2024-08-04 23:06:01.816684,Žilina Obežná,13,13,63,x,*,21,23,x,x
+2024-08-04 23:06:01.816684,Vranov nad Top. M. R. Štefánika,22,14,x,8,x,x,x,x,x
+2024-08-04 23:06:01.816684,Veľká Ida Letná,21,12,x,x,287,x,x,x,x
+2024-08-04 23:06:01.816684,Trebišov T. G. Masaryka,11,11,59,x,x,12,14,x,x
+2024-08-04 23:06:01.816684,Strážske Mierová,14,10,x,x,x,x,x,x,x
+2024-08-04 23:06:01.816684,Stará Lesná AÚ SAV EMEP,9,5,*,x,x,2,2,x,x
+2024-08-04 23:06:01.816684,Starina Vodná nádrž EMEP,x,x,43,x,x,2,3,x,*
+2024-08-04 23:06:01.816684,Ružomberok Riadok,15,10,74,5,643,7,8,0.1,x
+2024-08-04 23:06:01.816684,Prešov Arm. gen. L. Svobodu,14,11,x,x,133,24,36,*,x
+2024-08-04 23:06:01.816684,Poprad Železničná,12,9,x,x,x,PDL,PDL,x,x
+2024-08-04 23:06:01.816684,Oščadnica,13,11,31,3,x,3,4,x,x
+2024-08-04 23:06:01.816684,Martin Jesenského,14,10,x,x,743,PDL,PDL,PDL,x
+2024-08-04 23:06:01.816684,Liptovský Mikuláš Školská,17,13,x,PDL,x,7,8,x,x
+2024-08-04 23:06:01.816684,Krompachy SNP,10,7,x,*,412,8,11,*,x
+2024-08-04 23:06:01.816684,Košice Štefánikova,14,10,x,27,249,28,36,*,x
+2024-08-04 23:06:01.816684,Košice Ďumbierska,x,x,70,x,x,x,x,x,x
+2024-08-04 23:06:01.816684,Košice Amurská,10,9,x,x,x,x,x,x,x
+2024-08-04 23:06:01.816684,Kolonické sedlo,11,8,x,x,x,x,x,x,x
+2024-08-04 23:06:01.816684,Kojšovská hoľa,x,x,*,x,x,PDL,2,x,x
+2024-08-04 23:06:01.816684,Humenné Nám. slobody,13,7,50,x,x,5,7,x,x
+2024-08-04 23:06:01.816684,Gánovce Meteo. st,x,x,70,x,x,2,5,x,x
+2024-08-04 23:06:01.816684,Chopok EMEP,x,x,*,x,x,*,*,x,x
+2024-08-04 23:06:01.816684,Bardejov Pod Vinbargom,17,9,38,x,x,15,17,x,x
